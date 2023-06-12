@@ -1,0 +1,3 @@
+{"popup_rules":
+    [{"id":"btn_dismiss","action":"btn_dismiss"},
+     {"id":"iv_close","action":"iv_close"}]}
