@@ -1,0 +1,3 @@
+{"popup_rules":
+    [{"id":"有新版本","action":"imageView_close"},
+     {"id":"版本更新","action":"GLOBAL_ACTION_BACK"}]}
