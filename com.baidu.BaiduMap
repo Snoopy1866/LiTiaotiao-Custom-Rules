@@ -2,4 +2,3 @@
     [{"id":"cancel_update","action":"cancel_update"},
      {"id":"yellow_banner_close","action":"yellow_banner_close"},
      {"id":"close_btn","action":"close_btn"}]}
-s
