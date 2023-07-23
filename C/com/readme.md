@@ -9,6 +9,7 @@
 - [com.cnspeedtest.globalspeed](./com.cnspeedtest.globalspeed/readme.md)（全球网测）
 - [com.daimajia.gold](./com.daimajia.gold/readme.md)（稀土掘金）
 - [com.eg.android.AlipayGphone](./com.eg.android.AlipayGphone/readme.md)（支付宝）
+- [com.hose.ekuaibao](./com.hose.ekuaibao/readme.md)（易快报）
 - [com.jin10](./com.jin10/readme.md)（金十数据）
 - [com.jingdong.app.mall](./com.jingdong.app.mall/readme.md)（京东）
 - [com.sankuai.meituan](./com.sankuai.meituan/readme.md)（美团）
