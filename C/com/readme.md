@@ -6,6 +6,7 @@
 - [com.eg.android.AlipayGphone](./com.eg.android.AlipayGphone/readme.md)（支付宝）
 - [com.jingdong.app.mall](./com.jingdong.app.mall/readme.md)（京东）
 - [com.sankuai.meituan](./com.sankuai.meituan/readme.md)（美团）
+- [com.ss.android.ugc.aweme](./com.ss.android.ugc.aweme/readme.md)（抖音）
 - [com.taobao.idlefish](./com.taobao.idlefish/readme.md)（闲鱼）
 - [com.taptap](./com.taptap/readme.md)（TapTap）
 - [com.tencent.qqmusic](./com.tencent.qqmusic/readme.md)（QQ音乐）
