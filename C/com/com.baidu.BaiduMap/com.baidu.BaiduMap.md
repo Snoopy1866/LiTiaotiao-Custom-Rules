@@ -19,6 +19,8 @@
 ![](./assets/yellow_banner_close.jpg)
 
 ### {"id":"close_btn","action":"close_btn"}
+去除打车界面右侧悬浮广告。
+![](./assets/close_btn.jpg)
 
 ### {"id":"operational_activities_content_close","action":"operational_activities_content_close"}
 去除打车界面弹出广告。
