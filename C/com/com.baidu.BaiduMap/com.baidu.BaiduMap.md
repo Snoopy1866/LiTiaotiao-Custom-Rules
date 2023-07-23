@@ -5,10 +5,13 @@
 快速复制:
 ```
 {"popup_rules":
-    [{"id":"cancel_update","action":"cancel_update"},
-     {"id":"yellow_banner_close","action":"yellow_banner_close"},
-     {"id":"close_btn","action":"close_btn"},
-     {"id":"operational_activities_content_close","action":"operational_activities_content_close"}]}
+    [
+        {"id":"cancel_update","action":"cancel_update"},
+        {"id":"yellow_banner_close","action":"yellow_banner_close"},
+        {"id":"close_btn","action":"close_btn"},
+        {"id":"operational_activities_content_close","action":"operational_activities_content_close"}
+    ]
+}
 ```
 
 详细说明：
