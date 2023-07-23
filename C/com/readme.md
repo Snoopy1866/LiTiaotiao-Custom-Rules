@@ -7,4 +7,4 @@
 - [com.tv.danmaku.bili](./com.tv.danmaku.bili/readme.md)（哔哩哔哩）
 - [com.xiaomi.smarthome](./com.xiaomi.smarthome/readme.md)（米家）
 - [com.taobao.idlefish](./com.taobao.idlefish/readme.md)（闲鱼）
-- [com.eg.android.AlipayGphone]()（支付宝）
+- [com.eg.android.AlipayGphone](./com.eg.android.AlipayGphone/readme.md)（支付宝）
