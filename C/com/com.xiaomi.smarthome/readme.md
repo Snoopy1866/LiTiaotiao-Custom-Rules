@@ -14,7 +14,7 @@
 - [{"id":"a2t","action":"a2t"}](#ida2tactiona2t)
 
 ### {"id":"a2t","action":"a2t"}
-去除首页家电广告。
+去除首页家电广告
 
 ![](./assets/a2t.jpg)
 
