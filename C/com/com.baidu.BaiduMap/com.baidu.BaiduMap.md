@@ -22,14 +22,17 @@
 
 ### {"id":"yellow_banner_close","action":"yellow_banner_close"}
 去除首页黄页广告。
+
 ![](./assets/yellow_banner_close.jpg)
 
 ### {"id":"close_btn","action":"close_btn"}
 去除打车界面右侧悬浮广告。
+
 ![](./assets/close_btn.jpg)
 
 ### {"id":"operational_activities_content_close","action":"operational_activities_content_close"}
 去除打车界面弹出广告。
+
 ![](./assets/operational_activities_content_close.jpg)
 
 ## 增强规则
