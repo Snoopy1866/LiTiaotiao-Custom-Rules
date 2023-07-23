@@ -1,5 +1,6 @@
 # com
 
+- [com.alibaba.android.rimet](./com.alibaba.android.rimet/readme.md)（钉钉）
 - [com.alibaba.wireless](./com.alibaba.wireless/readme.md)（阿里巴巴）
 - [com.autonavo.minimap](./com.autonavi.minimap/readme.md)（高德地图）
 - [com.baidu.BaiduMap](./com.baidu.BaiduMap/readme.md)（百度地图）
