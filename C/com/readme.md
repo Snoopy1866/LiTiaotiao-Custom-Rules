@@ -18,6 +18,7 @@
 - [com.taobao.idlefish](./com.taobao.idlefish/readme.md)（闲鱼）
 - [com.taptap](./com.taptap/readme.md)（TapTap）
 - [com.tencent.qqmusic](./com.tencent.qqmusic/readme.md)（QQ音乐）
+- [com.tencent.wemeet.app](./com.tencent.wemeet.app/readme.md)（腾讯会议）
 - [com.tv.danmaku.bili](./com.tv.danmaku.bili/readme.md)（哔哩哔哩）
 - [com.xiachufang](./com.xiachufang/readme.md)（下厨房）
 - [com.xiaomi.smarthome](./com.xiaomi.smarthome/readme.md)（米家）
