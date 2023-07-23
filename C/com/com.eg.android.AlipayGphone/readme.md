@@ -11,7 +11,7 @@
 }
 ```
 详细说明：
-- [{"id":"bar_close","action":"bar_close"}](#idclosebuttoniconactionclosebuttonicon)
+- [{"id":"closeButtonIcon","action":"closeButtonIcon"}](#idclosebuttoniconactionclosebuttonicon)
 
 ### {"id":"closeButtonIcon","action":"closeButtonIcon"}
 去除首页“开启通知权限”提示。

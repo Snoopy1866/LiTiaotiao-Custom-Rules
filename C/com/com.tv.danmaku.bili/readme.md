@@ -12,9 +12,9 @@
 }
 ```
 详细说明：
-- [{"id":"more_icon","action":"more_icon"} + {"id":"reason1_layout","action":"reason1_layout"}](#idmore_iconactionmore_icon--idreason1_layoutactionreason1_layout)
+- [{"id":"more_icon","action":"more_icon"} - {"id":"reason1_layout","action":"reason1_layout"}](#idmore_iconactionmore_icon---idreason1_layoutactionreason1_layout)
 
-### {"id":"more_icon","action":"more_icon"} + {"id":"reason1_layout","action":"reason1_layout"}
+### {"id":"more_icon","action":"more_icon"} - {"id":"reason1_layout","action":"reason1_layout"}
 **联合规则**：去除首页广告，自动点击不感兴趣。
 
 ![]()
