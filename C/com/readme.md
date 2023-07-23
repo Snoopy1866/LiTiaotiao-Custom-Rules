@@ -17,4 +17,4 @@
 - [com.tencent.qqmusic](./com.tencent.qqmusic/readme.md)（QQ音乐）
 - [com.tv.danmaku.bili](./com.tv.danmaku.bili/readme.md)（哔哩哔哩）
 - [com.xiaomi.smarthome](./com.xiaomi.smarthome/readme.md)（米家）
-
+- [com.zhaopin.social](./com.zhaopin.social/readme.md)（智联招聘）
