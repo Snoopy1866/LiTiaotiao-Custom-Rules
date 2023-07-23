@@ -17,6 +17,14 @@
 }
 ```
 
+- [{"id":"iv_close","action":"iv_close"}](#idiv_closeactioniv_close)
+- [{"id":"banner_item_close","action":"banner_item_close"}](#idbanner_item_closeactionbanner_item_close)
+- [{"id":"close","action":"close"}](#idcloseactionclose)
+- [{"id":"close_clean_guide","action":"close_clean_guide"}](#idclose_clean_guideactionclose_clean_guide)
+- [{"id":"close_notification_tip","action":"close_notification_tip"}](#idclose_notification_tipactionclose_notification_tip)
+- [{"id":"iv_yike_close","action":"iv_yike_close"}](#idiv_yike_closeactioniv_yike_close)
+- [{"id":"yike_guide_exit","action":"yike_guide_exit"}](#idyike_guide_exitactionyike_guide_exit)
+
 ### {"id":"iv_close","action":"iv_close"}
 去除首页弹出“首充今日特惠”广告
 ![](./assets/iv_close.jpg)
