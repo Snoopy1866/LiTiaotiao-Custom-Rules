@@ -11,6 +11,12 @@
      {"id":"operational_activities_content_close","action":"operational_activities_content_close"}]}
 ```
 
+详细说明：
+- [{"id":"cancel_update","action":"cancel_update"}](#idcancel_updateactioncancel_update)
+- [{"id":"yellow_banner_close","action":"yellow_banner_close"}](#idyellow_banner_closeactionyellow_banner_close)
+- [{"id":"close_btn","action":"close_btn"}](#idclose_btnactionclose_btn)
+- [{"id":"operational_activities_content_close","action":"operational_activities_content_close"}](#idoperational_activities_content_closeactionoperational_activities_content_close)
+
 ### {"id":"cancel_update","action":"cancel_update"}
 去除更新提示。
 
