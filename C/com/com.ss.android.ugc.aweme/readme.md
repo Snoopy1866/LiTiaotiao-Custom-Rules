@@ -1,6 +1,6 @@
 # com.ss.android.ugc.aweme（抖音）
 
-## 去广告规则
+## 普通规则
 
 快速复制:
 ```

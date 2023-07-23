@@ -1,6 +1,6 @@
 # com.alibaba.android.rimet（钉钉）
 
-## 去广告规则
+## 普通规则
 
 快速复制:
 ```

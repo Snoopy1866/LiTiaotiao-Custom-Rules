@@ -1,6 +1,6 @@
 # com.cnspeedtest.globalspeed（全球网测）
 
-## 去广告规则
+## 普通规则
 
 快速复制:
 ```
