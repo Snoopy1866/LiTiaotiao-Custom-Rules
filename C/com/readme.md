@@ -8,6 +8,7 @@
 - [com.sankuai.meituan](./com.sankuai.meituan/readme.md)（美团）
 - [com.taobao.idlefish](./com.taobao.idlefish/readme.md)（闲鱼）
 - [com.taptap](./com.taptap/readme.md)（TapTap）
+- [com.tencent.qqmusic](./com.tencent.qqmusic/readme.md)（QQ音乐）
 - [com.tv.danmaku.bili](./com.tv.danmaku.bili/readme.md)（哔哩哔哩）
 - [com.xiaomi.smarthome](./com.xiaomi.smarthome/readme.md)（米家）
-- [com.tencent.qqmusic](./com.tencent.qqmusic/readme.md)（QQ音乐）
+
