@@ -9,9 +9,6 @@
         {"id":"发现新版本","action":"btn_dismiss"}
     ]
 }
-
-{"popup_rules":
-    [{"id":"发现新版本","action":"btn_dismiss"}]}
 ```
 详细说明：
 - [{"id":"发现新版本","action":"btn_dismiss"}](#id发现新版本actionbtn_dismiss)
