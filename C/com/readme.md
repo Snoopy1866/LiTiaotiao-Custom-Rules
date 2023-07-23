@@ -1,11 +1,16 @@
 # com
 
+- [com.alibaba.wireless](./com.alibaba.wireless/readme.md)（阿里巴巴）
+- [com.autonavo.minimap](./com.autonavi.minimap/readme.md)（高德地图）
 - [com.baidu.BaiduMap](./com.baidu.BaiduMap/readme.md)（百度地图）
 - [com.baidu.netdisk](./com.baidu.netdisk/readme.md)（百度网盘）
 - [com.baidu.tieba](./com.baidu.tieba/readme.md)（百度贴吧）
+- [com.cnspeedtest.globalspeed](./com.cnspeedtest.globalspeed/readme.md)（全球网测）
 - [com.eg.android.AlipayGphone](./com.eg.android.AlipayGphone/readme.md)（支付宝）
+- [com.jin10](./com.jin10/readme.md)（金十数据）
 - [com.jingdong.app.mall](./com.jingdong.app.mall/readme.md)（京东）
 - [com.sankuai.meituan](./com.sankuai.meituan/readme.md)（美团）
+- [com.sankuai.movie](./com.sankuai.movie/readme.md)（猫眼）
 - [com.ss.android.ugc.aweme](./com.ss.android.ugc.aweme/readme.md)（抖音）
 - [com.taobao.idlefish](./com.taobao.idlefish/readme.md)（闲鱼）
 - [com.taptap](./com.taptap/readme.md)（TapTap）
