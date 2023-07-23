@@ -4,3 +4,4 @@
 - [com.baidu.netdisk](./com.baidu.netdisk/readme.md)（百度网盘）
 - [com.baidu.tieba](./com.baidu.tieba/readme.md)（百度贴吧）
 - [com.sankuai.meituan](./com.sankuai.meituan/readme.md)（美团）
+- [com.xiaomi.smarthome](./com.xiaomi.smarthome/readme.md)（米家）
