@@ -14,6 +14,7 @@
 - [com.jdd.motorfans](./com.jdd.motorfans/readme.md)（摩托范）
 - [com.jin10](./com.jin10/readme.md)（金十数据）
 - [com.jingdong.app.mall](./com.jingdong.app.mall/readme.md)（京东）
+- [com.miui.packageinstaller](./com.miui.packageinstaller/readme.md)（MIUI 应用包管理组件）
 - [com.sankuai.meituan](./com.sankuai.meituan/readme.md)（美团）
 - [com.sankuai.movie](./com.sankuai.movie/readme.md)（猫眼）
 - [com.ss.android.ugc.aweme](./com.ss.android.ugc.aweme/readme.md)（抖音）
