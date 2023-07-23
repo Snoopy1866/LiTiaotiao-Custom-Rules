@@ -1,5 +1,0 @@
-# 一键忽略所有app本次更新
-{"popup_rules":
-    [{"id":"查看全部升级","action":"fold_text"},
-     {"id":"expand_button","action":"expand_button","times":10,"search_times_popup":5},
-     {"id":"忽略本次","action":"ignore_this","times":10,"search_times_popup":5}]}
