@@ -11,7 +11,7 @@
 }
 ```
 详细说明：
-- [{"id":"bottom_center_close_button","action":"bottom_center_close_button"}](#)
+- [{"id":"bottom_center_close_button","action":"bottom_center_close_button"}](#idbottom_center_close_buttonactionbottom_center_close_button)
 
 ### {"id":"bottom_center_close_button","action":"bottom_center_close_button"}
 去除外卖页面弹窗广告。
