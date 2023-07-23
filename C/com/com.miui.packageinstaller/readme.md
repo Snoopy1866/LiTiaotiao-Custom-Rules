@@ -22,9 +22,9 @@
 }
 ```
 详细说明：
-- [{"id":"准备中","action":"准备中","times":0}-{"id":"打开","action":"完成"}](#id准备中action准备中times0-id打开action完成)
+- [{"id":"准备中","action":"准备中","times":0} - {"id":"打开","action":"完成"}](#id准备中action准备中times0---id打开action完成)
 
-### {"id":"准备中","action":"准备中","times":0}-{"id":"打开","action":"完成"}
+### {"id":"准备中","action":"准备中","times":0} - {"id":"打开","action":"完成"}
 规则贡献者：酷安@[ka丶Alex](http://www.coolapk.com/u/576503)
 
 **联合规则**: MIUI 应用包自动安装。
