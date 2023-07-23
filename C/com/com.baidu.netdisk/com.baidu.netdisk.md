@@ -16,7 +16,7 @@
     ]
 }
 ```
-
+详细说明：
 - [{"id":"iv_close","action":"iv_close"}](#idiv_closeactioniv_close)
 - [{"id":"banner_item_close","action":"banner_item_close"}](#idbanner_item_closeactionbanner_item_close)
 - [{"id":"close","action":"close"}](#idcloseactionclose)
