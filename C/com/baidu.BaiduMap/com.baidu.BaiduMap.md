@@ -11,8 +11,11 @@
 ## 去广告规则
 
 ### {"id":"cancel_update","action":"cancel_update"}
+去除更新提示。
 
 ### {"id":"yellow_banner_close","action":"yellow_banner_close"}
+去除首页黄页广告。
+![](./assets/yellow_banner_close.jpg)
 
 ### {"id":"close_btn","action":"close_btn"}
 
