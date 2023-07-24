@@ -18,6 +18,7 @@
 - [com.sankuai.meituan](./com.sankuai.meituan/readme.md)（美团）
 - [com.sankuai.movie](./com.sankuai.movie/readme.md)（猫眼）
 - [com.ss.android.ugc.aweme](./com.ss.android.ugc.aweme/readme.md)（抖音）
+- [com.ss.android.ugc.aweme.lite](./com.ss.android.ugc.aweme.lite/readme.md)（抖音极速版）
 - [com.taobao.idlefish](./com.taobao.idlefish/readme.md)（闲鱼）
 - [com.taptap](./com.taptap/readme.md)（TapTap）
 - [com.tencent.qqlive](./com.tencent.qqlive/readme.md)（腾讯视频）
