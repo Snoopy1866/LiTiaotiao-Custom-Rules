@@ -1,4 +1,4 @@
-# com.xxx.xxx（*app名称*）
+# com.*xxx.xxx*（*app名称*）
 
 ## 去广告规则
 
