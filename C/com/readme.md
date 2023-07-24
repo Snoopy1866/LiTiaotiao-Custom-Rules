@@ -9,6 +9,7 @@
 - [com.baidu.tieba](./com.baidu.tieba/readme.md)（百度贴吧）
 - [com.cnspeedtest.globalspeed](./com.cnspeedtest.globalspeed/readme.md)（全球网测）
 - [com.daimajia.gold](./com.daimajia.gold/readme.md)（稀土掘金）
+- [com.dragon.read](./com.dragon.read/readme.md)（番茄免费小说）
 - [com.eg.android.AlipayGphone](./com.eg.android.AlipayGphone/readme.md)（支付宝）
 - [com.hose.ekuaibao](./com.hose.ekuaibao/readme.md)（易快报）
 - [com.jdd.motorfans](./com.jdd.motorfans/readme.md)（摩托范）
