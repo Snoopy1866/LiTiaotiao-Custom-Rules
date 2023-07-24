@@ -6,6 +6,7 @@
 - [com.autonavo.minimap](./com.autonavi.minimap/readme.md)（高德地图）
 - [com.baidu.BaiduMap](./com.baidu.BaiduMap/readme.md)（百度地图）
 - [com.baidu.netdisk](./com.baidu.netdisk/readme.md)（百度网盘）
+- [com.baidu.searchbox](./com.baidu.searchbox/readme.md)（百度）
 - [com.baidu.tieba](./com.baidu.tieba/readme.md)（百度贴吧）
 - [com.cnspeedtest.globalspeed](./com.cnspeedtest.globalspeed/readme.md)（全球网测）
 - [com.daimajia.gold](./com.daimajia.gold/readme.md)（稀土掘金）
