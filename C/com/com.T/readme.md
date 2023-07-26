@@ -6,3 +6,4 @@
 - [com.tencent.qqmusic](./com.tencent.qqmusic/readme.md)（QQ音乐）
 - [com.tencent.wemeet.app](./com.tencent.wemeet.app/readme.md)（腾讯会议）
 - [com.tv.danmaku.bili](./com.tv.danmaku.bili/readme.md)（哔哩哔哩）
+- [com.taobao.taobao](./com.taobao.taobao/readme.md)（淘宝）
