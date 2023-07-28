@@ -9,14 +9,14 @@
 ```
 {"popup_rules":
     [
-        {"id":"tv_expand","action":"iv_expand"}
+        {"id":"的广告","action":"×"}
     ]
 }
 ```
 详细说明：
-- [{"id":"tv_expand","action":"iv_expand"}](#idtv_expandactioniv_expand)
+- [{"id":"的广告","action":"×"}](#id的广告action×)
 
-### {"id":"tv_expand","action":"iv_expand"}
-自动展开回答（**不起作用**）
+### {"id":"的广告","action":"×"}
+去除回答下方的广告
 
-![](./assets/iv_expand.jpg)
+![](./assets/回答下方的广告.jpg)
