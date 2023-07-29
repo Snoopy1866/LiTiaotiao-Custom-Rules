@@ -16,7 +16,7 @@
 - [{"id":"更新消息","action":"vision_btn_cancel"}](#id更新消息actionvision_btn_cancel)
 
 ### {"id":"ad_time_view","action":"close_view"} - {"id":"coolapk_card_view","action":"close_view"}
-**联合规则**: 去除评论区广告（💡🚲⚡‼⁉⚠需要手动触发）
+**联合规则**: 去除评论区广告（⚡需要手动触发）
 
 ![](./assets/评论区广告.jpg)
 
