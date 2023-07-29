@@ -6,6 +6,7 @@
     <img src="https://img.shields.io/github/license/Snoopy1866/LiTiaotiao-Custom-Rules?style=for-the-badge">
     <img src="https://img.shields.io/github/contributors/Snoopy1866/LiTiaotiao-Custom-Rules?style=for-the-badge">
     <img src="https://img.shields.io/github/stars/Snoopy1866/LiTiaotiao-Custom-Rules?style=for-the-badge">
+    <img src="https://img.shields.io/github/forks/Snoopy1866/LiTiaotiao-Custom-Rules?style=for-the-badge">
     <img src="https://img.shields.io/github/issues/Snoopy1866/LiTiaotiao-Custom-Rules?style=for-the-badge">
     <img src="https://img.shields.io/github/issues-pr/Snoopy1866/LiTiaotiao-Custom-Rules?style=for-the-badge">
 </p>
