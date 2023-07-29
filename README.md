@@ -1,5 +1,16 @@
-# LiTiaotiao-Custom-Rules
-李跳跳自定义规则
+<p align="center">
+    <h2 align="center">LiTiaotiao-Custom-Rules</h2>
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/github/license/Snoopy1866/LiTiaotiao-Custom-Rules?style=for-the-badge">
+    <img src="https://img.shields.io/github/contributors/Snoopy1866/LiTiaotiao-Custom-Rules?style=for-the-badge">
+    <img src="https://img.shields.io/github/stars/Snoopy1866/LiTiaotiao-Custom-Rules?style=for-the-badge">
+    <img src="https://img.shields.io/github/issues/Snoopy1866/LiTiaotiao-Custom-Rules?style=for-the-badge">
+    <img src="https://img.shields.io/github/issues-pr/Snoopy1866/LiTiaotiao-Custom-Rules?style=for-the-badge">
+</p>
+
+
 
 # 简介
 本项目收集适用于“李跳跳”的 app 自定义规则，包括**普通规则**和**增强规则**。
