@@ -16,6 +16,6 @@
 ### {"id":"novelad_banner_ad_text","action":"novel_banner_ad_close"}
 去除 “历史记录” 页面上方广告
 
-![](./assets/novel_banner_ad_close1.jpg)
+![](./assets/novel_banner_ad_close.jpg)
 
 ## 增强规则
