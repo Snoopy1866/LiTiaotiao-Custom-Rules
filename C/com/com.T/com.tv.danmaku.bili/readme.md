@@ -6,17 +6,16 @@
 ```
 {"popup_rules":
     [
-        {"id":"more_icon","action":"more_icon"},
-        {"id":"reason1_layout","action":"reason1_layout"}
+        {"id":"进入青少年模式","action":"我知道了"},
     ]
 }
 ```
 详细说明：
-- [{"id":"more_icon","action":"more_icon"} - {"id":"reason1_layout","action":"reason1_layout"}](#idmore_iconactionmore_icon---idreason1_layoutactionreason1_layout)
+- [{"id":"进入青少年模式","action":"我知道了"}](#id进入青少年模式action我知道了)
 
-### {"id":"more_icon","action":"more_icon"} - {"id":"reason1_layout","action":"reason1_layout"}
-**联合规则**：去除首页广告，自动点击不感兴趣。
+### {"id":"进入青少年模式","action":"我知道了"}
+去除青少年模式弹窗
 
-![]()
+![](./assets/青少年模式弹窗.jpg)
 
 ## 增强规则
