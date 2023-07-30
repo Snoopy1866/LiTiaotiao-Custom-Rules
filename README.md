@@ -26,6 +26,8 @@
 3. 复制规则。可以点击 “快速复制” 按钮复制全部规则，也可以参考下方详细说明复制你需要的规则；
 4. 打开 “李跳跳”，点击 更多 -> 设置，找到需要应用规则的 app，长按 app 图标，粘贴复制的规则，点击保存。
 
+💡 如果你不知道怎么查找包名，你也可以直接在 [release](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules/releases) 页面搜索 app 名称快速查找。
+
 ## 点击下方包名首字母或前缀快速查找
 - [A](./A/readme.md)
 - [B](./B/readme.md)
