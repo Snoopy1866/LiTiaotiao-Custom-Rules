@@ -5,5 +5,6 @@
 - [com.shizhuang.duapp](./com.shizhuang.duapp/readme.md)（得物）
 - [com.sina.weibo](./com.sina.weibo/readme.md)（微博）
 - [com.snda.wifilocating](./com.snda.wifilocating/readme.md)（WiFi万能钥匙）
+- [com.ss.android.article.video](./com.ss.android.article.video/readme.md)（西瓜视频）
 - [com.ss.android.ugc.aweme](./com.ss.android.ugc.aweme/readme.md)（抖音）
 - [com.ss.android.ugc.aweme.lite](./com.ss.android.ugc.aweme.lite/readme.md)（抖音极速版）
