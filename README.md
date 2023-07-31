@@ -3,13 +3,27 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/github/license/Snoopy1866/LiTiaotiao-Custom-Rules">
-    <img src="https://img.shields.io/github/contributors/Snoopy1866/LiTiaotiao-Custom-Rules">
-    <img src="https://img.shields.io/github/stars/Snoopy1866/LiTiaotiao-Custom-Rules">
-    <img src="https://img.shields.io/github/forks/Snoopy1866/LiTiaotiao-Custom-Rules">
-    <img src="https://img.shields.io/github/v/release/Snoopy1866/LiTiaotiao-Custom-Rules">
-    <img src="https://img.shields.io/github/issues/Snoopy1866/LiTiaotiao-Custom-Rules">
-    <img src="https://img.shields.io/github/issues-pr/Snoopy1866/LiTiaotiao-Custom-Rules">
+    <a href="https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules/blob/main/LICENSE">
+        <img src="https://img.shields.io/github/license/Snoopy1866/LiTiaotiao-Custom-Rules">
+    </a>
+    <a href="https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules/graphs/contributors">
+        <img src="https://img.shields.io/github/contributors/Snoopy1866/LiTiaotiao-Custom-Rules">
+    </a>
+    <a href="https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules/stargazers">
+        <img src="https://img.shields.io/github/stars/Snoopy1866/LiTiaotiao-Custom-Rules">
+    </a>
+    <a href="https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules/forks">
+        <img src="https://img.shields.io/github/forks/Snoopy1866/LiTiaotiao-Custom-Rules">
+    </a>
+    <a href="https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules/releases">
+        <img src="https://img.shields.io/github/v/release/Snoopy1866/LiTiaotiao-Custom-Rules">
+    </a>
+    <a href="https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules/issues">
+        <img src="https://img.shields.io/github/issues/Snoopy1866/LiTiaotiao-Custom-Rules">
+    </a>
+    <a href="https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules/pulls">
+        <img src="https://img.shields.io/github/issues-pr/Snoopy1866/LiTiaotiao-Custom-Rules">
+    </a>
 </p>
 
 
