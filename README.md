@@ -42,6 +42,10 @@
 
 💡 如果你不知道怎么查找包名，你也可以直接在 [release](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules/releases) 页面搜索 app 名称快速查找。需要注意的是 app 名称可能会发生变更，而包名一般不会发生变更，因此在 release 页面可能无法查询到你想要的 app，此时建议通过包名查找你需要的规则。
 
+💡 由于 “李跳跳” 仅在 app 界面更新布局时进行检测，因此少数规则需要通过手动更新界面布局才能生效，具体做法有：下拉状态栏、使用手势将 app 切换至后台等，只要实现了界面布局的改变即可切换回 app 界面。需要手动触发的规则在规则详情页中有所标注。
+
+🍭 找不到你需要的 app 规则？你可以前往 [讨论区](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules/discussions/4) 提交适配需求。
+
 ## 点击下方包名首字母或前缀快速查找
 - [A](./A/readme.md)
 - [B](./B/readme.md)
@@ -97,11 +101,6 @@
 - [X](./X/readme.md)
 - [Y](./Y/readme.md)
 - [Z](./Z/readme.md)
-
-# 补充说明
-
-1. 由于 “李跳跳” 仅在 app 界面更新布局时进行检测，因此少数规则需要通过手动更新界面布局才能生效，具体做法有：下拉状态栏、使用手势将 app 切换至后台等，只要实现了界面布局的改变即可切换回 app 界面。需要手动触发的规则在规则详情页中有所标注。
-2. 找不到你需要的 app 规则？你可以前往 [讨论区](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules/discussions/4) 提交适配需求。
 
 # 参与贡献
 本项目欢迎贡献规则，贡献规则时请参考 [模版](template.md) 新增或修改规则。具体操作如下：
