@@ -75,7 +75,7 @@
 ![](./assets/通信证奖励领取.jpg)
 
 ### {"id":"liveExitDialogBg","action":"liveBtnExit"}
-去除直播界面退出时的引导关注探窗
+去除直播界面退出时的引导关注弹窗
 
 ![](./assets/引导关注弹窗.jpg)
 
