@@ -10,3 +10,4 @@
 - [com.ss.android.auto](./com.ss.android.auto/readme.md)（懂车帝）
 - [com.ss.android.ugc.aweme](./com.ss.android.ugc.aweme/readme.md)（抖音）
 - [com.ss.android.ugc.aweme.lite](./com.ss.android.ugc.aweme.lite/readme.md)（抖音极速版）
+- [ com.sup.android.superb](./com.sup.android.superb/readme.md)（皮皮虾）
