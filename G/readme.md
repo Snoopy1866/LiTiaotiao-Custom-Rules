@@ -1,3 +1,3 @@
 # G
 
-## 欢迎贡献规则
+- [gov.pianzong.androidnga](./gov.pianzong.androidnga/readme.md)（NGA玩家社区）
