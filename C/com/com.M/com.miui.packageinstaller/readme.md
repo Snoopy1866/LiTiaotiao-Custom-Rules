@@ -28,4 +28,4 @@
 ### {"id":"准备中","action":"准备中","times":0} - {"id":"打开","action":"完成"}
 规则贡献者：酷安@[ka丶Alex](http://www.coolapk.com/u/576503)、酷安@[Aaa12321](http://www.coolapk.com/u/3757839)
 
-**联合规则**: MIUI 应用包自动安装。
+**联合规则**：MIUI 应用包自动安装。
