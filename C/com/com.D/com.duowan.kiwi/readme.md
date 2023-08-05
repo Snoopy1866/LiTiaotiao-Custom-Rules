@@ -20,6 +20,8 @@
 ### {"id":"huyaui_float_notify_count_close","action":"huyaui_float_notify_count_close"}
 去除首页底部悬浮广告
 
+![](./assets/首页底部悬浮广告.jpg)
+
 ### {"id":"开启通知，不错过订阅的主播开播","action":"iv_right"}
 去除 “订阅” 页面开启通知提示信息
 
