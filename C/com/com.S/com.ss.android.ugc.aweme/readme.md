@@ -7,7 +7,7 @@
 {"popup_rules":
     [
         {"id":"检测到更新","action":"以后再说"},
-        {"id":"boa","action":"boa"},
+        {"id":"青少年模式","action":"关闭"},
         {"id":"朋友推荐","action":"close"},
         {"id":"隐藏","action":"h7e"},
         {"id":"开启朋友通知","action":"暂不"},
@@ -19,7 +19,7 @@
 ```
 详细说明：
 - [{"id":"检测到更新","action":"以后再说"}](#id检测到更新action以后再说)
-- [{"id":"boa","action":"boa"}](#idboaactionboa)
+- [{"id":"青少年模式","action":"关闭"}](#id青少年模式action关闭)
 - [{"id":"朋友推荐","action":"close"}](#id朋友推荐actionclose)
 - [{"id":"隐藏","action":"h7e"}](#id隐藏actionh7e)
 - [{"id":"开启朋友通知","action":"暂不"}](#id开启朋友通知action暂不)
@@ -32,33 +32,35 @@
 
 ![](./assets/更新弹窗.jpg)
 
-### {"id":"boa","action":"boa"}
+### {"id":"青少年模式","action":"关闭"}
 去除首页青少年模式弹窗
+
+![](./assets/青少年模式弹窗.jpg)
 
 ### {"id":"朋友推荐","action":"close"}
 去除“我的”页面朋友推荐弹窗
 
-![](./assets/close.jpg)
+![](./assets/朋友推荐弹窗.jpg)
 
 ### {"id":"隐藏","action":"h7e"}
 去除“我的”页面“您可能感兴趣”推荐信息
 
-![](./assets/h7e.jpg)
+![](./assets/“您可能感兴趣”推荐信息.jpg)
 
 ### {"id":"开启朋友通知","action":"暂不"}
 去除“消息”页面开启朋友通知提示信息
 
-![](./assets/p4m.jpg)
+![](./assets/开启朋友通知提示信息.jpg)
 
 ### {"id":"朋友推荐 标题","action":"qpb"}
 去除 消息->新朋友 页面朋友推荐信息（⚠ 不稳定，可能需要手动触发）
 
-![](./assets/qpb.jpg)
+![](./assets/新朋友-页面朋友推荐信息.jpg)
 
 ### {"id":"及时获得消息提醒","action":"暂不开启"}
-去除 “及时获得消息提醒” 弹窗信息
+去除 “及时获得消息提醒” 弹窗
 
-![](./assets/nzv.jpg)
+![](./assets/“及时获得消息提醒”%20弹窗.jpg)
 
 ### {"id":"想访问你的通讯录","action":"拒绝"}
 去除 “访问通讯录” 权限索取弹窗
