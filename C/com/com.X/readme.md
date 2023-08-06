@@ -1,6 +1,7 @@
 # com.X*xxx*
 
 - [com.xiachufang](./com.xiachufang/readme.md)（下厨房）
+- [com.xiaomi.market](./com.xiaomi.market/readme.md)（MIUI 应用商店）
 - [com.xiaomi.smarthome](./com.xiaomi.smarthome/readme.md)（米家）
 - [com.ximalaya.ting.android](./com.ximalaya.ting.android/readme.md)（喜马拉雅）
 - [com.ximi.weightrecord](./com.ximi.weightrecord/readme.md)（体重小本）
