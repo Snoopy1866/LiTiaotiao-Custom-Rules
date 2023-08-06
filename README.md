@@ -45,7 +45,7 @@
 
 🍭 找不到你需要的 app 规则？你可以前往 [讨论区](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules/discussions/4) 提交适配需求。
 
-[FAQ](#faq)
+🎯 **[FAQ](#faq)**
 
 ### 点击下方包名首字母或前缀快速导航
 - [A](./A/readme.md)
