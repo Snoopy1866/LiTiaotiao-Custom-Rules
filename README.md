@@ -45,6 +45,8 @@
 
 🍭 找不到你需要的 app 规则？你可以前往 [讨论区](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules/discussions/4) 提交适配需求。
 
+💀 某些 APP 的广告布局中的所有控件均不存在可以标识的文本（id, desc, text），因此无法为这些 APP 书写通用规则。除非在未来的某一天这些 APP 增加了可标识的文本，否则这些 APP 将不会被本项目所适配。点击查看 [无法适配的 APP 清单](./not_support_list.md)。
+
 🎯 **[FAQ](#faq)**
 
 ### 点击下方包名首字母或前缀快速导航
