@@ -43,7 +43,7 @@
 
 💡 由于 “李跳跳” 仅在 app 界面更新布局时进行检测，因此少数规则需要通过手动更新界面布局才能生效，具体做法有：下拉状态栏、使用手势将 app 切换至后台等，只要实现了界面布局的改变即可切换回 app 界面。需要手动触发的规则在规则详情页中有所标注。
 
-🍭 找不到你需要的 app 规则？你可以前往 [讨论区](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules/discussions/4) 提交适配需求。
+🍭 找不到你需要的 app 规则？你可以前往 [Issues](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules/issues) 提交适配需求。
 
 💀 某些 APP 的广告布局中的控件不存在任何可以标识的文本（id, desc, text），因此无法为这些 APP 书写通用规则。除非在未来的某一天这些 APP 为关闭广告按钮增加了可标识的文本（或者广告布局中的其他控件增加了可标识文本且可通过返回键关闭广告），否则这些 APP 将不会被本项目所适配。点击查看 [无法适配的 APP 清单](./not_support_list.md)。
 
