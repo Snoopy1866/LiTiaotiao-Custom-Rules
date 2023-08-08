@@ -6,6 +6,7 @@
 ```
 {"popup_rules":
     [
+        {"id":"update_title","action":"btn_close"},
         {"id":"bottom_center_close_button","action":"bottom_center_close_button"},
         {"id":"订单已满&优惠换购","action":"放弃机会"},
         {"id":"恭喜你获得以下权益","action":"GLOBAL_ACTION_BACK"},
@@ -14,10 +15,16 @@
 }
 ```
 详细说明：
+- [{"id":"update_title","action":"btn_close"}](#idupdate_titleactionbtn_close)
 - [{"id":"bottom_center_close_button","action":"bottom_center_close_button"}](#idbottom_center_close_buttonactionbottom_center_close_button)
 - [{"id":"订单已满&优惠换购","action":"放弃机会"}](#id订单已满优惠换购action放弃机会)
 - [{"id":"恭喜你获得以下权益","action":"GLOBAL_ACTION_BACK"}](#id恭喜你获得以下权益actionglobal_action_back)
 - [{"id":"popContentImg","action":"popCloseBtn"}](#idpopcontentimgactionpopclosebtn)
+
+### {"id":"update_title","action":"btn_close"}
+去除更新弹窗
+
+![](./assets/更新弹窗.jpg)
 
 ### {"id":"bottom_center_close_button","action":"bottom_center_close_button"}
 去除外卖页面红包弹窗
