@@ -5,6 +5,7 @@
 - [com.shizhuang.duapp](./com.shizhuang.duapp/readme.md)（得物）
 - [com.sina.weibo](./com.sina.weibo/readme.md)（微博）
 - [com.sinyee.babybus.recommendapp](./com.sinyee.babybus.recommendapp/readme.md)（宝宝巴士）
+- [com.smile.gifmaker](./com.sinyee.babybus.recommendapp/readme.md)（快手）
 - [com.snda.wifilocating](./com.snda.wifilocating/readme.md)（WiFi万能钥匙）
 - [com.sohu.sohuvideo](./com.sohu.sohuvideo/readme.md)（搜狐视频）
 - [com.ss.android.article.news](./com.ss.android.article.news/readme.md)（今日头条）
