@@ -12,8 +12,7 @@
         {"id":"ivAd","action":"ivAdClose"},
         {"id":"imgBKT","action":"imgClose"},
         {"id":"开启推送","action":"ivClose"},
-        {"id":"签到成功&获得&章节卡碎片","action":"fClose"},
-        {"id":"layoutView","action":"closeBtn"}
+        {"id":"签到成功&获得&章节卡碎片","action":"fClose"}
     ]
 }
 ```
@@ -25,7 +24,6 @@
 - [{"id":"imgBKT","action":"imgClose"}](#idimgbktactionimgclose)
 - [{"id":"开启推送","action":"ivClose"}](#id开启推送actionivclose)
 - [{"id":"签到成功&获得&章节卡碎片","action":"fClose"}](#id签到成功获得章节卡碎片actionfclose)
-- [{"id":"layoutView","action":"closeBtn"}](#idlayoutviewactionclosebtn)
 
 ### {"id":"青少年模式","action":"我知道了"}
 去除青少年模式
@@ -61,10 +59,5 @@
 去除签到成功弹窗
 
 ![](./assets/签到成功弹窗.jpg)
-
-### {"id":"layoutView","action":"closeBtn"}
-去除书籍介绍页面弹窗广告
-
-![](./assets/书籍介绍页面弹窗广告.jpg)
 
 ## 增强规则
