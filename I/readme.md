@@ -1,3 +1,3 @@
 # I
 
-## 欢迎贡献规则
+- [im.xingzhe](./im.xingzhe/readme.md)（行者）
