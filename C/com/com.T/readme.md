@@ -12,3 +12,4 @@
 - [com.tv.danmaku.bili](./com.tv.danmaku.bili/readme.md)（哔哩哔哩）
 - [com.to8to.housekeeper](./com.to8to.housekeeper/readme.md)（土巴兔装修）
 - [com.taobao.taobao](./com.taobao.taobao/readme.md)（淘宝）
+- [com.tymxa.gqshfhs](./com.tymxa.gqshfhs/readme.md)（高情商回复话术）
