@@ -3,6 +3,7 @@
 - [com.xiachufang](./com.xiachufang/readme.md)（下厨房）
 - [com.xiaomi.market](./com.xiaomi.market/readme.md)（MIUI 应用商店）
 - [com.xiaomi.smarthome](./com.xiaomi.smarthome/readme.md)（米家）
+- [com.xiaomi.vipaccount](./com.xiaomi.vipaccount/readme.md)（小米社区）
 - [com.ximalaya.ting.android](./com.ximalaya.ting.android/readme.md)（喜马拉雅）
 - [com.ximi.weightrecord](./com.ximi.weightrecord/readme.md)（体重小本）
 - [com.xingin.xhs](./com.xingin.xhs/readme.md)（小红书）
