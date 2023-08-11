@@ -10,8 +10,7 @@
         {"id":"开启通知","action":"不再提示"},
         {"id":"tv_text_match","action":"iv_heart_match_x"},
         {"id":"定位权限","action":"拒绝"},
-        {"id":"iv_gift_info","action":"iv_close"},
-        {"id":"action_bar_root","action":"GLOBAL_ACTION_BACK"}
+        {"id":"iv_gift_info","action":"iv_close"}
     ]
 }
 ```
@@ -21,7 +20,6 @@
 - [{"id":"tv_text_match","action":"iv_heart_match_x"}](#idtv_text_matchactioniv_heart_match_x)
 - [{"id":"定位权限","action":"拒绝"}](#id定位权限action拒绝)
 - [{"id":"iv_gift_info","action":"iv_close"}](#idiv_gift_infoactioniv_close)
-- [{"id":"action_bar_root","action":"GLOBAL_ACTION_BACK"}](#idaction_bar_rootactionglobal_action_back)
 
 ### {"id":"青少年模式","action":"我知道了"}
 去除青少年模式弹窗
@@ -48,10 +46,6 @@
 
 ![](./assets/新人大礼包弹窗.jpg)
 
-### {"id":"action_bar_root","action":"GLOBAL_ACTION_BACK"}
-去除活动弹窗
-
-![](./assets/活动弹窗.jpg)
 
 
 ## 增强规则
