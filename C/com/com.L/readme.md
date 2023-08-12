@@ -6,4 +6,4 @@
 - [com.lijianqiang12.silent](./com.lijianqiang12.silent/readme.md)（远离手机）
 - [com.lp.lightawake](./com.lp.lightawake/readme.md)（轻醒）
 - [com.lphtsccft](./com.lphtsccft/readme.md)（涨乐财富通）
-
+- [com.luna.music](./com.luna.music/readme.md)（汽水音乐）
