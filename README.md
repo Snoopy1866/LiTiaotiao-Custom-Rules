@@ -103,6 +103,15 @@
 - [Y](./Y/readme.md)
 - [Z](./Z/readme.md)
 
+# Github Star 趋势
+<a href="https://star-history.com/#Snoopy1866/LiTiaotiao-Custom-Rules&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Snoopy1866/LiTiaotiao-Custom-Rules&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Snoopy1866/LiTiaotiao-Custom-Rules&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Snoopy1866/LiTiaotiao-Custom-Rules&type=Date" />
+  </picture>
+</a>
+
 # 参与贡献
 本项目欢迎贡献规则，贡献规则时请参考 [模版](template.md) 新增或修改规则。具体操作如下：
 
