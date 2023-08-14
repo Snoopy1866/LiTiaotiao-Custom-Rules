@@ -4,13 +4,12 @@ import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
-        // 获取当前目录
-        String currentPath= System.getProperty("user.dir");
-        System.out.println(currentPath);
-
+        // 仓库路径，运行前自行修改
+        String repoPath = "D:\\Documents\\GitHub\\LiTiaotiao-Custom-Rules";
+        // 创建 HashMap, 存储 app 相关信息（包名, readme.md路径, 普通规则, 增强规则）
         HashMap<String, ArrayList<String>> packagesHashMap = new HashMap<String, ArrayList<String>>();
         // 获取规则文件
-        ArrayList<String> packageCustomRulesMdFilePathList = getPackageCustomRulesMdFilePathList("currentPath");
+        ArrayList<String> packageCustomRulesMdFilePathList = getPackageCustomRulesMdFilePathList(repoPath);
         System.out.println("获取到" + packageCustomRulesMdFilePathList.size() + "个规则文件");
 
         // 获取包名和哈希值
@@ -36,8 +35,8 @@ public class Main {
         // 写入规则至外部文件中
         // index = 2, 表示普通规则
         // index = 3, 表示增强规则
-        writeCustomRulesJson(packagesHashMap, 2, currentPath + "\\BasicRules.json");
-        writeCustomRulesJson(packagesHashMap, 3, currentPath + "\\ExtensiveRules.json");
+        writeCustomRulesJson(packagesHashMap, 2, repoPath + "\\BasicRules.json");
+        writeCustomRulesJson(packagesHashMap, 3, repoPath + "\\ExtensiveRules.json");
     }
 
     private static void writeCustomRulesJson(HashMap<String, ArrayList<String>> packagesHashMap, int index, String path) {
@@ -79,17 +78,17 @@ public class Main {
         char alphabetFirst = 'A';
         for (int i = 0; i < 26; i++) {
             char alphabet = (char)(alphabetFirst + i);
-            topDirList.add(rootDir + alphabet);
-            topDirList.add(rootDir + "C\\com\\com." + alphabet);
+            topDirList.add(rootDir + "\\" + alphabet);
+            topDirList.add(rootDir + "\\C\\com\\com." + alphabet);
         }
-        topDirList.add(rootDir + "C\\cn");
+        topDirList.add(rootDir + "\\C\\cn");
 
         ArrayList<String> packageCustomRulesMdFilePathList = new ArrayList<>();
         for (String topDir:topDirList) {
             packageCustomRulesMdFilePathList.addAll(getPackageCustomRulesMdDirPathList(new File(topDir)));
             // 去除 cn, com 根目录的readme.md文件路径
-            packageCustomRulesMdFilePathList.remove(rootDir + "C\\cn\\readme.md");
-            packageCustomRulesMdFilePathList.remove(rootDir + "C\\com\\readme.md");
+            packageCustomRulesMdFilePathList.remove(rootDir + "\\C\\cn\\readme.md");
+            packageCustomRulesMdFilePathList.remove(rootDir + "\\C\\com\\readme.md");
         }
         return packageCustomRulesMdFilePathList;
     }
