@@ -134,7 +134,7 @@
 
 若您认为某条规则可能是错误提交的，并不适用于此 app 的任何版本，或者某条规则影响到了 app 的正常使用，可以删除对应规则，同时删除 assets 文件夹中的相关图片（如有）。
 
-⚠ **请在模板中的代码块中书写规则，以便用于提取 readme.md 文档中规则的 java 程序 [ExportRules](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules/blob/main/.src/ExportRules/src/Main.java) 能够正确识别属于规则的文本。**
+⚠ **请在模板中的代码块中书写规则，以便用于提取规则的 java 程序 [ExportRules](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules/blob/main/.src/ExportRules/src/Main.java) 能够正确识别。**
 
 ⚠ **一般情况下，不建议删除已有的规则，不同版本的 app，规则可能不完全一致，最大限度保留已有规则，以适用于大多数版本的 app。**
 
