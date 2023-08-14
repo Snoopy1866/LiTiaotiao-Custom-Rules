@@ -8,7 +8,7 @@
     [
         {"id":"单车&天骑&单&立即领取","action":"actionDialogClose"},
         {"id":"hbDialogLayout","action":"actionDialogClose"},
-        {"id":"d7ce40d514f542eeaf48edea0ab245db","action":"gENrrooPRRSKS2nmR644j"},
+        {"id":"gENrrooPRRSKS2nmR644j","action":"gENrrooPRRSKS2nmR644j"},
         {"id":"resize,w_933","action":"OcAed8BaQIDrlsAAAAASUVORK5CYII="}
     ]
 }
