@@ -4,8 +4,13 @@ import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
-        // 仓库路径，运行前自行修改
-        String repoPath = "D:\\Documents\\GitHub\\LiTiaotiao-Custom-Rules";
+        // 仓库路径
+        String userDir = System.getProperty("user.dir");
+        String userDirRemoveLastSlash = userDir.substring(0, userDir.lastIndexOf("\\"));
+        String repoPath = userDirRemoveLastSlash.substring(0, userDirRemoveLastSlash.lastIndexOf("\\"));
+        // String repoPath = "D:\\Documents\\GitHub\\LiTiaotiao-Custom-Rules";
+
+
         // 创建 HashMap, 存储 app 相关信息（包名, readme.md路径, 普通规则, 增强规则）
         HashMap<String, ArrayList<String>> packagesHashMap = new HashMap<String, ArrayList<String>>();
         // 获取规则文件
