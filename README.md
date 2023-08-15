@@ -35,7 +35,7 @@
 # 如何使用
 
 1. 前往 [Releases](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules/releases) 页面下载最新版本的 BasicRules.json 和 ExtendedRules.json
-2. 打开 BasicRules.json 和 Extensive.json，复制全部文本
+2. 打开 BasicRules.json 和 Extended.json，复制全部文本
 3. 打开 “李跳跳”，点击 “更多”，点击右上角三个小点，点击 “导入规则”，长按输入框，选择 “粘贴”，点击“保存”。
 
 ⚠ 建议长按输入框，以调用系统自带的粘贴功能，请不要使用输入法的剪贴板进行粘贴，否则可能会出现粘贴不全导致格式错误的问题。
