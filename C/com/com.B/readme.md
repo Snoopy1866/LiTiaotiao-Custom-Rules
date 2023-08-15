@@ -5,4 +5,5 @@
 - [com.baidu.netdisk](./com.baidu.netdisk/readme.md)（百度网盘）
 - [com.baidu.searchbox](./com.baidu.searchbox/readme.md)（百度）
 - [com.baidu.tieba](./com.baidu.tieba/readme.md)（百度贴吧）
+- [com.baidu.wenku](./com.baidu.wenku/readme.md)（百度文库）
 - [com.btzx0313.app](./com.btzx0313.app/readme.md)（必拓资讯）
