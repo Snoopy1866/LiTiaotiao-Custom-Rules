@@ -34,7 +34,7 @@
 
 # 如何使用
 
-1. 前往 [Releases](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules/releases) 页面下载最新版本的 BasicRules.json 和 ExtensiveRules.json
+1. 前往 [Releases](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules/releases) 页面下载最新版本的 BasicRules.json 和 ExtendedRules.json
 2. 打开 BasicRules.json 和 Extensive.json，复制全部文本
 3. 打开 “李跳跳”，点击 “更多”，点击右上角三个小点，点击 “导入规则”，长按输入框，选择 “粘贴”，点击“保存”。
 
@@ -164,6 +164,6 @@
 由于 “李跳跳” 仅在 app 界面更新布局时进行检测，因此少数规则需要通过手动更新界面布局才能生效，具体做法有：下拉状态栏、使用手势将 app 切换至后台等，只要实现了界面布局的改变即可切换回 app 界面。需要手动触发的规则在规则详情页中有所标注。
 
 ### 03. app 卸载重装后，还需要再次导入规则吗？
-**不需要！** 只要你之前有通过 BasicRules.json 或 ExtensiveRules.json 成功导入某个 app 的规则，那么当这个 app 卸载重装后，只需要打开李跳跳，点击 更多->设置，刷新一次应用列表即可，之前导入的规则依然生效。
+**不需要！** 只要你之前有通过 BasicRules.json 或 ExtendedRules.json 成功导入某个 app 的规则，那么当这个 app 卸载重装后，只需要打开李跳跳，点击 更多->设置，刷新一次应用列表即可，之前导入的规则依然生效。
 
 我强烈建议你通过 json 文件导入规则，而不是对单独 app 导入规则。如果你不需要那么多 app 的规则，可以手动编辑 json 文件后自行导入。手动编辑需注意 json 文件的结构，每个 app 使用包名的哈希值（使用 Java 中的 String.hashCode() 方法获得）作为唯一标识符，你可能需要先手动生成哈希值，然后在 json 文件中筛选对应的规则。
