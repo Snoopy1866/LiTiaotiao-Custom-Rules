@@ -1,3 +1,3 @@
 # B
 
-## 欢迎贡献规则
+- [bin.mt.plus](./bin.mt.plus/readme.md)（MT管理器）
