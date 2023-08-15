@@ -14,7 +14,7 @@
 - [{"id":"pop_advertisement_content","action":"iv_close"}](#idpop_advertisement_contentactioniv_close)
 
 ### {"id":"pop_advertisement_content","action":"iv_close"}
-去除 “发现” 页面弹窗广告
+关闭 “发现” 页面弹窗广告
 
 ![](./assets/发现页面弹窗广告.jpg)
 
