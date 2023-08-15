@@ -7,6 +7,7 @@
 {"popup_rules":
     [
         {"id":"百度网盘更新啦","action":"下次再说"},
+        {"id":"开启消息通知","action":"dialog_cancel"},
         {"id":"iv_close","action":"iv_close"},
         {"id":"banner_item_close","action":"banner_item_close"},
         {"id":"close","action":"close"},
@@ -19,6 +20,7 @@
 ```
 详细说明：
 - [{"id":"百度网盘更新啦","action":"下次再说"}](#id百度网盘更新啦action下次再说)
+- [{"id":"开启消息通知","action":"dialog_cancel"}](#id开启消息通知actiondialog_cancel)
 - [{"id":"iv_close","action":"iv_close"}](#idiv_closeactioniv_close)
 - [{"id":"banner_item_close","action":"banner_item_close"}](#idbanner_item_closeactionbanner_item_close)
 - [{"id":"close","action":"close"}](#idcloseactionclose)
@@ -31,6 +33,11 @@
 关闭更新弹窗
 
 ![](./assets/更新弹窗.jpg)
+
+### {"id":"开启消息通知","action":"dialog_cancel"}
+关闭开启消息通知弹窗
+
+![](./assets/开启消息通知弹窗.jpg)
 
 ### {"id":"iv_close","action":"iv_close"}
 关闭首页弹出“首充今日特惠”广告
