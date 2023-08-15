@@ -41,7 +41,7 @@ public class Main {
         // index = 2, 表示普通规则
         // index = 3, 表示增强规则
         writeCustomRulesJson(packagesHashMap, 2, repoPath + "\\BasicRules.json");
-        writeCustomRulesJson(packagesHashMap, 3, repoPath + "\\ExtensiveRules.json");
+        writeCustomRulesJson(packagesHashMap, 3, repoPath + "\\ExtendedRules.json");
     }
 
     private static void writeCustomRulesJson(HashMap<String, ArrayList<String>> packagesHashMap, int index, String path) {
@@ -133,7 +133,7 @@ public class Main {
             // 普通规则内容
             String basicRulesStr = "";
             // 增强规则内容
-            String extensiveRulesStr = "";
+            String extendedRulesStr = "";
 
             // 检测到普通规则标题
             Boolean basicRulesHeaderLineDetected = false;
@@ -141,9 +141,9 @@ public class Main {
             Boolean basicRulesContentLineStartDetected = false;
 
             // 检测到增强规则标题
-            Boolean extensiveRulesHeaderLineDetected = false;
+            Boolean extendedRulesHeaderLineDetected = false;
             // 检测到增强规则内容开始
-            Boolean extensiveRulesContentLineStartDetected = false;
+            Boolean extendedRulesContentLineStartDetected = false;
 
             // 当前读取的行内容
             String line;
@@ -157,25 +157,25 @@ public class Main {
                     continue;
                 }
                 else if (line.equals("## 增强规则")) {
-                    extensiveRulesHeaderLineDetected = true;
+                    extendedRulesHeaderLineDetected = true;
                     basicRulesHeaderLineDetected = false;
                     basicRulesContentLineStartDetected = false;
                 }
-                else if (line.equals("```") && extensiveRulesHeaderLineDetected) {
-                    extensiveRulesContentLineStartDetected = !extensiveRulesContentLineStartDetected;
+                else if (line.equals("```") && extendedRulesHeaderLineDetected) {
+                    extendedRulesContentLineStartDetected = !extendedRulesContentLineStartDetected;
                     continue;
                 }
 
                 if (basicRulesContentLineStartDetected) {
                     basicRulesStr += line.strip().replace("\"", "\\\"");
                 }
-                else if (extensiveRulesContentLineStartDetected) {
-                    extensiveRulesStr += line.strip().replace("\"", "\\\"");
+                else if (extendedRulesContentLineStartDetected) {
+                    extendedRulesStr += line.strip().replace("\"", "\\\"");
                 }
             }
 
             customRules[0] = basicRulesStr;
-            customRules[1] = extensiveRulesStr;
+            customRules[1] = extendedRulesStr;
         } catch (FileNotFoundException e) {
             throw new RuntimeException(e);
         } catch (IOException e) {
