@@ -7,7 +7,7 @@
 {"popup_rules":
     [
         {"id":"青少年模式","action":"我知道了"},
-        {"id":"closeIcon","action":"closeIcon"},
+        {"id":"tvBottomFloatViewDesc","action":"ivBottomFloatViewClose"},
         {"id":"奖品免费包邮到家","action":"放弃领取"},
         {"id":"你可能感兴趣的人","action":"ivRemove","times":5}
     ]
@@ -15,27 +15,27 @@
 ```
 详细说明：
 - [{"id":"青少年模式","action":"我知道了"}](#id青少年模式action我知道了)
-- [{"id":"closeIcon","action":"closeIcon"}](#idcloseiconactioncloseicon)
+- [{"id":"tvBottomFloatViewDesc","action":"ivBottomFloatViewClose"}](#idtvbottomfloatviewdescactionivbottomfloatviewclose)
 - [{"id":"奖品免费包邮到家","action":"放弃领取"}](#id奖品免费包邮到家action放弃领取)
 - [{"id":"你可能感兴趣的人","action":"ivRemove","times":5}](#id你可能感兴趣的人actionivremovetimes5)
 
 ### {"id":"青少年模式","action":"我知道了"}
-去除 “青少年模式” 弹窗
+关闭青少年模式弹窗
 
 ![](./assets/青少年模式.jpg)
 
-### {"id":"closeIcon","action":"closeIcon"}
-去除 “设置安全问题” 弹窗
+### {"id":"tvBottomFloatViewDesc","action":"ivBottomFloatViewClose"}
+关闭首页底部专属优惠券弹窗
 
-![](./assets/新人见面礼.jpg)
+![](./assets/首页底部专属优惠券弹窗.jpg)
 
 ### {"id":"奖品免费包邮到家","action":"放弃领取"}
-去除 “奖品免费包邮到家” 弹窗
+关闭 “奖品免费包邮到家” 弹窗
 
 ![](./assets/奖品免费包邮到家.jpg)
 
 ### {"id":"你可能感兴趣的人","action":"ivRemove","times":5}
-去除首页上方 “你可能感兴趣的人” 推荐信息
+关闭首页上方 “你可能感兴趣的人” 推荐信息
 
 ![](./assets/你可能感兴趣的人.jpg)
 
