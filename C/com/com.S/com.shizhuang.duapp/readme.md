@@ -9,7 +9,8 @@
         {"id":"青少年模式","action":"我知道了"},
         {"id":"tvBottomFloatViewDesc","action":"ivBottomFloatViewClose"},
         {"id":"奖品免费包邮到家","action":"放弃领取"},
-        {"id":"你可能感兴趣的人","action":"ivRemove","times":5}
+        {"id":"你可能感兴趣的人","action":"ivRemove","times":5},
+        {"id":"anim_view","action":"closeIcon"}
     ]
 }
 ```
@@ -18,6 +19,7 @@
 - [{"id":"tvBottomFloatViewDesc","action":"ivBottomFloatViewClose"}](#idtvbottomfloatviewdescactionivbottomfloatviewclose)
 - [{"id":"奖品免费包邮到家","action":"放弃领取"}](#id奖品免费包邮到家action放弃领取)
 - [{"id":"你可能感兴趣的人","action":"ivRemove","times":5}](#id你可能感兴趣的人actionivremovetimes5)
+- [{"id":"anim_view","action":"closeIcon"}](#idanim_viewactioncloseicon)
 
 ### {"id":"青少年模式","action":"我知道了"}
 关闭青少年模式弹窗
@@ -38,5 +40,10 @@
 关闭首页上方 “你可能感兴趣的人” 推荐信息
 
 ![](./assets/你可能感兴趣的人.jpg)
+
+### {"id":"anim_view","action":"closeIcon"}
+关闭新人见面礼弹窗
+
+![](./assets/新人见面礼弹窗.jpg)
 
 ## 增强规则
