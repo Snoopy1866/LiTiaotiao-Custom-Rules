@@ -35,7 +35,7 @@
 ![](./assets/骑行结束页面优惠券弹窗.jpg)
 
 ### {"id":"resize,w_933","action":"OcAed8BaQIDrlsAAAAASUVORK5CYII="}
-去除哈啰推荐医疗保险弹窗（⚠ 6.44.5 版本适用）
+去除哈啰推荐医疗保险弹窗（⚠ 6.44.5 版本适用 ⚡ 需要手动触发）
 
 ![](./assets/哈啰推荐医疗保险弹窗.jpg)
 
