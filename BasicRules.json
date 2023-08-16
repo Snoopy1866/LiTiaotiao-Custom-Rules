@@ -15,7 +15,7 @@
 		"-612834190": "{\"popup_rules\":[{\"id\":\"关闭弹框按钮\",\"action\":\"关闭弹框按钮\"},]}"
 	},
 	{
-		"361910168": "{\"popup_rules\":[{\"id\":\"lpk\",\"action\":\"关闭\"},{\"id\":\"=广告\",\"action\":\"=更多\"},{\"id\":\"=关闭此条广告\",\"action\":\"=关闭此条广告\"}]}"
+		"361910168": "{\"popup_rules\":[{\"id\":\"lpk\",\"action\":\"关闭\"},{\"id\":\"=广告\",\"action\":\"=更多\"},{\"id\":\"=关闭此条广告\",\"action\":\"=关闭此条广告\"},{\"id\":\"=立即前往\",\"action\":\"close\"}]}"
 	},
 	{
 		"-894368837": "{\"popup_rules\":[{\"id\":\"开启超级保险箱\",\"action\":\"close\"},{\"id\":\"touch_bottom_bar_bubble_main_title_tv\",\"action\":\"touch_bottom_bar_bubble_close_iv\"},{\"id\":\"touch_dlg_main_title_tv\",\"action\":\"touch_dlg_close_iv\"},{\"id\":\"移动积分别浪费，迅雷会员抢先兑\",\"action\":\"放弃支付\"},{\"id\":\"老用户专属，劲爆惊喜价\",\"action\":\"放弃优惠\"},{\"id\":\"xl_download_guide_tip_close\",\"action\":\"xl_download_guide_tip_close\"},{\"id\":\"close-circle\",\"action\":\"close-circle\"},{\"id\":\"签到成功\",\"action\":\"知道了\"}]}"
@@ -34,6 +34,9 @@
 	},
 	{
 		"495814814": "{\"popup_rules\":[{\"id\":\"设置未成年人模式\",\"action\":\"我知道了\"},{\"id\":\"imgCloseHomePageDialog\",\"action\":\"imgCloseHomePageDialog\"},{\"id\":\"imgClose\",\"action\":\"imgClose\"},{\"id\":\"让我们提醒你运动\",\"action\":\"暂不需要\"}]}"
+	},
+	{
+		"1773314214": "{\"popup_rules\":[{\"id\":\"权限申请\",\"action\":\"取消\"}]}"
 	},
 	{
 		"-807718193": "{\"popup_rules\":[{\"id\":\"rl_banner_close\",\"action\":\"rl_banner_close\"},{\"id\":\"iv_ignore\",\"action\":\"iv_ignore\"},{\"id\":\"ivHomeIndexItemNearbyClose\",\"action\":\"ivHomeIndexItemNearbyClose\"}]}"
@@ -81,7 +84,7 @@
 		"630814885": "{\"popup_rules\":[{\"id\":\"rl_center\",\"action\":\"iv_close\"},{\"id\":\"iv_news\",\"action\":\"iv_close\"},{\"id\":\"开启消息通知\",\"action\":\"iv_tip_close\"}]}"
 	},
 	{
-		"-759128068": "{\"popup_rules\":[{\"id\":\"青少年模式\",\"action\":\"我知道了\"},{\"id\":\"closeIcon\",\"action\":\"closeIcon\"},{\"id\":\"奖品免费包邮到家\",\"action\":\"放弃领取\"},{\"id\":\"你可能感兴趣的人\",\"action\":\"ivRemove\",\"times\":5}]}"
+		"-759128068": "{\"popup_rules\":[{\"id\":\"青少年模式\",\"action\":\"我知道了\"},{\"id\":\"tvBottomFloatViewDesc\",\"action\":\"ivBottomFloatViewClose\"},{\"id\":\"奖品免费包邮到家\",\"action\":\"放弃领取\"},{\"id\":\"你可能感兴趣的人\",\"action\":\"ivRemove\",\"times\":5},{\"id\":\"anim_view\",\"action\":\"closeIcon\"},{\"id\":\"新人超值好物\",\"action\":\"ivClose\"}]}"
 	},
 	{
 		"1765779203": "{\"popup_rules\":[{\"id\":\"red_packet_content\",\"action\":\"red_packet_close\"},{\"id\":\"bn_\",\"action\":\"bs3\"},{\"id\":\"添加桌面小组件\",\"action\":\"GLOBAL_ACTION_BACK\"}]}"
@@ -135,7 +138,7 @@
 		"-1730999113": "{\"popup_rules\":[{\"id\":\"开启&终端管理\",\"action\":\"暂不开启\"}]}"
 	},
 	{
-		"1000776385": "{\"popup_rules\":[{\"id\":\"update_cancel\",\"action\":\"update_cancel\"}]}"
+		"1000776385": "{\"popup_rules\":[{\"id\":\"update_cancel\",\"action\":\"update_cancel\"},{\"id\":\"iv_body\",\"action\":\"iv_close\"},{\"id\":\"img_ad\",\"action\":\"img_ad_close\"}]}"
 	},
 	{
 		"1877659010": "{\"popup_rules\":[{\"id\":\"a2t\",\"action\":\"a2t\"}]}"
@@ -154,6 +157,9 @@
 	},
 	{
 		"1366626055": "{\"popup_rules\":[{\"id\":\"七猫新人红包\",\"action\":\"iv_close_bonus\"},{\"id\":\"tv_teen_dialog_title\",\"action\":\"young_dialog_close_img\"}]}"
+	},
+	{
+		"-1357050264": "{\"popup_rules\":[{\"id\":\"定位服务&开启\",\"action\":\"关闭\"},{\"id\":\"活动图片\",\"action\":\"关闭\"}]}"
 	},
 	{
 		"2092879561": "{\"popup_rules\":[{\"id\":\"青少年守护\",\"action\":\"已满14岁\"},{\"id\":\"cancelButton\",\"action\":\"cancelButton\"},{\"id\":\"去&应用市场&评价\",\"action\":\"取消\"}]}"
@@ -294,7 +300,7 @@
 		"641733616": "{\"popup_rules\":[{\"id\":\"版本更新\",\"action\":\"GLOBAL_ACTION_BACK\"},{\"id\":\"青少年模式\",\"action\":\"我知道了\"},{\"id\":\"开启通知\",\"action\":\"不再提示\"},{\"id\":\"tv_text_match\",\"action\":\"iv_heart_match_x\"},{\"id\":\"定位权限\",\"action\":\"拒绝\"},{\"id\":\"iv_gift_info\",\"action\":\"iv_close\"}]}"
 	},
 	{
-		"1994036591": "{\"popup_rules\":[{\"id\":\"+ad_tint_frame\",\"action\":\"=关闭\"}]}"
+		"1994036591": "{\"popup_rules\":[{\"id\":\"ad_tint_frame\",\"action\":\"关闭\"},{\"id\":\"ic_notice\",\"action\":\"ic_action\"}]}"
 	},
 	{
 		"2009078134": "{\"popup_rules\":[{\"id\":\"新用户限时特惠\",\"action\":\"知道了\"}]}"
@@ -363,6 +369,9 @@
 		"1335515207": "{\"popup_rules\":[{\"id\":\"开启消息通知\",\"action\":\"icft_close\"}]}"
 	},
 	{
+		"-1556709909": "{\"popup_rules\":[{\"id\":\"supportBt\",\"action\":\"closeBt\"}]}"
+	},
+	{
 		"-1447059102": "{\"popup_rules\":[{\"id\":\"img_ads\",\"action\":\"iv_close\"},{\"id\":\"float_ad_img\",\"action\":\"close_float_ad_img\"},{\"id\":\"video_view\",\"action\":\"iv_close\"}]}"
 	},
 	{
@@ -382,6 +391,9 @@
 	},
 	{
 		"-1502821745": "{\"popup_rules\":[{\"id\":\"单车&天骑&单&立即领取\",\"action\":\"actionDialogClose\"},{\"id\":\"hbDialogLayout\",\"action\":\"actionDialogClose\"},{\"id\":\"gENrrooPRRSKS2nmR644j\",\"action\":\"gENrrooPRRSKS2nmR644j\"},{\"id\":\"resize,w_933\",\"action\":\"OcAed8BaQIDrlsAAAAASUVORK5CYII=\"}]}"
+	},
+	{
+		"1056984291": "{\"popup_rules\":[{\"id\":\"update_content\",\"action\":\"image_cancel\"},{\"id\":\"iv_notice\",\"action\":\"ib_close\"}]}"
 	},
 	{
 		"978047406": "{\"popup_rules\":[{\"id\":\"+开启定位\",\"action\":\"qmapapi_guide_close\"},{\"id\":\"h_explore_rn|NewPopUp|DrawLotteryPopup|Touchable\",\"action\":\"h_explore_rn|NewPopUp|DrawLotteryPopup|Touchable\"}]}"
@@ -414,7 +426,10 @@
 		"93910113": "{\"popup_rules\":[{\"id\":\"layout_gift\",\"action\":\"iv_close\"},{\"id\":\"iv_notify\",\"action\":\"iv_close\"}]}"
 	},
 	{
-		"1791072826": "{\"popup_rules\":[{\"id\":\"百度网盘更新啦\",\"action\":\"下次再说\"},{\"id\":\"iv_close\",\"action\":\"iv_close\"},{\"id\":\"banner_item_close\",\"action\":\"banner_item_close\"},{\"id\":\"close\",\"action\":\"close\"},{\"id\":\"close_clean_guide\",\"action\":\"close_clean_guide\"},{\"id\":\"close_notification_tip\",\"action\":\"close_notification_tip\"},{\"id\":\"iv_yike_close\",\"action\":\"iv_yike_close\"},{\"id\":\"yike_guide_exit\",\"action\":\"yike_guide_exit\"}]}"
+		"1076661718": "{\"popup_rules\":[{\"id\":\"版本更新\",\"action\":\"暂不更新\"}]}"
+	},
+	{
+		"1791072826": "{\"popup_rules\":[{\"id\":\"百度网盘更新啦\",\"action\":\"下次再说\"},{\"id\":\"开启消息通知\",\"action\":\"dialog_cancel\"},{\"id\":\"iv_close\",\"action\":\"iv_close\"},{\"id\":\"banner_item_close\",\"action\":\"banner_item_close\"},{\"id\":\"close\",\"action\":\"close\"},{\"id\":\"close_clean_guide\",\"action\":\"close_clean_guide\"},{\"id\":\"close_notification_tip\",\"action\":\"close_notification_tip\"},{\"id\":\"iv_yike_close\",\"action\":\"iv_yike_close\"},{\"id\":\"yike_guide_exit\",\"action\":\"yike_guide_exit\"}]}"
 	},
 	{
 		"555434215": "{\"popup_rules\":[{\"id\":\"权限申请说明\",\"action\":\"不同意\"},{\"id\":\"权限申请说明\",\"action\":\"我知道了\"},{\"id\":\"img_bg_header\",\"action\":\"img_close\"},{\"id\":\"txt_client_top_location_guide_title\",\"action\":\"client_top_location_guide_cancel\"},{\"id\":\"contact_post_guide_layout_contact\",\"action\":\"contact_post_guide_img_close\"},{\"id\":\"开启消息通知\",\"action\":\"✕\"},{\"id\":\"ll_wechat_bind_layout\",\"action\":\"iv_wechat_bind_close\"},{\"id\":\"img_bg\",\"action\":\"img_close\"},{\"id\":\"完善个人信息\",\"action\":\"iv_dtl_dialog_close\"}]}"
