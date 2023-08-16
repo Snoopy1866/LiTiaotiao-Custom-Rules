@@ -6,16 +6,23 @@
 ```
 {"popup_rules":
     [
-        {"id":"+ad_tint_frame","action":"=关闭"}
+        {"id":"ad_tint_frame","action":"关闭"},
+        {"id":"ic_notice","action":"ic_action"}
     ]
 }
 ```
 详细说明：
-- [{"id":"+ad_tint_frame","action":"=关闭"}](#idad_tint_frameaction关闭)
+- [{"id":"ad_tint_frame","action":"关闭"}](#idad_tint_frameaction关闭)
+- [{"id":"ic_notice","action":"ic_action"}](#idic_noticeactionic_action)
 
-### {"id":"ad_tint_frame","action":"=关闭"}
-去除视频播放页面横幅广告
+### {"id":"ad_tint_frame","action":"关闭"}
+关闭视频播放页面横幅广告（⚡ 需要手动触发）
 
 ![](./assets/ad_tint_frame.jpg)
+
+### {"id":"ic_notice","action":"ic_action"}
+关闭 “我的” 页面视频推荐广播通知（⚡ 需要手动触发）
+
+![](./assets/“我的”%20页面视频推荐广播通知.jpg)
 
 ## 增强规则
