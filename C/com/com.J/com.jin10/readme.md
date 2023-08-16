@@ -6,16 +6,23 @@
 ```
 {"popup_rules":
     [
-        {"id":"update_cancel","action":"update_cancel"}
+        {"id":"update_cancel","action":"update_cancel"},
+        {"id":"iv_body","action":"iv_close"}
     ]
 }
 ```
 详细说明：
 - [{"id":"update_cancel","action":"update_cancel"}](#idupdate_cancelactionupdate_cancel)
+- [{"id":"iv_body","action":"iv_close"}](#idiv_bodyactioniv_close)
 
 ### {"id":"update_cancel","action":"update_cancel"}
-去除更新弹窗提示
+关闭更新弹窗提示
 
 ![](./assets/update_cancel.jpg)
+
+### {"id":"iv_body","action":"iv_close"}
+关闭 “30天选股体验卡” 弹窗
+
+![](./assets/“30天选股体验卡”%20弹窗.jpg)
 
 ## 增强规则
