@@ -20,7 +20,7 @@
 ![](./assets/回答下方的广告.jpg)
 
 ### {"id":"zhConstraintLayout","action":"dismiss"}
-关闭盐选广告弹窗
+关闭盐选会员广告弹窗
 
 ![](./assets/盐选广告弹窗.jpg)
 
