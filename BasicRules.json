@@ -90,6 +90,9 @@
 		"1765779203": "{\"popup_rules\":[{\"id\":\"red_packet_content\",\"action\":\"red_packet_close\"},{\"id\":\"bn_\",\"action\":\"bs3\"},{\"id\":\"添加桌面小组件\",\"action\":\"GLOBAL_ACTION_BACK\"}]}"
 	},
 	{
+		"502255059": "{\"popup_rules\":[{\"id\":\"青少年模式\",\"action\":\"我知道了\"},{\"id\":\"开启消息通知\",\"action\":\"arg\"}]}"
+	},
+	{
 		"-1692253156": "{\"popup_rules\":[{\"id\":\"novelad_banner_ad_text\",\"action\":\"novel_banner_ad_close\"},]}"
 	},
 	{
