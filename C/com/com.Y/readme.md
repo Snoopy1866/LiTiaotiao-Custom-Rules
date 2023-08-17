@@ -6,3 +6,4 @@
 - [com.yitong.mbank.psbc](./com.yitong.mbank.psbc/readme.md)（邮储银行）
 - [com.youku.phone](./com.youku.phone/readme.md)（优酷视频）
 - [com.youqi.fjjf](./com.youqi.fjjf/readme.md)（饭橘）
+- [com.yy.yomi](./com.yy.yomi/readme.md)（Yo语音）
