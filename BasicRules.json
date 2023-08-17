@@ -84,7 +84,7 @@
 		"630814885": "{\"popup_rules\":[{\"id\":\"rl_center\",\"action\":\"iv_close\"},{\"id\":\"iv_news\",\"action\":\"iv_close\"},{\"id\":\"开启消息通知\",\"action\":\"iv_tip_close\"}]}"
 	},
 	{
-		"-759128068": "{\"popup_rules\":[{\"id\":\"青少年模式\",\"action\":\"我知道了\"},{\"id\":\"tvBottomFloatViewDesc\",\"action\":\"ivBottomFloatViewClose\"},{\"id\":\"奖品免费包邮到家\",\"action\":\"放弃领取\"},{\"id\":\"你可能感兴趣的人\",\"action\":\"ivRemove\",\"times\":5},{\"id\":\"anim_view\",\"action\":\"closeIcon\"},{\"id\":\"新人超值好物\",\"action\":\"ivClose\"}]}"
+		"-759128068": "{\"popup_rules\":[{\"id\":\"青少年模式\",\"action\":\"我知道了\"},{\"id\":\"tvBottomFloatViewDesc\",\"action\":\"ivBottomFloatViewClose\"},{\"id\":\"奖品免费包邮到家\",\"action\":\"放弃领取\"},{\"id\":\"你可能感兴趣的人\",\"action\":\"ivRemove\",\"times\":5},{\"id\":\"anim_view\",\"action\":\"closeIcon\"},{\"id\":\"新人超值好物\",\"action\":\"ivClose\"},{\"id\":\"新人限时福利\",\"action\":\"ivClose\"}]}"
 	},
 	{
 		"1765779203": "{\"popup_rules\":[{\"id\":\"red_packet_content\",\"action\":\"red_packet_close\"},{\"id\":\"bn_\",\"action\":\"bs3\"},{\"id\":\"添加桌面小组件\",\"action\":\"GLOBAL_ACTION_BACK\"}]}"
@@ -121,6 +121,9 @@
 	},
 	{
 		"-1960346768": "{\"popup_rules\":[{\"id\":\"ad_content\",\"action\":\"btnClose\"}]}"
+	},
+	{
+		"-733096426": "{\"popup_rules\":[{\"id\":\"更新Telegram\",\"action\":\"请稍后提醒我\"}]}"
 	},
 	{
 		"-1414602254": "{\"popup_rules\":[{\"id\":\"恭喜！你收到新人现金红包\",\"action\":\"dtj\"},{\"id\":\"朋友推荐\",\"action\":\"close\"},{\"id\":\"朋友推荐\",\"action\":\"不感兴趣\"},{\"id\":\"朋友推荐\",\"action\":\"关闭\"},{\"id\":\"青少年模式\",\"action\":\"关闭\"},{\"id\":\"资料完善度&继续完善\",\"action\":\"关闭\"}]}"
@@ -324,6 +327,9 @@
 		"1788138577": "{\"popup_rules\":[{\"id\":\"关注服务号\",\"action\":\"close_btn\"}]}"
 	},
 	{
+		"752555548": "{\"popup_rules\":[{\"id\":\"的广告\",\"action\":\"×\"},{\"id\":\"zhConstraintLayout\",\"action\":\"dismiss\"}]}"
+	},
+	{
 		"953551389": "{\"popup_rules\":[{\"id\":\"使用您的位置\",\"action\":\"暂不\"}]}"
 	},
 	{
@@ -346,6 +352,9 @@
 	},
 	{
 		"101952197": "{\"popup_rules\":[{\"id\":\"btn_open_notify\",\"action\":\"not_open_notify\"}]}"
+	},
+	{
+		"-54547863": "{\"popup_rules\":[{\"id\":\"显示通知\",\"action\":\"取消授权\"},{\"id\":\"ivAdv\",\"action\":\"ivClose\"}]}"
 	},
 	{
 		"-1839413884": "{\"popup_rules\":[{\"id\":\"interact_ad_root\",\"action\":\"iv_close\"}]}"
