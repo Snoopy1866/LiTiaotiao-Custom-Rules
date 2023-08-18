@@ -1,5 +1,6 @@
 # com.C*xxx*
 
+- [com.chinamobile.mcloud](./com.chinamobile.mcloud/readme.md)（中国移动云盘）
 - [com.cmbchina.ccd.pluto.cmbActivity](./com.cmbchina.ccd.pluto.cmbActivity/readme.md)（掌上生活）
 - [com.cmcc.cmvideo](./com.cmcc.cmvideo/readme.md)（咪咕视频）
 - [com.cnspeedtest.globalspeed](./com.cnspeedtest.globalspeed/readme.md)（全球网测）
