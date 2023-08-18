@@ -7,9 +7,12 @@
 
 - com.lalamove.huolala.client（货拉拉）
 - com.psyone.brainmusic（小睡眠）
-- com.xiaomi.shop（小米商城）
 - com.wykay.musiccnpka（卡音）
 - dahsix.afanb.gthqj（大师兄影视）
 - npgl.jsitcx.xlpqi（NP管理器）
+
+### Other
+
+- com.xiaomi.shop（小米商城）
 
 [To be continued ...](https://drive.google.com/drive/folders/1oz_aBHqjXgzX2P4rjwJwwj3ZhnefdpST?usp=sharing)
