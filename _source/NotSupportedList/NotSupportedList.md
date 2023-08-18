@@ -1,7 +1,7 @@
 ## NotSupportedList
 
 ### Pangle SDK
-这些 app 均使用了 [Pangle SDK](https://www.csjplatform.com/supportcenter/26221)（穿山甲） 为用户提供广告弹窗，此类弹窗布局中的控件无任何可标识的文本，且无法通过 GLOBAL_ACTION_BACK 关闭。
+这些 app 均使用了 [Pangle SDK](https://www.csjplatform.com/supportcenter/26221)（穿山甲） 为用户提供广告弹窗，此类弹窗布局中的控件无任何可标识的文本，且无法通过 GLOBAL_ACTION_BACK 关闭。对于这类 app，您可以尝试使用 MT 管理器删除对应的 ADActivity 去除此类弹窗。
 
 ![](./assets/Pangle%20SDK.jpg)
 
