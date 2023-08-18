@@ -48,6 +48,9 @@
 		"-833566134": "{\"popup_rules\":[{\"id\":\"发现新版本\",\"action\":\"下次再说\"}]}"
 	},
 	{
+		"1868020298": "{\"popup_rules\":[{\"id\":\"开启&通知\",\"action\":\"不要福利\"},{\"id\":\"view_pager\",\"action\":\"iv_close\"},{\"id\":\"iv_logo\",\"action\":\"iv_close\"},{\"id\":\"viewpager\",\"action\":\"iv_home_delete\"}]}"
+	},
+	{
 		"1893781697": "{\"popup_rules\":[{\"id\":\"新版体验邀请\",\"action\":\"bt_cancel_experience\"},{\"id\":\"tv_red_envelop_main_title\",\"action\":\"img_cf_view_close\"},{\"id\":\"img_floating_ad_cmb\",\"action\":\"img_close_floating_ad_cmb\"},{\"id\":\"定位服务\",\"action\":\"btn_mid_center_couple_negative\"},{\"id\":\"真的要放弃吗\",\"action\":\"残忍离开\"},{\"id\":\"img_cmb_drag_pendant_close\",\"action\":\"img_cmb_drag_pendant_close\"}]}"
 	},
 	{
@@ -78,6 +81,9 @@
 		"1575109845": "{\"popup_rules\":[{\"id\":\"开启系统通知\",\"action\":\"iv_close\"}]}"
 	},
 	{
+		"-747700391": "{\"popup_rules\":[{\"id\":\"立即免费领取\",\"action\":\"ivClose\"},{\"id\":\"新用户福利仅一次\",\"action\":\"放弃福利\"}]}"
+	},
+	{
 		"-2119218027": "{\"popup_rules\":[{\"id\":\"设置最右消息通知类型\",\"action\":\"暂不开启\"},{\"id\":\"lottie_view\",\"action\":\"iv_delete\"},{\"id\":\"+开启通知\",\"action\":\"tips_close\"},{\"id\":\"账号绑定手机号可以提升安全性\",\"action\":\"btn_close\"}]}"
 	},
 	{
@@ -91,6 +97,9 @@
 	},
 	{
 		"502255059": "{\"popup_rules\":[{\"id\":\"青少年模式\",\"action\":\"我知道了\"},{\"id\":\"开启消息通知\",\"action\":\"arg\"}]}"
+	},
+	{
+		"2091464343": "{\"popup_rules\":[{\"id\":\"获取&剪切板\",\"action\":\"不允许\"}]}"
 	},
 	{
 		"-1692253156": "{\"popup_rules\":[{\"id\":\"novelad_banner_ad_text\",\"action\":\"novel_banner_ad_close\"},]}"
@@ -192,6 +201,9 @@
 		"1836227312": "{\"popup_rules\":[{\"id\":\"iv_ads\",\"action\":\"iv_close\"}]}"
 	},
 	{
+		"1516206044": "{\"popup_rules\":[{\"id\":\"iv_head\",\"action\":\"返回首页\"},{\"id\":\"允许地理位置权限\",\"action\":\"不允许\"}]}"
+	},
+	{
 		"195210534": "{\"popup_rules\":[{\"id\":\"升级版本\",\"action\":\"关闭\"},{\"id\":\"收到一个现金红包\",\"action\":\"关闭\"}]}"
 	},
 	{
@@ -259,6 +271,9 @@
 	},
 	{
 		"1254578009": "{\"popup_rules\":[{\"id\":\"立即升级\",\"action\":\"iv_close\"},{\"id\":\"msgbox_popup_clear\",\"action\":\"msgbox_popup_clear\"}]}"
+	},
+	{
+		"-1895428968": "{\"popup_rules\":[{\"id\":\"=跳过\",\"action\":\"=跳过\"}]}"
 	},
 	{
 		"1085732649": "{\"popup_rules\":[{\"id\":\"开启通知\",\"action\":\"close_btn\"}]}"
@@ -451,5 +466,8 @@
 	},
 	{
 		"255610818": "{\"popup_rules\":[{\"id\":\"第一桶金\",\"action\":\"img_close\"},{\"id\":\"line_push\",\"action\":\"img_push_close\"},{\"id\":\"恭喜获得现金\",\"action\":\"img_close\"}]}"
+	},
+	{
+		"-34617839": "{\"popup_rules\":[{\"id\":\"开启定位权限\",\"action\":\"img_close\"},{\"id\":\"想获取您的位置信息\",\"action\":\"不允许\"}]}"
 	}
 ]
