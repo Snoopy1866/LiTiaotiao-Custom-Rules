@@ -3,6 +3,9 @@
 		"-1835777899": "{\"popup_rules\":[{\"id\":\"青少年模式\",\"action\":\"我知道了\"},{\"id\":\"common_confirm_dialog_center_layout\",\"action\":\"common_confirm_dialog_cancel\"},{\"id\":\"打开定位\",\"action\":\"我知道了\"},{\"id\":\"及时获取&消息\",\"action\":\"取消\"},{\"id\":\"tv_love_sub_title\",\"action\":\"iv_close_love_tips\"},{\"id\":\"打开通知\",\"action\":\"iv_notice_close\"}]}"
 	},
 	{
+		"2123438483": "{\"popup_rules\":[{\"id\":\"iv_coupon\",\"action\":\"iv_close\"}]}"
+	},
+	{
 		"-146860486": "{\"popup_rules\":[{\"id\":\"点击成为VIP，立享高级功能\",\"action\":\"close_btn\"},{\"id\":\"获取地理位置\",\"action\":\"dialog_close\"}]}"
 	},
 	{
@@ -46,6 +49,9 @@
 	},
 	{
 		"-833566134": "{\"popup_rules\":[{\"id\":\"发现新版本\",\"action\":\"下次再说\"}]}"
+	},
+	{
+		"-1864872766": "{\"popup_rules\":[{\"id\":\"恭喜获得&红包\",\"action\":\"unused_res_a\"},{\"id\":\"狠心离开&去看看\",\"action\":\"狠心离开\"},{\"id\":\"=logo\",\"action\":\"=close\"}]}"
 	},
 	{
 		"1868020298": "{\"popup_rules\":[{\"id\":\"开启&通知\",\"action\":\"不要福利\"},{\"id\":\"view_pager\",\"action\":\"iv_close\"},{\"id\":\"iv_logo\",\"action\":\"iv_close\"},{\"id\":\"viewpager\",\"action\":\"iv_home_delete\"}]}"
@@ -162,7 +168,7 @@
 		"-1635328017": "{\"popup_rules\":[{\"id\":\"抢先体验&不再提醒\",\"action\":\"不再提醒\"},{\"id\":\"关闭,按钮\",\"action\":\"关闭,按钮\"},{\"id\":\"关闭新特性弹窗\",\"action\":\"关闭新特性弹窗\"}]}"
 	},
 	{
-		"1276497535": "{\"popup_rules\":[{\"id\":\"bar_close\",\"action\":\"bar_close\"}]}"
+		"1276497535": "{\"popup_rules\":[{\"id\":\"有新版本&升级\",\"action\":\"暂不升级\"},{\"id\":\"bar_close\",\"action\":\"bar_close\"}]}"
 	},
 	{
 		"293886959": "{\"popup_rules\":[{\"id\":\"抢先体验\",\"action\":\"取消\"}]}"
@@ -222,9 +228,6 @@
 		"515982662": "{\"popup_rules\":[{\"id\":\"开启定位权限\",\"action\":\"locate_iv_close\"},{\"id\":\"marquee\",\"action\":\"关闭\"},{\"id\":\"fortune_adv\",\"action\":\"关闭\"}]}"
 	},
 	{
-		"461951746": "{\"popup_rules\":[{\"id\":\"进入青少年模式\",\"action\":\"我知道了\"},]}"
-	},
-	{
 		"1966418623": "{\"popup_rules\":[{\"id\":\"发现新版本\",\"action\":\"暂不升级\"}]}"
 	},
 	{
@@ -240,6 +243,9 @@
 		"-1898417322": "{\"popup_rules\":[{\"id\":\"single_banner\",\"action\":\"close\"}]}"
 	},
 	{
+		"1970409442": "{\"popup_rules\":[{\"id\":\"监护人同意\",\"action\":\"已满14岁\"}]}"
+	},
+	{
 		"-358087111": "{\"popup_rules\":[{\"id\":\"push_on_notify_bar\",\"action\":\"push_on_notify_delete\"}]}"
 	},
 	{
@@ -250,6 +256,9 @@
 	},
 	{
 		"-2096096381": "{\"popup_rules\":[{\"id\":\"pop_advertisement_content\",\"action\":\"iv_close\"}]}"
+	},
+	{
+		"2056863498": "{\"popup_rules\":[{\"id\":\"iv_content_ad\",\"action\":\"iv_close_tableScreenAd\"},{\"id\":\"iv_ad\",\"action\":\"iv_close\"},{\"id\":\"安装完整版日历\",\"action\":\"iv_close\"},{\"id\":\"iv_pic\",\"action\":\"iv_delte\"}]}"
 	},
 	{
 		"-1478231696": "{\"popup_rules\":[{\"id\":\"iv_peer_exchange_fhr\",\"action\":\"iv_peer_exchange_close_fhr\"},{\"id\":\"打开系统通知\",\"action\":\"bt_tip_close\"}]}"
@@ -264,7 +273,13 @@
 		"-1161240227": "{\"popup_rules\":[{\"id\":\"upgrade_title\",\"action\":\"upgrade_cancel\"},{\"id\":\"lciv_img\",\"action\":\"lciv_close\"},{\"id\":\"开启手机定位\",\"action\":\"下次再说\"}]}"
 	},
 	{
+		"199342455": "{\"popup_rules\":[{\"id\":\"开启推送通知\",\"action\":\"iv_close\"},{\"id\":\"tv_nps_title\",\"action\":\"img_nps_close\"}]}"
+	},
+	{
 		"-766051647": "{\"popup_rules\":[{\"id\":\"发现新版本\",\"action\":\"放弃更新\"}]}"
+	},
+	{
+		"-179660078": "{\"popup_rules\":[{\"id\":\"开启位置权限\",\"action\":\"GLOBAL_ACTION_BACK\"}]}"
 	},
 	{
 		"1979515232": "{\"popup_rules\":[{\"id\":\"updateVersionTitle\",\"action\":\"md_dialog_cm_close_btn\"}]}"
@@ -304,6 +319,9 @@
 	},
 	{
 		"1047154881": "{\"popup_rules\":[{\"id\":\"确认加购\",\"action\":\"GLOBAL_ACTION_BACK\"}]}"
+	},
+	{
+		"991394745": "{\"popup_rules\":[{\"id\":\"home_ad_dialog_pager\",\"action\":\"iv_home_ad_close\"},{\"id\":\"homeLocationPermissionTipsTitle\",\"action\":\"homeLocationPermissionClose\"},{\"id\":\"开启消息通知\",\"action\":\"close\"}]}"
 	},
 	{
 		"-2003752385": "{\"popup_rules\":[{\"id\":\"青少年模式\",\"action\":\"ok_tv\"},{\"id\":\"bg_iv\",\"action\":\"close_iv\"},{\"id\":\"notification_open_lay\",\"action\":\"close_lay_btn\"}]}"
