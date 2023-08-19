@@ -81,7 +81,7 @@ public class Main {
                     }
                 }
                 else if (letterPrefix.equals("C") && packageName.startsWith("com.")) {
-                    String letterComPrefix = packageName.substring(4, 5);
+                    String letterComPrefix = packageName.substring(4, 5).toUpperCase();
                     if (!letterComPrefix.equals(lastletterComPrefix)) {
                         bwBasic.write("- #### " + "com." + letterComPrefix + "\r\n");
                         lastletterComPrefix = letterComPrefix;
