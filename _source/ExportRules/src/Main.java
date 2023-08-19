@@ -1,5 +1,6 @@
 import java.io.*;
 import java.util.*;
+import java.util.regex.Pattern;
 
 
 public class Main {
@@ -11,7 +12,7 @@ public class Main {
         // String repoPath = "D:\\Documents\\GitHub\\LiTiaotiao-Custom-Rules";
 
 
-        // 创建 HashMap, 存储 app 相关信息（包名, readme.md路径, 普通规则, 增强规则）
+        // 创建 HashMap, 存储 app 相关信息（包名, （哈希值, readme.md路径, app 名称, 普通规则, 增强规则））
         HashMap<String, ArrayList<String>> packagesHashMap = new HashMap<String, ArrayList<String>>();
         // 获取规则文件
         ArrayList<String> packageCustomRulesMdFilePathList = getPackageCustomRulesMdFilePathList(repoPath);
@@ -37,12 +38,49 @@ public class Main {
             packagesHashMap.get(key).addAll(List.of(customRules));
         }
 
+        // 写入 app 列表至外部文件中
+        writeAppList(packagesHashMap, repoPath, repoPath + "\\AppList.md");
+
         // 写入规则至外部文件中
-        // index = 2, 表示普通规则
-        // index = 3, 表示增强规则
-        writeCustomRulesJson(packagesHashMap, 2, repoPath + "\\BasicRules.json");
-        writeCustomRulesJson(packagesHashMap, 3, repoPath + "\\ExtendedRules.json");
+        // index = 3, 表示普通规则
+        // index = 4, 表示增强规则
+
+        writeCustomRulesJson(packagesHashMap, 3, repoPath + "\\BasicRules.json");
+        writeCustomRulesJson(packagesHashMap, 4, repoPath + "\\ExtendedRules.json");
     }
+
+    private static void writeAppList(HashMap<String, ArrayList<String>> packagesHashMap, String repoPath, String path) {
+        try {
+            FileWriter fwBasic = new FileWriter(new File(path));
+            BufferedWriter bwBasic = new BufferedWriter(fwBasic);
+
+            // 对包名排序
+            ArrayList<String> packageNameList = new ArrayList<>(packagesHashMap.keySet());
+            Collections.sort(packageNameList);
+
+            // 开始写入
+            bwBasic.write("## Supported App List\r\n");
+
+            String lastLetterPreffix = "";
+            for(String packageName: packageNameList) {
+                // 添加首字母标题
+                String letterPreffix = packageName.substring(0, 1).toUpperCase();
+                if (!letterPreffix.equals(lastLetterPreffix)) {
+                    bwBasic.write("\r\n");
+                    bwBasic.write("### " + letterPreffix + "\r\n");
+                    lastLetterPreffix = letterPreffix;
+                }
+                String appMdFilePath = packagesHashMap.get(packageName).get(1);
+                String appName = packagesHashMap.get(packageName).get(2);
+                String line = "- [" + packageName + "](" + appMdFilePath.replace(repoPath, ".") + ")（" + appName + "）" + "\r\n";
+                bwBasic.write(line);
+                bwBasic.flush();
+            }
+        } catch (IOException e) {
+            throw new RuntimeException(e);
+        }
+    }
+
 
     private static void writeCustomRulesJson(HashMap<String, ArrayList<String>> packagesHashMap, int index, String path) {
         try {
@@ -125,16 +163,19 @@ public class Main {
 
     // 读取规则文件
     public static String[] readCustomRules(String packageCustomRulesMdFilePath) {
-        String[] customRules = new String[2];
+        String[] customRules = new String[3];
         try {
             FileInputStream inputStream = new FileInputStream(packageCustomRulesMdFilePath);
             BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(inputStream));
-
+            // app 名称
+            String appName = "";
             // 普通规则内容
             String basicRulesStr = "";
             // 增强规则内容
             String extendedRulesStr = "";
 
+            // 检测到 app 名称
+            Boolean appNameDetected = false;
             // 检测到普通规则标题
             Boolean basicRulesHeaderLineDetected = false;
             // 检测到普通规则内容开始
@@ -149,7 +190,11 @@ public class Main {
             String line;
 
             while ((line = bufferedReader.readLine()) != null) {
-                if (line.equals("## 普通规则")) {
+                if (!appNameDetected) {
+                    appName = line.substring(line.indexOf("（") + 1, line.indexOf("）"));
+                    appNameDetected = true;
+                }
+                else if (line.equals("## 普通规则")) {
                     basicRulesHeaderLineDetected = true;
                 }
                 else if (line.equals("```") && basicRulesHeaderLineDetected) {
@@ -166,6 +211,7 @@ public class Main {
                     continue;
                 }
 
+
                 if (basicRulesContentLineStartDetected) {
                     basicRulesStr += line.strip().replace("\"", "\\\"");
                 }
@@ -174,8 +220,9 @@ public class Main {
                 }
             }
 
-            customRules[0] = basicRulesStr;
-            customRules[1] = extendedRulesStr;
+            customRules[0] = appName;
+            customRules[1] = basicRulesStr;
+            customRules[2] = extendedRulesStr;
         } catch (FileNotFoundException e) {
             throw new RuntimeException(e);
         } catch (IOException e) {
