@@ -56,24 +56,49 @@ public class Main {
 
             // 对包名排序
             ArrayList<String> packageNameList = new ArrayList<>(packagesHashMap.keySet());
-            Collections.sort(packageNameList);
+            Collections.sort(packageNameList, String.CASE_INSENSITIVE_ORDER);
 
             // 开始写入
             bwBasic.write("## Supported App List\r\n");
 
-            String lastLetterPreffix = "";
+            String lastLetterPrefix = "";
+            String lastletterComPrefix = "";
+
+            Boolean comPrefix = false;
             for(String packageName: packageNameList) {
                 // 添加首字母标题
-                String letterPreffix = packageName.substring(0, 1).toUpperCase();
-                if (!letterPreffix.equals(lastLetterPreffix)) {
+                String letterPrefix = packageName.substring(0, 1).toUpperCase();
+                if (!letterPrefix.equals(lastLetterPrefix)) {
                     bwBasic.write("\r\n");
-                    bwBasic.write("### " + letterPreffix + "\r\n");
-                    lastLetterPreffix = letterPreffix;
+                    bwBasic.write("### " + letterPrefix + "\r\n");
+                    lastLetterPrefix = letterPrefix;
+                    if (letterPrefix.equals("C") && packageName.startsWith("com.")) {
+                        String letterComPrefix = packageName.substring(4, 5).toUpperCase();
+                        bwBasic.write("- #### " + "com." + letterComPrefix + "\r\n");
+                        lastletterComPrefix = letterComPrefix;
+
+                        comPrefix = true;
+                    }
+                }
+                else if (letterPrefix.equals("C") && packageName.startsWith("com.")) {
+                    String letterComPrefix = packageName.substring(4, 5);
+                    if (!letterComPrefix.equals(lastletterComPrefix)) {
+                        bwBasic.write("- #### " + "com." + letterComPrefix + "\r\n");
+                        lastletterComPrefix = letterComPrefix;
+
+                        comPrefix = true;
+                    }
                 }
                 String appMdFilePath = packagesHashMap.get(packageName).get(1);
                 String appName = packagesHashMap.get(packageName).get(2);
-                String line = "- [" + packageName + "](" + appMdFilePath.replace(repoPath, ".") + ")（" + appName + "）" + "\r\n";
-                bwBasic.write(line);
+                if (comPrefix) {
+                    String line = "  - [" + packageName + "](" + appMdFilePath.replace(repoPath, ".") + ")（" + appName + "）" + "\r\n";
+                    bwBasic.write(line);
+                }
+                else {
+                    String line = "- [" + packageName + "](" + appMdFilePath.replace(repoPath, ".") + ")（" + appName + "）" + "\r\n";
+                    bwBasic.write(line);
+                }
                 bwBasic.flush();
             }
         } catch (IOException e) {
