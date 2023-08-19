@@ -90,6 +90,9 @@
 		"-747700391": "{\"popup_rules\":[{\"id\":\"立即免费领取\",\"action\":\"ivClose\"},{\"id\":\"新用户福利仅一次\",\"action\":\"放弃福利\"}]}"
 	},
 	{
+		"-189732215": "{\"popup_rules\":[{\"id\":\"banner_image\",\"action\":\"image_close_banner\"}]}"
+	},
+	{
 		"-2119218027": "{\"popup_rules\":[{\"id\":\"设置最右消息通知类型\",\"action\":\"暂不开启\"},{\"id\":\"lottie_view\",\"action\":\"iv_delete\"},{\"id\":\"+开启通知\",\"action\":\"tips_close\"},{\"id\":\"账号绑定手机号可以提升安全性\",\"action\":\"btn_close\"}]}"
 	},
 	{
@@ -177,6 +180,9 @@
 		"-1731486278": "{\"popup_rules\":[{\"id\":\"iv_ad\",\"action\":\"close\"},{\"id\":\"邀您体验新版本\",\"action\":\"残忍拒绝\"},{\"id\":\"允许获取位置信息\",\"action\":\"取消\"},{\"id\":\"iv_notification_reminder_dialog\",\"action\":\"iv_notification_reminder_dialog_close\"},{\"id\":\"iv_switch\",\"action\":\"iv_skip\"},{\"id\":\"开启定位服务\",\"action\":\"暂时不了\"}]}"
 	},
 	{
+		"1799462192": "{\"popup_rules\":[{\"id\":\"ad_title\",\"action\":\"ad_close_btn\"}]}"
+	},
+	{
 		"1366626055": "{\"popup_rules\":[{\"id\":\"七猫新人红包\",\"action\":\"iv_close_bonus\"},{\"id\":\"tv_teen_dialog_title\",\"action\":\"young_dialog_close_img\"}]}"
 	},
 	{
@@ -234,6 +240,9 @@
 		"167193980": "{\"popup_rules\":[{\"id\":\"javascript:;\",\"action\":\"javascript:;\"},{\"id\":\"定位服务授权\",\"action\":\"取消\"},{\"id\":\"64c8cbcb30036\",\"action\":\"close\"}]}"
 	},
 	{
+		"-1239952740": "{\"popup_rules\":[{\"id\":\"为什么不希望看到这条推广\",\"action\":\"不感兴趣\"}]}"
+	},
+	{
 		"1511151769": "{\"popup_rules\":[{\"id\":\"获取消息通知\",\"action\":\"暂不开启\"}]}"
 	},
 	{
@@ -279,7 +288,7 @@
 		"-766051647": "{\"popup_rules\":[{\"id\":\"发现新版本\",\"action\":\"放弃更新\"}]}"
 	},
 	{
-		"-179660078": "{\"popup_rules\":[{\"id\":\"开启位置权限\",\"action\":\"GLOBAL_ACTION_BACK\"}]}"
+		"-179660078": "{\"popup_rules\":[{\"id\":\"开启位置权限\",\"action\":\"GLOBAL_ACTION_BACK\"},{\"id\":\"notice_title_txt\",\"action\":\"notice_close_txt\"}]}"
 	},
 	{
 		"1979515232": "{\"popup_rules\":[{\"id\":\"updateVersionTitle\",\"action\":\"md_dialog_cm_close_btn\"}]}"
@@ -337,6 +346,9 @@
 	},
 	{
 		"641733616": "{\"popup_rules\":[{\"id\":\"版本更新\",\"action\":\"GLOBAL_ACTION_BACK\"},{\"id\":\"青少年模式\",\"action\":\"我知道了\"},{\"id\":\"开启通知\",\"action\":\"不再提示\"},{\"id\":\"tv_text_match\",\"action\":\"iv_heart_match_x\"},{\"id\":\"定位权限\",\"action\":\"拒绝\"},{\"id\":\"iv_gift_info\",\"action\":\"iv_close\"}]}"
+	},
+	{
+		"-1065232334": "{\"popup_rules\":[{\"id\":\"iv_opera\",\"action\":\"iiv_close\"},{\"id\":\"mantine-r4-body\",\"action\":\"upload\"}]}"
 	},
 	{
 		"1994036591": "{\"popup_rules\":[{\"id\":\"ad_tint_frame\",\"action\":\"关闭\"},{\"id\":\"ic_notice\",\"action\":\"ic_action\"}]}"
