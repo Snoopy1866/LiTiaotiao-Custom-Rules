@@ -9,6 +9,7 @@
 ### C
 - [cmb.pb](./C/cmb.pb/readme.md)（行者）
 - [cn.com.ruijie.magicbox](./C/cn/cn.com.ruijie.magicbox/readme.md)（无线魔盒）
+- [cn.etouch.ecalendar](./C/cn/cn.etouch.ecalendar/readme.md)（中华万年历）
 - [cn.gov.pbc.dcep](./C/cn/cn.gov.pbc.dcep/readme.md)（数字人民币）
 - [cn.jingzhuan.stock](./C/cn/cn.jingzhuan.stock/readme.md)（经传多赢股票）
 - [cn.neoclub.uki](./C/cn/cn.neoclub.uki/readme.md)（Uki）
@@ -16,6 +17,7 @@
 - [cn.wps.yun](./C/cn/cn.wps.yun/readme.md)（金山文档）
 - [cn.xiaochuankeji.tieba](./C/cn/cn.xiaochuankeji.tieba/readme.md)（最右）
 - #### com.A
+  - [com.achievo.vipshop](./C/com/com.A/com.achievo.vipshop/readme.md)（唯品会）
   - [com.alibaba.android.rimet](./C/com/com.A/com.alibaba.android.rimet/readme.md)（钉钉）
   - [com.alibaba.wireless](./C/com/com.A/com.alibaba.wireless/readme.md)（阿里巴巴）
   - [com.alicloud.databox](./C/com/com.A/com.alicloud.databox/readme.md)（阿里云盘）
@@ -94,6 +96,7 @@
   - [com.lolaage.tbulu.tools](./C/com/com.L/com.lolaage.tbulu.tools/readme.md)（两步路户外助手）
   - [com.lp.lightawake](./C/com/com.L/com.lp.lightawake/readme.md)（轻醒）
   - [com.lphtsccft](./C/com/com.L/com.lphtsccft/readme.md)（涨乐财富通）
+  - [com.lu.ashionweather](./C/com/com.L/com.lu.ashionweather/readme.md)（天气预报）
   - [com.luna.music](./C/com/com.L/com.luna.music/readme.md)（汽水音乐）
 - #### com.M
   - [com.mi.health](./C/com/com.M/com.mi.health/readme.md)（小米运动健康）
@@ -111,6 +114,7 @@
   - [com.pupumall.customer](./C/com/com.P/com.pupumall.customer/readme.md)（朴朴超市）
 - #### com.Q
   - [com.qidian.QDReader](./C/com/com.Q/com.qidian.QDReader/readme.md)（起点读书）
+  - [com.qiyi.video](./C/com/com.Q/com.qiyi.video/readme.md)（爱奇艺）
   - [com.Qunar](./C/com/com.Q/com.Qunar/readme.md)（去哪儿旅行）
 - #### com.S
   - [com.sankuai.meituan](./C/com/com.S/com.sankuai.meituan/readme.md)（美团）
@@ -142,7 +146,7 @@
   - [com.tencent.wemeet.app](./C/com/com.T/com.tencent.wemeet.app/readme.md)（腾讯会议）
   - [com.tianyancha.skyeye](./C/com/com.T/com.tianyancha.skyeye/readme.md)（天眼查）
   - [com.to8to.housekeeper](./C/com/com.T/com.to8to.housekeeper/readme.md)（土巴兔装修）
-  - [com.tv.danmaku.bili](./C/com/com.T/com.tv.danmaku.bili/readme.md)（哔哩哔哩）
+  - [com.tongcheng.android](./C/com/com.T/com.tongcheng.android/readme.md)（同程旅行）
   - [com.tymxa.gqshfhs](./C/com/com.T/com.tymxa.gqshfhs/readme.md)（高情商回复话术）
 - #### com.U
   - [com.unionpay](./C/com/com.U/com.unionpay/readme.md)（云闪付）
@@ -169,6 +173,7 @@
   - [com.xunmeng.pinduoduo](./C/com/com.X/com.xunmeng.pinduoduo/readme.md)（拼多多）
   - [com.xyhui](./C/com/com.X/com.xyhui/readme.md)（PU口袋校园）
 - #### com.Y
+  - [com.yangcong345.android.phone](./C/com/com.Y/com.yangcong345.android.phone/readme.md)（洋葱学园-原洋葱数学）
   - [com.yiche.autoeasy](./C/com/com.Y/com.yiche.autoeasy/readme.md)（易车）
   - [com.yingyeting.shouji](./C/com/com.Y/com.yingyeting.shouji/readme.md)（网上营业厅）
   - [com.yipiao](./C/com/com.Y/com.yipiao/readme.md)（智行火车票12306抢票）
@@ -194,6 +199,7 @@
   - [me.ele](./M/me.ele/readme.md)（饿了么）
 
 ### N
+  - [net.csdn.csdnplus](./N/net.csdn.csdnplus/readme.md)（CSDN）
   - [net.unitepower.zhitong](./N/net.unitepower.zhitong/readme.md)（智通人才网）
 
 ### O
