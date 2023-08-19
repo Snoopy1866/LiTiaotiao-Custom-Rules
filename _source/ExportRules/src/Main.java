@@ -92,11 +92,11 @@ public class Main {
                 String appMdFilePath = packagesHashMap.get(packageName).get(1);
                 String appName = packagesHashMap.get(packageName).get(2);
                 if (comPrefix) {
-                    String line = "  - [" + packageName + "](" + appMdFilePath.replace(repoPath, ".") + ")（" + appName + "）" + "\r\n";
+                    String line = "  - [" + packageName + "](" + appMdFilePath.replace(repoPath, ".").replace("\\", "/") + ")（" + appName + "）" + "\r\n";
                     bwBasic.write(line);
                 }
                 else {
-                    String line = "- [" + packageName + "](" + appMdFilePath.replace(repoPath, ".") + ")（" + appName + "）" + "\r\n";
+                    String line = "- [" + packageName + "](" + appMdFilePath.replace(repoPath, ".").replace("\\", "/") + ")（" + appName + "）" + "\r\n";
                     bwBasic.write(line);
                 }
                 bwBasic.flush();
