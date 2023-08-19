@@ -16,7 +16,7 @@
 ### {"id":"ad_title","action":"ad_close_btn"}
 关闭主题详情页面下方广告
 
-✔ 此规则需联合 [智能服务](../../com.M/com.miui.systemAdSolution/readme.md#id为什么不希望看到这条推广action不感兴趣) 规则生效
+✔ 此规则需联合 [MIUI 智能服务](../../com.M/com.miui.systemAdSolution/readme.md#id为什么不希望看到这条推广action不感兴趣) 规则生效
 
 ![](./assets/主题详情页面下方广告.jpg)
 
