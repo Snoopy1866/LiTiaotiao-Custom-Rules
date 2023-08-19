@@ -22,6 +22,7 @@
   - [com.alibaba.wireless](./C/com/com.A/com.alibaba.wireless/readme.md)（阿里巴巴）
   - [com.alicloud.databox](./C/com/com.A/com.alicloud.databox/readme.md)（阿里云盘）
   - [com.android.bankabc](./C/com/com.A/com.android.bankabc/readme.md)（中国农业银行）
+  - [com.android.thememanager](./C/com/com.A/com.android.thememanager/readme.md)（MIUI 主题壁纸）
   - [com.anjuke.android.app](./C/com/com.A/com.anjuke.android.app/readme.md)（安居客）
   - [com.apowersoft.letsview](./C/com/com.A/com.apowersoft.letsview/readme.md)（幕连）
   - [com.autonavi.minimap](./C/com/com.A/com.autonavi.minimap/readme.md)（高德地图）
@@ -47,6 +48,7 @@
   - [com.daimajia.gold](./C/com/com.D/com.daimajia.gold/readme.md)（稀土掘金）
   - [com.dmzj.manhua](./C/com/com.D/com.dmzj.manhua/readme.md)（动漫之家）
   - [com.dragon.read](./C/com/com.D/com.dragon.read/readme.md)（番茄免费小说）
+  - [com.duokan.phone.remotecontroller](./C/com/com.D/com.duokan.phone.remotecontroller/readme.md)（万能遥控）
   - [com.duolingo](./C/com/com.D/com.duolingo/readme.md)（多邻国）
   - [com.duowan.kiwi](./C/com/com.D/com.duowan.kiwi/readme.md)（虎牙直播）
   - [com.duowan.mobile](./C/com/com.D/com.duowan.mobile/readme.md)（YY）
@@ -70,6 +72,7 @@
   - [com.hose.ekuaibao](./C/com/com.H/com.hose.ekuaibao/readme.md)（易快报）
   - [com.hpbr.bosszhipin](./C/com/com.H/com.hpbr.bosszhipin/readme.md)（BOSS直聘）
   - [com.hundsun.winner.pazq](./C/com/com.H/com.hundsun.winner.pazq/readme.md)（平安证券）
+  - [com.hupu.games](./C/com/com.H/com.hupu.games/readme.md)（虎扑）
 - #### com.I
   - [com.iflytek.vflynote](./C/com/com.I/com.iflytek.vflynote/readme.md)（讯飞语记）
   - [com.immomo.vchat](./C/com/com.I/com.immomo.vchat/readme.md)（赫兹）
@@ -103,6 +106,7 @@
   - [com.miui.huanji](./C/com/com.M/com.miui.huanji/readme.md)（小米换机）
   - [com.miui.packageinstaller](./C/com/com.M/com.miui.packageinstaller/readme.md)（MIUI 应用包管理组件）
   - [com.miui.player](./C/com/com.M/com.miui.player/readme.md)（MIUI 音乐）
+  - [com.miui.systemAdSolution](./C/com/com.M/com.miui.systemAdSolution/readme.md)（MIUI 智能服务）
   - [com.mm.android.lc](./C/com/com.M/com.mm.android.lc/readme.md)（乐橙）
 - #### com.N
   - [com.netease.cloudmusic](./C/com/com.N/com.netease.cloudmusic/readme.md)（网易云音乐）
