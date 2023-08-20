@@ -11,7 +11,7 @@
 }
 ```
 详细说明：
-- [{"id":"pop_advertisement_content","action":"iv_close"}](#idpop_advertisement_contentactioniv_close)
+- [{"id":"ad_title","action":"ad_close_btn"}](#idad_titleactionad_close_btn)
 
 ### {"id":"ad_title","action":"ad_close_btn"}
 关闭主题详情页面下方广告
