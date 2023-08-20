@@ -6,6 +6,7 @@
 ```
 {"popup_rules":
     [
+        {"id":"发现新版本","action":"以后再说"},
         {"id":"获取&剪切板","action":"不允许"},
         {"id":"开启推送通知","action":"取消"},
         {"id":"drag_img","action":"close_btn"},
@@ -15,11 +16,17 @@
 }
 ```
 详细说明：
+- [{"id":"发现新版本","action":"以后再说"}](#id发现新版本action以后再说)
 - [{"id":"获取&剪切板","action":"不允许"}](#id获取剪切板action不允许)
 - [{"id":"开启推送通知","action":"取消"}](#id开启推送通知action取消)
 - [{"id":"drag_img","action":"close_btn"}](#iddrag_imgactionclose_btn)
 - [{"id":"图片跳转","action":"此图片未加标签"}](#id图片跳转action此图片未加标签)
 - [{"id":"ad_image","action":"close_btn"}](#idad_imageactionclose_btn)
+
+### {"id":"发现新版本","action":"以后再说"}
+关闭更新弹窗
+
+![](./assets/更新弹窗.jpg)
 
 ### {"id":"获取&剪切板","action":"不允许"}
 关闭获取剪贴板权限弹窗
