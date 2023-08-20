@@ -9,6 +9,7 @@
 - [com.ximi.weightrecord](./com.ximi.weightrecord/readme.md)（体重小本）
 - [com.xingin.xhs](./com.xingin.xhs/readme.md)（小红书）
 - [com.xs.fm](./com.xs.fm/readme.md)（番茄畅听）
+- [com.xs.fm.lite](./com.xs.fm.lite/readme.md)（番茄畅听音乐版）
 - [com.xueqiu.android](./com.xueqiu.android/readme.md)（雪球）
 - [com.xunlei.downloadprovider](./com.xunlei.downloadprovider/readme.md)（迅雷）
 - [com.xunmeng.pinduoduo](./com.xunmeng.pinduoduo/readme.md)（拼多多）
