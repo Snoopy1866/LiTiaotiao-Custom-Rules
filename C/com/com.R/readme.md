@@ -1,3 +1,3 @@
 # com.R*xxx*
 
-## 欢迎贡献规则
+- [com.rumtel.pandatv](./com.rumtel.pandatv/readme.md)（电视直播）
