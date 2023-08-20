@@ -9,3 +9,4 @@
 - [cn.soulapp.android](./cn.soulapp.android/readme.md)（Soul）
 - [cn.wps.yun](./cn.wps.yun/readme.md)（金山文档）
 - [cn.xiaochuankeji.tieba](./cn.xiaochuankeji.tieba/readme.md)（最右）
+- [cn.xiaochuankeji.zuiyouLite](./cn.xiaochuankeji.zuiyouLite/readme.md)（皮皮搞笑）
