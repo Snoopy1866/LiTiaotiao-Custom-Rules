@@ -12,7 +12,9 @@
         {"id":"tvVersion","action":"not_update"},
         {"id":"swiper_list","action":"GLOBAL_ACTION_BACK"},
         {"id":"tv_sign_in","action":"iv_sign_in_close"},
-        {"id":"image_avatar","action":"image_close"}
+        {"id":"image_avatar","action":"image_close"},
+        {"id":"iv_tag_ad","action":"tedium"},
+        {"id":"feedback_general_text","action":"不喜欢广告主"}
     ]
 }
 ```
@@ -24,6 +26,7 @@
 - [{"id":"swiper_list","action":"GLOBAL_ACTION_BACK"}](#idswiper_listactionglobal_action_back)
 - [{"id":"tv_sign_in","action":"iv_sign_in_close"}](#idtv_sign_inactioniv_sign_in_close)
 - [{"id":"image_avatar","action":"image_close"}](#idimage_avataractionimage_close)
+- [{"id":"iv_tag_ad","action":"tedium"} - {"id":"feedback_general_text","action":"不喜欢广告主"}](#idiv_tag_adactiontedium---idfeedback_general_textaction不喜欢广告主)
 
 ### {"id":"tvVersion","action":"not_update"}
 关闭更新弹窗
@@ -65,5 +68,12 @@
 关闭直播间新人礼弹窗
 
 ![](./assets/直播间新人礼弹窗.jpg)
+
+### {"id":"iv_tag_ad","action":"tedium"} - {"id":"feedback_general_text","action":"不喜欢广告主"}
+**联合规则**：关闭视频浏览页面广告
+
+⚠ 不稳定，可能需要手动触发
+
+![](./assets/视频浏览页面广告.jpg)
 
 ## 增强规则
