@@ -1,0 +1,28 @@
+# com.kugou.fanxing（酷狗直播）
+
+## 普通规则
+
+快速复制:
+```
+{"popup_rules":
+    [
+        {"id":"发现新版本","action":"稍后更新"},
+        {"id":"限时&星币购买","action":"GLOBAL_ACTION_BACK"}
+    ]
+}
+```
+详细说明：
+- [{"id":"发现新版本","action":"稍后更新"}](#id发现新版本action稍后更新)
+- [{"id":"限时&星币购买","action":"GLOBAL_ACTION_BACK"}](#id限时星币购买actionglobal_action_back)
+
+### {"id":"发现新版本","action":"稍后更新"}
+关闭更新弹窗
+
+![](./assets/更新弹窗.jpg)
+
+### {"id":"限时&星币购买","action":"GLOBAL_ACTION_BACK"}
+关闭限时星币购买弹窗
+
+![](./assets/限时星币购买弹窗.jpg)
+
+## 增强规则
