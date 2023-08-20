@@ -19,6 +19,7 @@
 详细说明：
 - [{"id":"native_ad_container","action":"topon_btn_close"}](#idnative_ad_containeractiontopon_btn_close)
 - [{"id":"csj_ad_logo","action":"csj_btn_close"}](#idcsj_ad_logoactioncsj_btn_close)
+- [{"id":"| 跳过","action":"| 跳过"} - {"id":"再看&可领奖励","action":"坚持退出"}](#id-跳过action-跳过---id再看可领奖励action坚持退出)
 
 ### {"id":"native_ad_container","action":"topon_btn_close"}
 关闭直播页面广告-1
