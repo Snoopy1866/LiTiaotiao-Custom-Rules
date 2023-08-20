@@ -44,7 +44,7 @@
 
 🍭 找不到你需要的 app 规则？你可以前往 [Issues](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules/issues) 提交适配需求。
 
-💀 某些 APP 的广告布局中的控件不存在任何可以标识的文本（id, desc, text），因此无法为这些 APP 书写通用规则。除非在未来的某一天这些 APP 为关闭广告按钮增加了可标识的文本（或者广告布局中的其他控件增加了可标识文本且可通过返回键关闭广告），否则这些 APP 将不会被本项目所适配。点击查看 [NotSupportedList](./_source/NotSupportedList/NotSupportedList.md)。
+💀 某些 APP 的广告布局中的控件不存在任何可以标识的文本（id, desc, text），因此无法为这些 APP 书写通用规则。除非在未来的某一天这些 APP 为关闭广告按钮增加了可标识的文本（或者广告布局中的其他控件增加了可标识文本且可通过返回键关闭广告），否则这些 APP 将不会被本项目所适配。点击查看 [无法适配的 app 列表](./_source/NotSupportedList/NotSupportedList.md)。
 
 🎯 **[FAQ](#faq)**
 
