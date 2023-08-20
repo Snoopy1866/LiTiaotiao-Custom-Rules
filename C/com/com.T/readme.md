@@ -4,6 +4,7 @@
 - [com.taobao.taobao](./com.taobao.taobao/readme.md)（淘宝）
 - [com.taobao.trip](./com.taobao.trip/readme.md)（飞猪旅行）
 - [com.taptap](./com.taptap/readme.md)（TapTap）
+- [com.tencent.karaoke](./com.tencent.karaoke/readme.md)（全民K歌）
 - [com.tencent.mobileqq](./com.tencent.mobileqq/readme.md)（QQ）
 - [com.tencent.mtt](./com.tencent.mtt/readme.md)（QQ浏览器）
 - [com.tencent.news](./com.tencent.news/readme.md)（腾讯新闻）
