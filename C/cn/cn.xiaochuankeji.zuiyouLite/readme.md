@@ -45,10 +45,14 @@
 ### {"id":"push_content","action":"push_remind_close"}
 关闭开启通知提示信息
 
+⚠ 不稳定，可能需要手动触发
+
 ![](./assets/开启通知提示信息.jpg)
 
 ### {"id":"swiper_list","action":"GLOBAL_ACTION_BACK"}
 关闭首充礼包广告
+
+⚠ 不稳定，可能需要手动触发
 
 ![](./assets/首充礼包广告.jpg)
 
