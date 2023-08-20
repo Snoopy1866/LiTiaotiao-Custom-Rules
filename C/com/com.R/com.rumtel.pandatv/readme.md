@@ -12,7 +12,8 @@
         {"id":"csj_ad_logo","action":"csj_btn_close"},
         {"id":"| 跳过","action":"| 跳过"},
         {"id":"再看&可领奖励","action":"坚持退出"}
-    ]
+    ],
+    "click_way_popup":1
 }
 ```
 详细说明：
