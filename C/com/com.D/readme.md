@@ -4,6 +4,7 @@
 - [com.daimajia.gold](./com.daimajia.gold/readme.md)（稀土掘金）
 - [com.daliao.live.show](./com.daliao.live.show/readme.md)（艾可直播）
 - [com.dmzj.manhua](./com.dmzj.manhua/readme.md)（动漫之家）
+- [com.doulan.juxinding](./com.doulan.juxinding/readme.md)（抖蓝直播）
 - [com.dragon.read](./com.dragon.read/readme.md)（番茄免费小说）
 - [com.duokan.phone.remotecontroller](./com.duokan.phone.remotecontroller/readme.md)（万能遥控）
 - [com.duolingo](./com.duolingo/readme.md)（多邻国）
