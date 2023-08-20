@@ -1,6 +1,7 @@
 # com.T*xxx*
 
 - [com.taobao.idlefish](./com.taobao.idlefish/readme.md)（闲鱼）
+- [com.taobao.live](./com.taobao.live/readme.md)（点淘）
 - [com.taobao.taobao](./com.taobao.taobao/readme.md)（淘宝）
 - [com.taobao.trip](./com.taobao.trip/readme.md)（飞猪旅行）
 - [com.taptap](./com.taptap/readme.md)（TapTap）
