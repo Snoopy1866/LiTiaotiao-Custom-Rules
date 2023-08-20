@@ -9,23 +9,37 @@
 {"popup_rules":
     [
         {"id":"新版本&升级","action":"GLOBAL_ACTION_BACK"},
-        {"id":"感兴趣商品再试一件","action":"关闭弹窗"}
+        {"id":"青少年模式","action":"我知道了"},
+        {"id":"感兴趣商品再试一件","action":"关闭弹窗"},
+        {"id":"专属现金红包","action":"GLOBAL_ACTION_BACK"}
     ]
 }
 ```
 详细说明：
 - [{"id":"新版本&升级","action":"GLOBAL_ACTION_BACK"}](#id新版本升级actionglobal_action_back)
+- [{"id":"青少年模式","action":"我知道了"}](#id青少年模式action我知道了)
 - [{"id":"感兴趣商品再试一件","action":"关闭弹窗"}](#id感兴趣商品再试一件action关闭弹窗)
+- [{"id":"专属现金红包","action":"GLOBAL_ACTION_BACK"}](#id专属现金红包actionglobal_action_back)
 
 ### {"id":"新版本&升级","action":"GLOBAL_ACTION_BACK"}
-去除 “版本更新” 弹窗
+关闭 “版本更新” 弹窗
 
 ![](./assets/版本更新弹窗.jpg)
 
+### {"id":"青少年模式","action":"我知道了"}
+关闭 “青少年模式” 弹窗
+
+![](./assets/青少年模式弹窗.jpg)
+
 ### {"id":"感兴趣商品再试一件","action":"关闭弹窗"}
-去除 “感兴趣商品再试一件” 弹窗
+关闭 “感兴趣商品再试一件” 弹窗
 
 ![](./assets/感兴趣商品再试一件弹窗.jpg)
+
+### {"id":"专属现金红包","action":"GLOBAL_ACTION_BACK"}
+关闭 “专属现金红包” 弹窗
+
+![](./assets/专属现金红包弹窗.jpg)
 
 ## 增强规则
 
