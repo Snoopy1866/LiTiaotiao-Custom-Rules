@@ -13,7 +13,8 @@
         {"id":"感兴趣商品再试一件","action":"关闭弹窗"},
         {"id":"专属现金红包","action":"GLOBAL_ACTION_BACK"},
         {"id":"每日签到得现金","action":"GLOBAL_ACTION_BACK"},
-        {"id":"满&元可用&优惠券","action":"GLOBAL_ACTION_BACK"}
+        {"id":"满&元可用&优惠券","action":"GLOBAL_ACTION_BACK"},
+        {"id":"你的专属&福利","action":"GLOBAL_ACTION_BACK"}
     ]
 }
 ```
@@ -24,6 +25,7 @@
 - [{"id":"专属现金红包","action":"GLOBAL_ACTION_BACK"}](#id专属现金红包actionglobal_action_back)
 - [{"id":"每日签到得现金","action":"GLOBAL_ACTION_BACK"}](#id每日签到得现金actionglobal_action_back)
 - [{"id":"满&元可用&优惠券","action":"GLOBAL_ACTION_BACK"}](#id满元可用优惠券actionglobal_action_back)
+- [{"id":"你的专属&福利","action":"GLOBAL_ACTION_BACK"}](#id你的专属福利actionglobal_action_back)
 
 ### {"id":"新版本&升级","action":"GLOBAL_ACTION_BACK"}
 关闭 “版本更新” 弹窗
@@ -54,6 +56,11 @@
 关闭 “天降红包” 弹窗
 
 ![](./assets/天降红包弹窗.jpg)
+
+### {"id":"你的专属&福利","action":"GLOBAL_ACTION_BACK"}
+关闭 “专属福利” 弹窗
+
+![](./assets/专属福利弹窗.jpg)
 
 ## 增强规则
 
