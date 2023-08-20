@@ -1,6 +1,6 @@
 # com.rumtel.pandatv（电视直播）
 
-⚠ 该 App 使用了 Pangle SDK（穿山甲）向用户提供广告弹窗，部分广告无法适配。
+⚠ 该 App 使用了 Pangle SDK（穿山甲）向用户提供广告弹窗，部分广告无法通过规则关闭。
 
 ## 普通规则
 
