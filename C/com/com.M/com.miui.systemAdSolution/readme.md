@@ -11,7 +11,7 @@
 }
 ```
 详细说明：
-- [{"id":"pop_advertisement_content","action":"iv_close"}](#idpop_advertisement_contentactioniv_close)
+- [{"id":"为什么不希望看到这条推广","action":"不感兴趣"}](#id为什么不希望看到这条推广action不感兴趣)
 
 ### {"id":"为什么不希望看到这条推广","action":"不感兴趣"}
 关闭不希望看到这条推广理由选择弹窗，自动点击 “不感兴趣”
