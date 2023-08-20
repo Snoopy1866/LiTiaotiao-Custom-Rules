@@ -6,4 +6,5 @@
 - [com.kugou.android.lite](./com.kugou.android.lite/readme.md)（酷狗概念版）
 - [com.kugou.dj](./com.kugou.dj/readme.md)（酷狗DJ）
 - [com.kugou.fanxing](./com.kugou.fanxing/readme.md)（酷狗直播）
+- [com.kugou.fanxing.lite](./com.kugou.fanxing.lite/readme.md)（繁星直播）
 - [com.kwai.videoeditor](./com.kwai.videoeditor/readme.md)（快影）
