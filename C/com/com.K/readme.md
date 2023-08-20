@@ -4,5 +4,6 @@
 - [com.kugou.android](./com.kugou.android/readme.md)（酷狗音乐）
 - [com.kugou.android.ktvapp](./com.kugou.android.ktvapp/readme.md)（酷狗唱唱）
 - [com.kugou.android.lite](./com.kugou.android.lite/readme.md)（酷狗概念版）
+- [com.kugou.dj](./com.kugou.dj/readme.md)（酷狗DJ）
 - [com.kugou.fanxing](./com.kugou.fanxing/readme.md)（酷狗直播）
 - [com.kwai.videoeditor](./com.kwai.videoeditor/readme.md)（快影）
