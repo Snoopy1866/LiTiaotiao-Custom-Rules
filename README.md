@@ -34,13 +34,15 @@
 
 # 如何使用
 
-1. 前往 [Releases](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules/releases) 页面下载最新版本的 BasicRules.json 和 ExtendedRules.json
-2. 打开 BasicRules.json 和 Extended.json，复制全部文本
+1. 前往 [Releases](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules/releases) 页面下载最新版本的 [AllRules.json](./AllRules.json) 文件
+2. 打开下载好的 json 文件，复制全部文本
 3. 打开 “李跳跳”，点击 “更多”，点击右上角三个小点，点击 “导入规则”，长按输入框，选择 “粘贴”，点击“保存”。
 
 ⚠ 建议长按输入框，以调用系统自带的粘贴功能，请不要通过第三方 app （例如：输入法、微信等）作为中介进行复制，否则可能会出现规则被截断，粘贴不全导致格式错误的问题。
 
-💡 除了一键导入所有 app 规则，你还可以在 [已适配 app 列表](./AppList.md) 中自行查找单独 app 的规则进行导入。
+💡 AllRules.json 默认包含了普通规则和增强规则，如果你需要，本项目也提供仅包含普通规则的 [BasicRules.json](./BasicRules.json) 和仅包含增强规则的 [ExtendedRules.json](./ExtendedRules.json) 文件，除此之外，你还可以在 [已适配 app 列表](./AppList.md) 中自行查找单独 app 的规则进行导入。
+
+❌ 一次只能导入一个 json 文件，导入第二个 json 文件后会覆盖前一个 json 文件的规则，而不会追加规则。
 
 🍭 找不到你需要的 app 规则？你可以前往 [Issues](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules/issues) 提交适配需求。
 
@@ -115,6 +117,6 @@ PC 端使用记事本打开，手机端后缀改为 .txt 打开（或使用 MT �
 由于 “李跳跳” 仅在 app 界面更新布局时进行检测，因此少数规则需要通过手动更新界面布局才能生效，具体做法有：下拉状态栏、使用手势将 app 切换至后台等，只要实现了界面布局的改变即可切换回 app 界面。需要手动触发的规则在规则详情页中有所标注。
 
 ### 05. app 卸载重装后，还需要再次导入规则吗？
-**不需要！** 只要你之前有通过 BasicRules.json 或 ExtendedRules.json 成功导入某个 app 的规则，那么当这个 app 卸载重装后，只需要打开李跳跳，点击 更多->设置，刷新一次应用列表即可，之前导入的规则依然生效。
+**不需要！** 只要你之前有通过 json 文件成功导入某个 app 的规则，那么当这个 app 卸载重装后，只需要打开李跳跳，点击 更多->设置，刷新一次应用列表即可，之前导入的规则依然生效。
 
 强烈建议通过 json 文件导入规则，而不是对每个 app 单独导入规则。如果你不需要那么多 app 的规则，可以手动编辑 json 文件后自行导入。手动编辑需注意 json 文件的结构，每个 app 使用包名的哈希值（可以使用 Java 中的 String.hashCode() 方法获得）作为唯一标识符，你可能需要先生成哈希值，然后在 json 文件中筛选对应的规则。
