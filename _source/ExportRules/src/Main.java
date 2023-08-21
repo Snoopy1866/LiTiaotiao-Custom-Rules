@@ -44,9 +44,11 @@ public class Main {
         // 写入规则至外部文件中
         // index = 3, 表示普通规则
         // index = 4, 表示增强规则
+        // index = 5, 表示所有规则
 
-        writeCustomRulesJson(packagesHashMap, 3, repoPath + "\\BasicRules.json");
-        writeCustomRulesJson(packagesHashMap, 4, repoPath + "\\ExtendedRules.json");
+        writeCustomRulesJson(packagesHashMap, repoPath + "\\BasicRules.json", 3);
+        writeCustomRulesJson(packagesHashMap, repoPath + "\\ExtendedRules.json", 4);
+        writeCustomRulesJson(packagesHashMap, repoPath + "\\AllRules.json", 5);
     }
 
     private static void writeAppList(HashMap<String, ArrayList<String>> packagesHashMap, String repoPath, String path) {
@@ -106,8 +108,7 @@ public class Main {
         }
     }
 
-
-    private static void writeCustomRulesJson(HashMap<String, ArrayList<String>> packagesHashMap, int index, String path) {
+    private static void writeCustomRulesJson(HashMap<String, ArrayList<String>> packagesHashMap, String path, int index) {
         try {
             FileWriter fwBasic = new FileWriter(new File(path));
             BufferedWriter bwBasic = new BufferedWriter(fwBasic);
@@ -188,7 +189,7 @@ public class Main {
 
     // 读取规则文件
     public static String[] readCustomRules(String packageCustomRulesMdFilePath) {
-        String[] customRules = new String[3];
+        String[] customRules = new String[4];
         try {
             FileInputStream inputStream = new FileInputStream(packageCustomRulesMdFilePath);
             BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(inputStream));
@@ -198,6 +199,8 @@ public class Main {
             String basicRulesStr = "";
             // 增强规则内容
             String extendedRulesStr = "";
+            // 所有规则
+            String allRulesStr = "";
 
             // 检测到 app 名称
             Boolean appNameDetected = false;
@@ -245,9 +248,20 @@ public class Main {
                 }
             }
 
+            if (!basicRulesStr.isEmpty() && extendedRulesStr.isEmpty()) {
+                allRulesStr = basicRulesStr;
+            }
+            else if (basicRulesStr.isEmpty() && !extendedRulesStr.isEmpty()) {
+                allRulesStr = extendedRulesStr;
+            }
+            else if (!basicRulesStr.isEmpty() && !extendedRulesStr.isEmpty()) {
+                allRulesStr = basicRulesStr.substring(0, basicRulesStr.length() - 2) + "," + extendedRulesStr.substring(18);
+            }
+
             customRules[0] = appName;
             customRules[1] = basicRulesStr;
             customRules[2] = extendedRulesStr;
+            customRules[3] = allRulesStr;
         } catch (FileNotFoundException e) {
             throw new RuntimeException(e);
         } catch (IOException e) {
