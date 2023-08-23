@@ -8,6 +8,7 @@
 - [cn.kuwo.player](./cn.kuwo.player/readme.md)（酷我音乐）
 - [cn.missevan](./cn.missevan/readme.md)（猫耳FM）
 - [cn.neoclub.uki](./cn.neoclub.uki/readme.md)（Uki）
+- [cn.quicktv.androidpro](./cn.quicktv.androidpro/readme.md)（影视大全WTV）
 - [cn.soulapp.android](./cn.soulapp.android/readme.md)（Soul）
 - [cn.wps.yun](./cn.wps.yun/readme.md)（金山文档）
 - [cn.xiaochuankeji.tieba](./cn.xiaochuankeji.tieba/readme.md)（最右）
