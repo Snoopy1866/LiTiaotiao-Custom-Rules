@@ -2,6 +2,7 @@
 
 - [com.kmxs.reader](./com.kmxs.reader/readme.md)（七猫免费小说）
 - [com.kugou.android](./com.kugou.android/readme.md)（酷狗音乐）
+- [com.kugou.android.child](./com.kugou.android.child/readme.md)（酷狗儿歌）
 - [com.kugou.android.douge](./com.kugou.android.douge/readme.md)（酷狗唱唱斗歌版）
 - [com.kugou.android.ktvapp](./com.kugou.android.ktvapp/readme.md)（酷狗唱唱）
 - [com.kugou.android.lite](./com.kugou.android.lite/readme.md)（酷狗概念版）
