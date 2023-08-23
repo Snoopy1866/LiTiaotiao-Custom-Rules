@@ -28,8 +28,6 @@
 ![](./assets/imgCloseHomePageDialog.jpg)
 
 
-![](./assets/imgClose.jpg)
-
 ### {"id":"让我们提醒你运动","action":"暂不需要"}
 去除订阅运动提醒弹窗
 
