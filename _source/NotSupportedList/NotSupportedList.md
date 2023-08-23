@@ -23,6 +23,3 @@
 - com.xiaomi.shop（小米商城）
 - com.quark.browser（夸克）
 - cn.zevun.hb.music（板凳音乐）
-
-
-[To be continued ...](https://drive.google.com/drive/folders/1oz_aBHqjXgzX2P4rjwJwwj3ZhnefdpST?usp=sharing)
