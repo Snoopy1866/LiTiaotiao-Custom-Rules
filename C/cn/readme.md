@@ -1,5 +1,6 @@
 # cn
 
+- [cn.cntv](./cn.cntv/readme.md)（央视影音）
 - [cn.com.ruijie.magicbox](./cn.com.ruijie.magicbox/readme.md)（无线魔盒）
 - [cn.etouch.ecalendar](./cn.etouch.ecalendar/readme.md)（中华万年历）
 - [cn.gov.pbc.dcep](./cn.gov.pbc.dcep/readme.md)（数字人民币）
