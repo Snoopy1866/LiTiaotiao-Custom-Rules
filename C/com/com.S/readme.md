@@ -3,6 +3,7 @@
 - [com.sankuai.meituan](./com.sankuai.meituan/readme.md)（美团）
 - [com.sankuai.movie](./com.sankuai.movie/readme.md)（猫眼）
 - [com.sdjuliang.yuanqijob](./com.sdjuliang.yuanqijob/readme.md)（元气兼职）
+- [com.shenyuan.militarynews](./com.shenyuan.militarynews/readme.md)（环球新军事）
 - [com.shizhuang.duapp](./com.shizhuang.duapp/readme.md)（得物）
 - [com.sina.weibo](./com.sina.weibo/readme.md)（微博）
 - [com.sinyee.babybus.recommendapp](./com.sinyee.babybus.recommendapp/readme.md)（宝宝巴士）
