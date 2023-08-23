@@ -17,11 +17,12 @@
 ![](./assets/优量汇%20SDK.jpg)
 
 ### 无法获取控件信息
-以下 App 界面控件信息无法获取，通常表现为所有按钮共享同一个控件，或者获取到的控件布局与实际布局无法对应。
+以下 App 界面控件信息无法获取，通常表现为所有按钮共享同一个控件，或者获取到的控件布局与实际布局无法对应，或者获取到的控件没有任何可标识文本。
 
 - com.lalamove.huolala.client（货拉拉）
 - com.xiaomi.shop（小米商城）
 - com.quark.browser（夸克）
+- cn.zevun.hb.music（板凳音乐）
 
 
 [To be continued ...](https://drive.google.com/drive/folders/1oz_aBHqjXgzX2P4rjwJwwj3ZhnefdpST?usp=sharing)
