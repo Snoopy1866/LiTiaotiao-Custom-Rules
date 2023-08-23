@@ -1,4 +1,4 @@
-# cn.missevan（猫儿FM）
+# cn.missevan（猫耳FM）
 
 ## 普通规则
 
