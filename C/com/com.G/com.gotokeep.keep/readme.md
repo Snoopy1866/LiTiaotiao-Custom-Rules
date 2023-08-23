@@ -8,7 +8,6 @@
     [
         {"id":"设置未成年人模式","action":"我知道了"},
         {"id":"imgCloseHomePageDialog","action":"imgCloseHomePageDialog"},
-        {"id":"imgClose","action":"imgClose"},
         {"id":"让我们提醒你运动","action":"暂不需要"}
     ]
 }
@@ -16,7 +15,6 @@
 详细说明：
 - [{"id":"设置未成年人模式","action":"我知道了"}](#id设置未成年人模式action我知道了)
 - [{"id":"imgCloseHomePageDialog","action":"imgCloseHomePageDialog"}](#idimgclosehomepagedialogactionimgclosehomepagedialog)
-- [{"id":"imgClose","action":"imgClose"}](#idimgcloseactionimgclose)
 - [{"id":"让我们提醒你运动","action":"暂不需要"}](#id让我们提醒你运动action暂不需要)
 
 ### {"id":"设置未成年人模式","action":"我知道了"}
@@ -29,8 +27,6 @@
 
 ![](./assets/imgCloseHomePageDialog.jpg)
 
-### {"id":"imgClose","action":"imgClose"}
-去除 首页->会员 页面悬浮广告
 
 ![](./assets/imgClose.jpg)
 
