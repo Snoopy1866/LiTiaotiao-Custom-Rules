@@ -8,6 +8,7 @@
 - com.psyone.brainmusic（小睡眠）
 - com.wykay.musiccnpka（卡音）
 - dahsix.afanb.gthqj（大师兄影视）
+- mianfeiting.myyue（免费听音乐）
 - npgl.jsitcx.xlpqi（NP管理器）
 
 ### Other
