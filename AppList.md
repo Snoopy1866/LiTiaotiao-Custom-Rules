@@ -15,7 +15,7 @@
 - [cn.gov.pbc.dcep](./C/cn/cn.gov.pbc.dcep/readme.md)（数字人民币）
 - [cn.jingzhuan.stock](./C/cn/cn.jingzhuan.stock/readme.md)（经传多赢股票）
 - [cn.kuwo.player](./C/cn/cn.kuwo.player/readme.md)（酷我音乐）
-- [cn.missevan](./C/cn/cn.missevan/readme.md)（猫儿FM）
+- [cn.missevan](./C/cn/cn.missevan/readme.md)（猫耳FM）
 - [cn.neoclub.uki](./C/cn/cn.neoclub.uki/readme.md)（Uki）
 - [cn.quicktv.androidpro](./C/cn/cn.quicktv.androidpro/readme.md)（影视大全WTV）
 - [cn.soulapp.android](./C/cn/cn.soulapp.android/readme.md)（Soul）
