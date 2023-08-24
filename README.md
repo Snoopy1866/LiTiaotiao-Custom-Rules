@@ -95,7 +95,9 @@
 # FAQ
 
 ### 01. 如何获取 “李跳跳”?
-😢 2023年8月24日，李跳跳官方公众号宣布无限期停更。公众号内回复任意内容已经无法获取[下载链接](./_source/litiaotiao-pdx2.2.apk)，不过还是放上二维码和 logo，认准官方号，谨防上当受骗。
+😢 2023年8月24日，李跳跳官方公众号宣布无限期停更。公众号内回复任意内容已经无法获取下载链接，不过还是放上二维码和 logo，认准官方号，谨防上当受骗。
+
+🙏 本项目保留了最新版备份，点击查看：[派大星2.2](./_source)
 
 <img src="./litiaotiao-logo.jpg" height = 129 width = 129></img>
 <img src="./litiaotiao-qrcode.bmp" height = 129 width = 129></img>
