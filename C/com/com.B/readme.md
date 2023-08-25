@@ -7,4 +7,5 @@
 - [com.baidu.tieba](./com.baidu.tieba/readme.md)（百度贴吧）
 - [com.baidu.wenku](./com.baidu.wenku/readme.md)（百度文库）
 - [com.banban.kuxiu](./com.banban.kuxiu/readme.md)（酷秀LIVE）
+- [com.bestv.app](./com.bestv.app/readme.md)（百视TV）
 - [com.btzx0313.app](./com.btzx0313.app/readme.md)（必拓资讯）
