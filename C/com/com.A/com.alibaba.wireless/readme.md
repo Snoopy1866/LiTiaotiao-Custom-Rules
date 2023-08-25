@@ -6,15 +6,15 @@
 ```
 {"popup_rules":
     [
-        {"id":"update_title","action":"取消"}
+        {"id":"update_title","action":"update_button_cancel"}
     ]
 }
 ```
 详细说明：
-- [{"id":"update_title","action":"取消"}](#idupdate_titleaction取消)
+- [{"id":"update_title","action":"update_button_cancel"}](#idupdate_titleactionupdate_button_cancel)
 
-### {"id":"update_title","action":"取消"}
-去除更新提示。
+### {"id":"update_title","action":"update_button_cancel"}
+关闭更新弹窗（⚠ 似乎不起作用） 
 
 ![](./assets/update_title.jpg)
 
