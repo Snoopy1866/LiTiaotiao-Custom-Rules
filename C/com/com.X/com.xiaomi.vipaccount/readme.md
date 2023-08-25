@@ -13,6 +13,7 @@
 ```
 详细说明：
 - [{"id":"single_banner","action":"close"}](#idsingle_banneractionclose)
+- [{"id":"=广告","action":"closeGray"}](#id广告actionclosegray)
 
 ### {"id":"single_banner","action":"close"}
 关闭公告板弹窗
