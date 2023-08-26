@@ -1,6 +1,7 @@
 # com.K*xxx*
 
 - [com.kmxs.reader](./com.kmxs.reader/readme.md)（七猫免费小说）
+- [com.kuaishou.nebula](./com.kuaishou.nebula/readme.md)（快手极速版）
 - [com.kugou.android](./com.kugou.android/readme.md)（酷狗音乐）
 - [com.kugou.android.child](./com.kugou.android.child/readme.md)（酷狗儿歌）
 - [com.kugou.android.douge](./com.kugou.android.douge/readme.md)（酷狗唱唱斗歌版）
@@ -11,4 +12,5 @@
 - [com.kugou.dj](./com.kugou.dj/readme.md)（酷狗DJ）
 - [com.kugou.fanxing](./com.kugou.fanxing/readme.md)（酷狗直播）
 - [com.kugou.fanxing.lite](./com.kugou.fanxing.lite/readme.md)（繁星直播）
+- [com.kwai.thanos](./com.kwai.thanos/readme.md)（快手概念版）
 - [com.kwai.videoeditor](./com.kwai.videoeditor/readme.md)（快影）
