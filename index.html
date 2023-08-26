@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>李跳跳规则</title>
+</head>
+<body style="padding: 10px;margin: 0;">
+  <textarea style="width: 100%; height: 200px; border: 1px solid #eee;" readonly>
+    正在获取...
+    获取成功将在此显示规则内容
+  </textarea>
+  <button onclick="copyToClipboard()">复制内容</button>
+  <span id="tips" style="margin-left: 10px; color: #f63; font-size: 12px;"></span>
+  <p style="font-size: 12px; color: #555;">如果发现提示“复制成功”却失败了，说明没有权限写入，需要自己长按输入框全选复制</p>
+  <p>
+    规则原项目地址：
+    <a href="https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules" target="_blank">
+      Snoopy1866/LiTiaotiao-Custom-Rules
+    </a>
+  </p>
+  <script>
+    !function() {
+      fetch('https://ghproxy.com/https://raw.githubusercontent.com/Snoopy1866/LiTiaotiao-Custom-Rules/main/AllRules.json').then((res) => {
+        return res.json();
+      }).then((res) => {
+        document.querySelector('textarea').value = JSON.stringify(res, null, 2);
+      });
+    }();
+    function copyToClipboard() {
+      var copyText = document.querySelector('textarea');
+      copyText.select();
+      document.execCommand("copy");
+      document.getElementById("tips").innerHTML = "复制成功";
+      setTimeout(function() {
+        document.getElementById("tips").innerHTML = "";
+      }, 3000);
+    }
+  </script>
+</body>
+</html>
