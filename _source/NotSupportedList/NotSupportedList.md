@@ -1,7 +1,7 @@
 ## Not Supported App List
 
-### Pangle SDK
-以下 App 均使用了 [Pangle SDK](https://www.csjplatform.com/supportcenter/26221)（穿山甲） 为用户提供广告弹窗，此类弹窗布局中的控件无任何可标识的文本，且无法通过 GLOBAL_ACTION_BACK 关闭。
+### 字节 Pangle SDK
+以下 App 均使用了 [Pangle SDK](https://www.pangleglobal.com/zh)（穿山甲） 为用户提供广告弹窗，此类弹窗布局中的控件无任何可标识的文本，且无法通过 GLOBAL_ACTION_BACK 关闭。
 
 ![](./assets/Pangle%20SDK.jpg)
 
@@ -11,10 +11,15 @@
 - mianfeiting.myyue（免费听音乐）
 - npgl.jsitcx.xlpqi（NP管理器）
 
-### 优量汇 SDK
-以下 App 均使用了 [优量汇 SDK](https://developers.adnet.qq.com/doc/android/access_doc) 为用户提供广告弹窗，此类弹窗布局中的控件无任何可标识的文本，且无法通过 GLOBAL_ACTION_BACK 关闭。
+### 腾讯 优量汇 SDK
+以下 App 均使用了 [优量汇 SDK](https://e.qq.com/dev/index.html) 为用户提供广告弹窗，此类弹窗布局中的控件无任何可标识的文本，且无法通过 GLOBAL_ACTION_BACK 关闭。
 
 ![](./assets/优量汇%20SDK.jpg)
+
+### 快手联盟 Kuai Ad SDK
+以下 App 均使用了 [Kuai Ad SDK](https://u.kuaishou.com/) 为用户提供广告弹窗，此类弹窗布局中的控件无任何可标识的文本，且无法通过 GLOBAL_ACTION_BACK 关闭。
+
+![](./assets/Kuai%20Ad%20SDK.jpg)
 
 ### 无法获取控件信息
 以下 App 界面控件信息无法获取，通常表现为所有按钮共享同一个控件，或者获取到的控件布局与实际布局无法对应，或者获取到的控件没有任何可标识文本。
