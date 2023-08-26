@@ -6,6 +6,7 @@
 - [com.cmbchina.ccd.pluto.cmbActivity](./com.cmbchina.ccd.pluto.cmbActivity/readme.md)（掌上生活）
 - [com.cmcc.cmvideo](./com.cmcc.cmvideo/readme.md)（咪咕视频）
 - [com.cmcc.hebao](./com.cmcc.hebao/readme.md)（和包）
+- [com.cmri.universalapp](./com.cmri.universalapp/readme.md)（和家亲）
 - [com.cnspeedtest.globalspeed](./com.cnspeedtest.globalspeed/readme.md)（全球网测）
 - [com.coolapk.market](./com.coolapk.market/readme.md)（酷安）
 - [com.cssq.pandaplayet](./com.cssq.pandaplayet/readme.md)（熊猫短剧）
