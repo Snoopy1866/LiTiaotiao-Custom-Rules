@@ -8,6 +8,7 @@
 - [com.cmcc.hebao](./com.cmcc.hebao/readme.md)（和包）
 - [com.cnspeedtest.globalspeed](./com.cnspeedtest.globalspeed/readme.md)（全球网测）
 - [com.coolapk.market](./com.coolapk.market/readme.md)（酷安）
+- [com.cssq.pandaplayet](./com.cssq.pandaplayet/readme.md)（熊猫短剧）
 - [com.ct.client](./com.ct.client/readme.md)（中国电信）
 - [com.cubic.autohome](./com.cubic.autohome/readme.md)（汽车之家）
 - [com.cxzapp.yidianling](./com.cxzapp.yidianling/readme.md)（壹点灵）
