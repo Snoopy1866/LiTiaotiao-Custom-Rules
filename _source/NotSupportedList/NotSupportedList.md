@@ -8,6 +8,7 @@
 - com.hdlayer.uh（地瓜视频）
 - com.kongshan.audiopick（音频提取）
 - com.psyone.brainmusic（小睡眠）
+- com.teredy.audioeditor（手机音频剪辑）
 - com.wykay.musiccnpka（卡音）
 - dahsix.afanb.gthqj（大师兄影视）
 - mianfeiting.myyue（免费听音乐）
