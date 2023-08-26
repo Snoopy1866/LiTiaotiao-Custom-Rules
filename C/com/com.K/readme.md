@@ -12,4 +12,5 @@
 - [com.kugou.dj](./com.kugou.dj/readme.md)（酷狗DJ）
 - [com.kugou.fanxing](./com.kugou.fanxing/readme.md)（酷狗直播）
 - [com.kugou.fanxing.lite](./com.kugou.fanxing.lite/readme.md)（繁星直播）
+- [com.kwai.thanos](./com.kwai.thanos/readme.md)（快手概念版）
 - [com.kwai.videoeditor](./com.kwai.videoeditor/readme.md)（快影）
