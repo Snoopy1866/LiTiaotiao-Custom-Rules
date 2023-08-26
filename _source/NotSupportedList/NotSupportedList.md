@@ -5,11 +5,13 @@
 
 ![](./assets/Pangle%20SDK.jpg)
 
+- com.hdlayer.uh（地瓜视频）
 - com.psyone.brainmusic（小睡眠）
 - com.wykay.musiccnpka（卡音）
 - dahsix.afanb.gthqj（大师兄影视）
 - mianfeiting.myyue（免费听音乐）
 - npgl.jsitcx.xlpqi（NP管理器）
+
 
 ### 腾讯 优量汇 SDK
 以下 App 均使用了 [优量汇 SDK](https://e.qq.com/dev/index.html) 为用户提供广告弹窗，此类弹窗布局中的控件无任何可标识的文本，且无法通过 GLOBAL_ACTION_BACK 关闭。
