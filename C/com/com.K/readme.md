@@ -1,6 +1,7 @@
 # com.K*xxx*
 
 - [com.kmxs.reader](./com.kmxs.reader/readme.md)（七猫免费小说）
+- [com.kuaishou.nebula](./com.kuaishou.nebula/readme.md)（快手极速版）
 - [com.kugou.android](./com.kugou.android/readme.md)（酷狗音乐）
 - [com.kugou.android.child](./com.kugou.android.child/readme.md)（酷狗儿歌）
 - [com.kugou.android.douge](./com.kugou.android.douge/readme.md)（酷狗唱唱斗歌版）
