@@ -8,9 +8,11 @@
 - [com.shenyuan.militarynews](./com.shenyuan.militarynews/readme.md)（环球新军事）
 - [com.shizhuang.duapp](./com.shizhuang.duapp/readme.md)（得物）
 - [com.sina.weibo](./com.sina.weibo/readme.md)（微博）
+- [com.sing.client](./com.sing.client/readme.md)（5sing原创音乐）
 - [com.sinyee.babybus.recommendapp](./com.sinyee.babybus.recommendapp/readme.md)（宝宝巴士）
 - [com.smile.gifmaker](./com.sinyee.babybus.recommendapp/readme.md)（快手）
 - [com.snda.wifilocating](./com.snda.wifilocating/readme.md)（WiFi万能钥匙）
+- [com.sohu.newsclient](./com.sohu.newsclient/readme.md)（搜狐新闻）
 - [com.ss.android.article.lite](./com.ss.android.article.lite/readme.md)（今日头条极速版）
 - [com.sohu.sohuvideo](./com.sohu.sohuvideo/readme.md)（搜狐视频）
 - [com.ss.android.article.news](./com.ss.android.article.news/readme.md)（今日头条）
