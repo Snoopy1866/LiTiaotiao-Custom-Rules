@@ -22,7 +22,9 @@
 
         {"id":"left_img_ad_tag","action":"close"},
 
-        {"id":"关注你感兴趣的超话","action":"iv_close"}
+        {"id":"关注你感兴趣的超话","action":"iv_close"},
+
+        {"id":"定位服务未开启","action":"以后再说"}
     ]
 }
 ```
@@ -35,6 +37,7 @@
 - [{"id":"tv_tips","action":"iv_close_icon"} - {"id":"不感兴趣&屏蔽此博主","action":"不感兴趣"}](#idtv_tipsactioniv_close_icon---id不感兴趣屏蔽此博主action不感兴趣)
 - [{"id":"left_img_ad_tag","action":"close"}](#idleft_img_ad_tagactionclose)
 - [{"id":"关注你感兴趣的超话","action":"iv_close"}](#id关注你感兴趣的超话actioniv_close)
+- [{"id":"定位服务未开启","action":"以后再说"}](#id定位服务未开启action以后再说)
 
 ### {"id":"打开通知，及时收到互动消息","action":"right_icon"}
 关闭打开通知提示信息
@@ -77,5 +80,11 @@
 关闭关注感兴趣超话提示信息
 
 ![](./assets/关注感兴趣超话提示信息.jpg)
+
+
+### {"id":"定位服务未开启","action":"以后再说"}
+关闭定位服务未开启弹窗
+
+![](./assets/location2.jpg)
 
 ## 增强规则
