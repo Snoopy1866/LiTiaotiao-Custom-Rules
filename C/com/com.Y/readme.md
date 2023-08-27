@@ -7,6 +7,7 @@
 - [com.yishouapp.fumi](./com.yishouapp.fumi/readme.md)（一手服装批发）
 - [com.yitong.mbank.psbc](./com.yitong.mbank.psbc/readme.md)（邮储银行）
 - [com.yixia.videoeditor](./com.yixia.videoeditor/readme.md)（秒拍）
+- [com.ylzinfo.chinahrss](./com.ylzinfo.chinahrss/readme.md)（掌上12333）
 - [com.youdao.course](./com.youdao.course/readme.md)（有道精品课）
 - [com.youku.phone](./com.youku.phone/readme.md)（优酷视频）
 - [com.youqi.fjjf](./com.youqi.fjjf/readme.md)（饭橘）

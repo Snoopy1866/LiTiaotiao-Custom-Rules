@@ -1,5 +1,6 @@
 # cn
 
+- [cn.ccspeed](./cn.ccspeed/readme.md)（CC加速器）
 - [cn.cntv](./cn.cntv/readme.md)（央视影音）
 - [cn.com.ruijie.magicbox](./cn.com.ruijie.magicbox/readme.md)（无线魔盒）
 - [cn.etouch.ecalendar](./cn.etouch.ecalendar/readme.md)（中华万年历）

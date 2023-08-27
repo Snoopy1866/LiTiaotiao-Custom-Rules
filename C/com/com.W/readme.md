@@ -4,5 +4,6 @@
 - [com.weaver.emobile7](./com.weaver.emobile7/readme.md)（EMobile7）
 - [com.wepie.weplay](./com.wepie.weplay/readme.md)（会玩）
 - [com.whty.wicity.china](./com.whty.wicity.china/readme.md)（和生活）
+- [com.woapp.hebei](./com.woapp.hebei/readme.md)（联通智家）
 - [com.wuba](./com.wuba/readme.md)（58同城）
 - [com.wuba.zhuanzhuan](./com.wuba.zhuanzhuan/readme.md)（转转）
