@@ -1,7 +1,8 @@
-## 欢迎来到贡献指南
+# 欢迎来到贡献指南
 
-本项目遵循开源协 AGPL-3.0 license，任何想要参与到本项目中的个人或团体均可以按照本指南提交或修改规则。
+本项目遵循开源协议 AGPL-3.0 license，任何想要参与到本项目中的个人或团体均可以按照本指南提交您的贡献。
 
+## 为自定义规则提交贡献
 ### 1. 提交规则前您需要检查的事项
 
 提交规则前，你需要确认以下事项：
@@ -39,3 +40,6 @@ readme.md 文件的编写可参考 [模版](./template.md)，您也可以参考�
 
 - [李跳跳进阶指南](https://juejin.cn/post/6938590373740544007)
 - [李跳跳自定义规则参数说明](https://www.timeit.cn/post-543.html#:~:text=%E8%AE%BE%E7%BD%AE%E5%85%A5%E5%8F%A3%EF%BC%9A%E9%95%BF%E6%8C%89%E9%A6%96%E9%A1%B5%20%E6%9B%B4%E5%A4%9A%20%E6%8C%89%E9%92%AE%E3%80%82%20%E4%BF%AE%E6%94%B9%E8%B7%B3%E8%BF%87%E6%8F%90%E7%A4%BA%EF%BC%9A%20%7B%223%22%3A%22%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87%22%7D%20%E9%9A%90%E8%97%8F%E8%B7%B3%E8%BF%87%E6%8F%90%E7%A4%BA%EF%BC%9A%20%7B%224%22%3Atrue%7D,%E9%9A%90%E8%97%8F%E8%B7%B3%E8%B7%B3%E5%90%8E%E5%8F%B0%EF%BC%9A%20%7B%225%22%3Atrue%7D%20%E4%B8%80%E9%94%AE%E5%81%9C%E7%94%A8%E6%89%80%E6%9C%89APP%E7%9A%84%E6%9C%8D%E5%8A%A1%EF%BC%9A%20%7B%226%22%3Afalse%7D%20%E5%BC%80%E5%90%AF%E5%89%8D%E5%8F%B0%E6%9C%8D%E5%8A%A1%EF%BC%9A%20%7B%227%22%3Atrue%7D%20%E4%BF%AE%E6%94%B9%E5%89%8D%E5%8F%B0%E6%9C%8D%E5%8A%A1%E6%96%87%E6%A1%88%EF%BC%9A%20%7B%2210%22%3A%22%E6%B4%BE%E5%A4%A7%E6%98%9F%3A%E6%88%91%E4%BB%AC%E4%B8%80%E8%B5%B7%E5%8E%BB%E6%8A%93%E6%B0%B4%E6%AF%8D%E5%90%A7~%22%7D)
+
+## 为在线规则页面提交贡献
+本项目的 [page](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules/tree/pages) 分支提供了一个在线规则的页面，您可以提交 Pull Request 共同完善此页面。
