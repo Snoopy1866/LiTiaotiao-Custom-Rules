@@ -16,8 +16,8 @@
 }
 ```
 详细说明：
-- [{"id":"update_title","action":"update_cancel"}](#idcancel_updateactioncancel_update)
-- [...](#)
+- [{"id":"update_title","action":"update_cancel"}](#idupdate_titleactionupdate_cancel)
+- [*("id":"xxx","action":"xxx")*](#idxxxactionxxx)
 
 ### {"id":"update_title","action":"update_cancel"}
 关闭更新弹窗 *(这里是详细说明，您应当使用“关闭”而不是“去除”，因为李跳跳并没有去除弹窗，只是帮助用户点击了跳过按钮)*
@@ -30,8 +30,8 @@
 
 ![]() *添加截图 (可选) (⚠ 注意保护个人隐私)*
 
-### ...
-*()*
+### *("id":"xxx","action":"xxx")*
+*(xxx)*
 
 ![]() *添加截图 (可选) (⚠ 注意保护个人隐私)*
 
@@ -47,8 +47,8 @@
 }
 ```
 详细说明：
-- [{"id":"update_title","action":"update_cancel"}](#idcancel_updateactioncancel_update)
-- [...](#)
+- [{"id":"update_title","action":"update_cancel"}](#idupdate_titleactionupdate_cancel-1)
+- [*("id":"xxx","action":"xxx")*](#idxxxactionxxx-1)
 
 ### {"id":"update_title","action":"update_cancel"}
 关闭更新弹窗 *(这里是详细说明，您应当使用“关闭”而不是“去除”，因为李跳跳并没有去除弹窗，只是帮助用户点击了跳过按钮)*
@@ -61,7 +61,7 @@
 
 ![]() *添加截图 (可选) (⚠ 注意保护个人隐私)*
 
-### ...
-*()*
+### *("id":"xxx","action":"xxx")*
+*(xxx)*
 
 ![]() *添加截图 (可选) (⚠ 注意保护个人隐私)*
