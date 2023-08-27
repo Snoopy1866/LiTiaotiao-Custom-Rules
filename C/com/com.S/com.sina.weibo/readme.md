@@ -33,6 +33,7 @@
 - [{"id":"使用您的位置信息","action":"以后再说"}](#id使用您的位置信息action以后再说)
 - [{"id":"tv_tips","action":"iv_close_icon"} - {"id":"不感兴趣&为何会看到此广告","action":"不感兴趣"}](#idtv_tipsactioniv_close_icon---id不感兴趣为何会看到此广告action不感兴趣)
 - [{"id":"tv_tips","action":"iv_close_icon"} - {"id":"不感兴趣&屏蔽此博主","action":"不感兴趣"}](#idtv_tipsactioniv_close_icon---id不感兴趣屏蔽此博主action不感兴趣)
+- [{"id":"left_img_ad_tag","action":"close"}](#idleft_img_ad_tagactionclose)
 - [{"id":"关注你感兴趣的超话","action":"iv_close"}](#id关注你感兴趣的超话actioniv_close)
 
 ### {"id":"打开通知，及时收到互动消息","action":"right_icon"}
