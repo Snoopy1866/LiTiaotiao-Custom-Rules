@@ -1,6 +1,7 @@
 # com.X*xxx*
 
 - [com.xiachufang](./com.xiachufang/readme.md)（下厨房）
+- [com.xiaomi.gamecenter](./com.xiaomi.gamecenter/readme.md)（MIUI 游戏中心）
 - [com.xiaomi.hm.health](./com.xiaomi.hm.health/readme.md)（Zeep Life）
 - [com.xiaomi.market](./com.xiaomi.market/readme.md)（小米应用商店）
 - [com.xiaomi.smarthome](./com.xiaomi.smarthome/readme.md)（米家）
