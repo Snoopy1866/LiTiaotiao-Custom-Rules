@@ -22,6 +22,8 @@
 
 ![](./assets/优量汇%20SDK.jpg)
 
+- com.dewmobile.kuaiya（快牙）
+
 ### 快手联盟 Kuai Ad SDK
 以下 App 均使用了 [Kuai Ad SDK](https://u.kuaishou.com/) 为用户提供广告弹窗，此类弹窗布局中的控件无任何可标识的文本，且无法通过 GLOBAL_ACTION_BACK 关闭。
 
