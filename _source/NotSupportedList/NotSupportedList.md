@@ -6,6 +6,7 @@
 ![](./assets/Pangle%20SDK.jpg)
 
 - cn.luyiyuntech.audioclip（格式转换工厂）
+- com.bizhimars.wallpaper（彩虹多多）
 - com.hdlayer.uh（地瓜视频）
 - com.kongshan.audiopick（音频提取）
 - com.psyone.brainmusic（小睡眠）
