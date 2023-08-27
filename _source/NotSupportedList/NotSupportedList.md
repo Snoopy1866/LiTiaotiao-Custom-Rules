@@ -38,3 +38,8 @@
 - com.xiaomi.shop（小米商城）
 - com.quark.browser（夸克）
 - cn.zevun.hb.music（板凳音乐）
+
+### 控件 ID 混淆
+以下 App 界面控件 ID 经过混淆，对其适配没有意义。
+
+- com.tencent.cmocmna（腾讯手游加速器）
