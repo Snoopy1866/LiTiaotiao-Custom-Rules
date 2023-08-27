@@ -28,18 +28,18 @@
 
 
 # 简介
-本项目收集适用于“李跳跳”的 App 自定义规则，包括**普通规则**和**增强规则**。
-- 普通规则：关闭应用内广告、更新弹窗、青少年模式弹窗、权限索取提示等
+本项目收集适用于“李跳跳”的 App 自定义规则，包括**基础规则**和**增强规则**。
+- 基础规则：关闭应用内广告、更新弹窗、青少年模式弹窗、权限索取提示等
 - 增强规则：自动点击等
 
 # 如何使用
 
-1. 前往 [李跳跳在线规则页面](https://snoopy1866.github.io/LiTiaotiao-Custom-Rules/) 复制所有规则
+1. 前往 [李跳跳在线规则页面](https://snoopy1866.github.io/LiTiaotiao-Custom-Rules/) 复制规则
 2. 打开 “李跳跳”，点击 “更多”，点击右上角三个小点，点击 “导入规则”，长按输入框，选择 “粘贴”，点击“保存”。
 
 ⚠ 建议长按输入框，以调用系统自带的粘贴功能，请不要通过第三方 App （例如：输入法、微信等）作为中介进行复制，否则可能会出现规则被截断，粘贴不全导致格式错误的问题。
 
-💡 在线规则页面复制的文本包含了普通规则和增强规则，如果你需要，本项目的 [Releases页面](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules/releases) 也提供仅包含普通规则的 [BasicRules.json](./BasicRules.json) 和仅包含增强规则的 [ExtendedRules.json](./ExtendedRules.json) 文件，除此之外，你还可以在 [已适配 App 列表](./AppList.md) 中自行查找单独 App 的规则进行导入。
+💡 在线规则页面可以选择复制全部规则或基础规则，本项目的 [Releases页面](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules/releases) 还提供仅包含增强规则的 [ExtendedRules.json](./ExtendedRules.json) 文件，除此之外，你还可以在 [已适配 App 列表](./AppList.md) 中自行查找单独 App 的规则进行导入。
 
 ❌ 一次只能导入一个 json 文件，导入第二个 json 文件后会覆盖前一个 json 文件的规则，而不会追加规则。
 
