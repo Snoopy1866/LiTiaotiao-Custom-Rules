@@ -20,7 +20,7 @@
 
 您需要了解本项目的文件夹结构：通常来说，App 包名是唯一的，而 App 名称有可能发生变更，因此本项目文件夹结构遵循包名规则。根目录下文件夹 A\~Z 代表存放的是包名首字母为 A\~Z 的 App 规则，例如：包名为 `tv.danmaku.bili` 的 App 规则文件存放在文件夹 `T/tv.danmaku.bili` 中。
 
-一般情况下，包名根据域名反转而来，因此，大多数 App 的包名都是以 .com 或 .cn 开头。文件夹 C 中，有两个单独的子文件夹 cn 和 com，其中文件夹 cn 存放的的是以 cn. 开头的包名的 App 规则，文件夹 com 存放的是以 com. 开头的包名的 App 规则；文件夹 com 下又细分 com.A ~ com.Z 文件夹。例如：包名为 `com.netease.cloudmusic` 的 App 规则文件存放在文件夹 `C/com/com.N/com.netease.cloudmusic` 中。
+一般情况下，包名根据域名反转而来，因此，大多数 App 的包名都是以 .com 或 .cn 开头。文件夹 C 中，有两个单独的子文件夹 cn 和 com，其中文件夹 cn 存放的是以 cn. 开头的包名的 App 规则，文件夹 com 存放的是以 com. 开头的包名的 App 规则；文件夹 com 下又细分 com.A ~ com.Z 文件夹。例如：包名为 `com.netease.cloudmusic` 的 App 规则文件存放在文件夹 `C/com/com.N/com.netease.cloudmusic` 中。
 
 ⚠ 由于目前以 cn. 开头的包名较少，因此暂时不需要在文件夹 cn 下细分 cn.A ~ cn.Z。
 
