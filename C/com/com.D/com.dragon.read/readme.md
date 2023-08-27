@@ -31,7 +31,7 @@
 ### {"id":"c55","action":"c56"}
 去除首页 “红包” 悬浮窗2
 
-![](./assets/hongbao_pop2.jpg)
+![](./assets/hongbao_pop2.jpg) 
 
 
 ## 增强规则
