@@ -7,12 +7,22 @@
 {"popup_rules":
     [
         {"id":"打开通知，及时收到互动消息","action":"right_icon"},
+
         {"id":"选择通知类型","action":"暂不开启"},
+
         {"id":"bottom_process_tv","action":"close"},
+
         {"id":"使用您的位置信息","action":"以后再说"},
 
         {"id":"tv_tips","action":"iv_close_icon"},
-        {"id":"不感兴趣&为何会看到此广告","action":"不感兴趣"}
+        {"id":"不感兴趣&为何会看到此广告","action":"不感兴趣"},
+
+        {"id":"tv_tips","action":"iv_close_icon"},
+        {"id":"不感兴趣&屏蔽此博主","action":"不感兴趣"},
+
+        {"id":"left_img_ad_tag","action":"close"},
+
+        {"id":"关注你感兴趣的超话","action":"iv_close"}
     ]
 }
 ```
@@ -22,6 +32,8 @@
 - [{"id":"bottom_process_tv","action":"close"}](#idbottom_process_tvactionclose)
 - [{"id":"使用您的位置信息","action":"以后再说"}](#id使用您的位置信息action以后再说)
 - [{"id":"tv_tips","action":"iv_close_icon"} - {"id":"不感兴趣&为何会看到此广告","action":"不感兴趣"}](#idtv_tipsactioniv_close_icon---id不感兴趣为何会看到此广告action不感兴趣)
+- [{"id":"tv_tips","action":"iv_close_icon"} - {"id":"不感兴趣&屏蔽此博主","action":"不感兴趣"}](#idtv_tipsactioniv_close_icon---id不感兴趣屏蔽此博主action不感兴趣)
+- [{"id":"关注你感兴趣的超话","action":"iv_close"}](#id关注你感兴趣的超话actioniv_close)
 
 ### {"id":"打开通知，及时收到互动消息","action":"right_icon"}
 关闭打开通知提示信息
@@ -44,11 +56,25 @@
 ![](./assets/location.jpg)
 
 ### {"id":"tv_tips","action":"iv_close_icon"} - {"id":"不感兴趣&为何会看到此广告","action":"不感兴趣"}
-
-**联合规则** : 关闭评论区广告
+**联合规则**：关闭评论区广告
 
 ⚡ 需要手动触发
 
 ![](./assets/评论区广告.jpg)
+
+### {"id":"tv_tips","action":"iv_close_icon"} - {"id":"不感兴趣&屏蔽此博主","action":"不感兴趣"}
+**联合规则**：关闭评论区推荐博主
+
+![]()
+
+### {"id":"left_img_ad_tag","action":"close"}
+关闭微博正文下方广告
+
+![](./assets/微博正文下方广告.jpg)
+
+### {"id":"关注你感兴趣的超话","action":"iv_close"}
+关闭关注感兴趣超话提示信息
+
+![](./assets/关注感兴趣超话提示信息.jpg)
 
 ## 增强规则
