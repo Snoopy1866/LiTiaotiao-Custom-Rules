@@ -10,6 +10,7 @@
 
 ### C
 - [cmb.pb](./C/cmb.pb/readme.md)（行者）
+- [cn.ccspeed](./C/cn/cn.ccspeed/readme.md)（CC加速器）
 - [cn.cntv](./C/cn/cn.cntv/readme.md)（央视影音）
 - [cn.com.ruijie.magicbox](./C/cn/cn.com.ruijie.magicbox/readme.md)（无线魔盒）
 - [cn.etouch.ecalendar](./C/cn/cn.etouch.ecalendar/readme.md)（中华万年历）
@@ -138,6 +139,7 @@
   - [com.lu.ashionweather](./C/com/com.L/com.lu.ashionweather/readme.md)（天气预报）
   - [com.luna.music](./C/com/com.L/com.luna.music/readme.md)（汽水音乐）
 - #### com.M
+  - [com.magicalstory.cleaner](./C/com/com.M/com.magicalstory.cleaner/readme.md)（安卓清理君）
   - [com.meitu.meipaimv](./C/com/com.M/com.meitu.meipaimv/readme.md)（美拍）
   - [com.mi.health](./C/com/com.M/com.mi.health/readme.md)（小米运动健康）
   - [com.miui.gallery](./C/com/com.M/com.miui.gallery/readme.md)（MIUI 相册）
@@ -146,10 +148,13 @@
   - [com.miui.player](./C/com/com.M/com.miui.player/readme.md)（MIUI 音乐）
   - [com.miui.systemAdSolution](./C/com/com.M/com.miui.systemAdSolution/readme.md)（MIUI 智能服务）
   - [com.mm.android.lc](./C/com/com.M/com.mm.android.lc/readme.md)（乐橙）
+  - [com.mylikefonts.activity](./C/com/com.M/com.mylikefonts.activity/readme.md)（字体美化大师）
 - #### com.N
   - [com.netease.cloudmusic](./C/com/com.N/com.netease.cloudmusic/readme.md)（网易云音乐）
   - [com.netease.lotterynews](./C/com/com.N/com.netease.lotterynews/readme.md)（网易红彩）
   - [com.netease.play](./C/com/com.N/com.netease.play/readme.md)（LOOK直播）
+  - [com.netease.uu](./C/com/com.N/com.netease.uu/readme.md)（UU加速器）
+  - [com.njh.biubiu](./C/com/com.N/com.njh.biubiu/readme.md)（biubiu加速器）
   - [com.nowcasting.activity](./C/com/com.N/com.nowcasting.activity/readme.md)（彩云天气）
 - #### com.O
   - [com.One.WoodenLetter](./C/com/com.O/com.One.WoodenLetter/readme.md)（一个木函）
@@ -175,6 +180,7 @@
   - [com.sing.client](./C/com/com.S/com.sing.client/readme.md)（5sing原创音乐）
   - [com.sinyee.babybus.recommendapp](./C/com/com.S/com.sinyee.babybus.recommendapp/readme.md)（宝宝巴士）
   - [com.smile.gifmaker](./C/com/com.S/com.smile.gifmaker/readme.md)（快手）
+  - [com.snda.lantern.wifilocating](./C/com/com.S/com.snda.lantern.wifilocating/readme.md)（WiFi万能钥匙极速版）
   - [com.snda.wifilocating](./C/com/com.S/com.snda.wifilocating/readme.md)（WiFi万能钥匙）
   - [com.sohu.newsclient](./C/com/com.S/com.sohu.newsclient/readme.md)（搜狐新闻）
   - [com.sohu.sohuvideo](./C/com/com.S/com.sohu.sohuvideo/readme.md)（搜狐视频）
@@ -200,6 +206,7 @@
   - [com.tencent.now](./C/com/com.T/com.tencent.now/readme.md)（腾讯NOW直播）
   - [com.tencent.qqlive](./C/com/com.T/com.tencent.qqlive/readme.md)（腾讯视频）
   - [com.tencent.qqmusic](./C/com/com.T/com.tencent.qqmusic/readme.md)（QQ音乐）
+  - [com.tencent.transfer](./C/com/com.T/com.tencent.transfer/readme.md)（换机助手）
   - [com.tencent.weishi](./C/com/com.T/com.tencent.weishi/readme.md)（微视）
   - [com.tencent.wemeet.app](./C/com/com.T/com.tencent.wemeet.app/readme.md)（腾讯会议）
   - [com.tianyancha.skyeye](./C/com/com.T/com.tianyancha.skyeye/readme.md)（天眼查）
@@ -215,10 +222,12 @@
   - [com.weaver.emobile7](./C/com/com.W/com.weaver.emobile7/readme.md)（EMobile7）
   - [com.wepie.weplay](./C/com/com.W/com.wepie.weplay/readme.md)（会玩）
   - [com.whty.wicity.china](./C/com/com.W/com.whty.wicity.china/readme.md)（和生活）
+  - [com.woapp.hebei](./C/com/com.W/com.woapp.hebei/readme.md)（联通智家）
   - [com.wuba](./C/com/com.W/com.wuba/readme.md)（58同城）
   - [com.wuba.zhuanzhuan](./C/com/com.W/com.wuba.zhuanzhuan/readme.md)（转转）
 - #### com.X
   - [com.xiachufang](./C/com/com.X/com.xiachufang/readme.md)（下厨房）
+  - [com.xiaomi.gamecenter](./C/com/com.X/com.xiaomi.gamecenter/readme.md)（MIUI 游戏中心）
   - [com.xiaomi.hm.health](./C/com/com.X/com.xiaomi.hm.health/readme.md)（Zeep Life）
   - [com.xiaomi.market](./C/com/com.X/com.xiaomi.market/readme.md)（小米应用商店）
   - [com.xiaomi.smarthome](./C/com/com.X/com.xiaomi.smarthome/readme.md)（米家）
@@ -240,6 +249,7 @@
   - [com.yishouapp.fumi](./C/com/com.Y/com.yishouapp.fumi/readme.md)（一手服装批发）
   - [com.yitong.mbank.psbc](./C/com/com.Y/com.yitong.mbank.psbc/readme.md)（邮储银行）
   - [com.yixia.videoeditor](./C/com/com.Y/com.yixia.videoeditor/readme.md)（秒拍）
+  - [com.ylzinfo.chinahrss](./C/com/com.Y/com.ylzinfo.chinahrss/readme.md)（掌上12333）
   - [com.youdao.course](./C/com/com.Y/com.youdao.course/readme.md)（有道精品课）
   - [com.youku.phone](./C/com/com.Y/com.youku.phone/readme.md)（优酷视频）
   - [com.youqi.fjjf](./C/com/com.Y/com.youqi.fjjf/readme.md)（饭橘）

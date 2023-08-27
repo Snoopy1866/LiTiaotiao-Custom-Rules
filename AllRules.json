@@ -60,6 +60,9 @@
 		"-1031558479": "{\"popup_rules\":[{\"id\":\"发现新版本\",\"action\":\"GLOBAL_ACTION_BACK\"},{\"id\":\"送你&新人购物券\",\"action\":\"GLOBAL_ACTION_BACK\"},]}"
 	},
 	{
+		"-557467920": "{\"popup_rules\":[{\"id\":\"开启消息通知\",\"action\":\"取消\"}]}"
+	},
+	{
 		"-747700391": "{\"popup_rules\":[{\"id\":\"立即免费领取\",\"action\":\"ivClose\"},{\"id\":\"新用户福利仅一次\",\"action\":\"放弃福利\"},{\"id\":\"开通会员&特惠\",\"action\":\"ivClose\"}]}"
 	},
 	{
@@ -84,7 +87,7 @@
 		"-1709882794": "{\"popup_rules\":[{\"id\":\"update_title\",\"action\":\"btn_close\"},{\"id\":\"bottom_center_close_button\",\"action\":\"bottom_center_close_button\"},{\"id\":\"订单已满&优惠换购\",\"action\":\"放弃机会\"},{\"id\":\"恭喜你获得以下权益\",\"action\":\"GLOBAL_ACTION_BACK\"},{\"id\":\"popContentImg\",\"action\":\"popCloseBtn\"}]}"
 	},
 	{
-		"1536737232": "{\"popup_rules\":[{\"id\":\"bottom_process_tv\",\"action\":\"close\"},{\"id\":\"使用您的位置信息\",\"action\":\"以后再说\"},{\"id\":\"mIvRight\",\"action\":\"mIvRight\"},{\"id\":\"tv_tips\",\"action\":\"iv_close_icon\",\"times\":5},{\"id\":\"不感兴趣&内容质量差&太多重复或相似内容\",\"action\":\"不感兴趣\"}]}"
+		"1536737232": "{\"popup_rules\":[{\"id\":\"打开通知，及时收到互动消息\",\"action\":\"right_icon\"},{\"id\":\"选择通知类型\",\"action\":\"暂不开启\"},{\"id\":\"bottom_process_tv\",\"action\":\"close\"},{\"id\":\"使用您的位置信息\",\"action\":\"以后再说\"},{\"id\":\"tv_tips\",\"action\":\"iv_close_icon\"},{\"id\":\"不感兴趣&为何会看到此广告\",\"action\":\"不感兴趣\"},{\"id\":\"tv_tips\",\"action\":\"iv_close_icon\"},{\"id\":\"不感兴趣&屏蔽此博主\",\"action\":\"不感兴趣\"},{\"id\":\"left_img_ad_tag\",\"action\":\"close\"},{\"id\":\"关注你感兴趣的超话\",\"action\":\"iv_close\"}]}"
 	},
 	{
 		"560468770": "{\"popup_rules\":[{\"id\":\"openAlertText\",\"action\":\"btn_close_update_setting\"},{\"id\":\"=关闭\",\"action\":\"=关闭\"}]}"
@@ -150,6 +153,9 @@
 		"-524659007": "{\"popup_rules\":[{\"id\":\"不感兴趣\",\"action\":\"不感兴趣\",\"times\":5}]}"
 	},
 	{
+		"-328022007": "{\"popup_rules\":[{\"id\":\"广告\",\"action\":\"跳过\"},{\"id\":\"main_ad_alert\",\"action\":\"main_ad_alert_close\"},{\"id\":\"slideshowView\",\"action\":\"ivClose\"}]}"
+	},
+	{
 		"1174097286": "{\"popup_rules\":[{\"id\":\"icon_cart_egg_close\",\"action\":\"icon_cart_egg_close\"},{\"id\":\"弹窗\",\"action\":\"关闭按钮\"},{\"id\":\"发现新版本\",\"action\":\"取消\"}]}"
 	},
 	{
@@ -166,6 +172,9 @@
 	},
 	{
 		"125486076": "{\"popup_rules\":[{\"id\":\"有新版本啦\",\"action\":\"imageView_close\"}]}"
+	},
+	{
+		"-1991835185": "{\"popup_rules\":[{\"id\":\"开启通知\",\"action\":\"不允许\"}]}"
 	},
 	{
 		"167193980": "{\"popup_rules\":[{\"id\":\"javascript:;\",\"action\":\"javascript:;\"},{\"id\":\"定位服务授权\",\"action\":\"取消\"},{\"id\":\"64c8cbcb30036\",\"action\":\"close\"}]}"
@@ -237,6 +246,9 @@
 		"-357699061": "{\"popup_rules\":[{\"id\":\"青少年模式\",\"action\":\"知道了\"}]}"
 	},
 	{
+		"-243402277": "{\"popup_rules\":[{\"id\":\"iv_activities_banner\",\"action\":\"iv_close\"}]}"
+	},
+	{
 		"1047154881": "{\"popup_rules\":[{\"id\":\"确认加购\",\"action\":\"GLOBAL_ACTION_BACK\"}]}"
 	},
 	{
@@ -303,7 +315,10 @@
 		"-1979924692": "{\"popup_rules\":[{\"id\":\"tv_join\",\"action\":\"iv_cancle\"}]}"
 	},
 	{
-		"644871869": "{\"popup_rules\":[{\"id\":\"update_title\",\"action\":\"update_button_cancel\"}]}"
+		"644871869": "{\"popup_rules\":[{\"id\":\"update_title\",\"action\":\"GLOBAL_ACTION_BACK\"}]}"
+	},
+	{
+		"947418797": "{\"popup_rules\":[{\"id\":\"banner\",\"action\":\"close_btn\"}]}"
 	},
 	{
 		"-76821059": "{\"popup_rules\":[{\"id\":\"开启通知服务\",\"action\":\"GLOBAL_ACTION_BACK\"},{\"id\":\"明日来领&金币\",\"action\":\"我知道了\"}]}"
@@ -315,7 +330,7 @@
 		"-54547863": "{\"popup_rules\":[{\"id\":\"显示通知\",\"action\":\"取消授权\"},{\"id\":\"ivAdv\",\"action\":\"ivClose\"}]}"
 	},
 	{
-		"1855462465": "{\"popup_rules\":[{\"id\":\"浮层内部图片\",\"action\":\"浮层关闭按钮\"},{\"id\":\"热区\",\"action\":\"关闭按钮\"}]}"
+		"1855462465": "{\"popup_rules\":[{\"id\":\"浮层内部图片\",\"action\":\"浮层关闭按钮\"},{\"id\":\"热区\",\"action\":\"关闭按钮\"},{\"id\":\"限时福利砸中你\",\"action\":\"关闭按钮\"}]}"
 	},
 	{
 		"2016444138": "{\"popup_rules\":[{\"id\":\"看视频领取&会员权益\",\"action\":\"GLOBAL_ACTION_BACK\"}]}"
@@ -465,6 +480,9 @@
 		"-103524201": "{\"popup_rules\":[{\"id\":\"vp_guide_add\",\"action\":\"iv_close\"}]}"
 	},
 	{
+		"-1979578047": "{\"popup_rules\":[{\"id\":\"ad_title\",\"action\":\"ad_close\"}]}"
+	},
+	{
 		"891862624": "{\"popup_rules\":[{\"id\":\"青少年模式\",\"action\":\"不开启\"},{\"id\":\"iv_vip_order_tip\",\"action\":\"iv_vip_order_close\"},{\"id\":\"gdt_media_view\",\"action\":\"gdt_btn_close\"}]}"
 	},
 	{
@@ -505,6 +523,9 @@
 	},
 	{
 		"-1635328017": "{\"popup_rules\":[{\"id\":\"抢先体验&不再提醒\",\"action\":\"不再提醒\"},{\"id\":\"关闭,按钮\",\"action\":\"关闭,按钮\"},{\"id\":\"关闭新特性弹窗\",\"action\":\"关闭新特性弹窗\"}]}"
+	},
+	{
+		"-744842507": "{\"popup_rules\":[{\"id\":\"ad_container\",\"action\":\"btn_close\"},{\"id\":\"fl_container\",\"action\":\"iv_delete\"}]}"
 	},
 	{
 		"-1731486278": "{\"popup_rules\":[{\"id\":\"iv_ad\",\"action\":\"close\"},{\"id\":\"邀您体验新版本\",\"action\":\"残忍拒绝\"},{\"id\":\"允许获取位置信息\",\"action\":\"取消\"},{\"id\":\"iv_notification_reminder_dialog\",\"action\":\"iv_notification_reminder_dialog_close\"},{\"id\":\"iv_switch\",\"action\":\"iv_skip\"},{\"id\":\"开启定位服务\",\"action\":\"暂时不了\"}]}"
@@ -579,6 +600,9 @@
 		"-405478795": "{\"popup_rules\":[{\"id\":\"ads_imageview\",\"action\":\"btn_cancel\"},{\"id\":\"rlEnvelope\",\"action\":\"ivCancel\"}]}"
 	},
 	{
+		"-54120092": "{\"popup_rules\":[{\"id\":\"dlg_login_guide_thanks\",\"action\":\"dlg_iv_login_guide_close\"}]}"
+	},
+	{
 		"-532693094": "{\"popup_rules\":[{\"id\":\"=更新\",\"action\":\"=取消\"}]}"
 	},
 	{
@@ -645,7 +669,13 @@
 		"1175536078": "{\"popup_rules\":[{\"id\":\"签到领取奖励\",\"action\":\"GLOBAL_ACTION_BACK\"},{\"id\":\"=下载\",\"action\":\"enu\"},{\"id\":\"推送通知&开启\",\"action\":\"apt\"}]}"
 	},
 	{
+		"1620268914": "{\"popup_rules\":[{\"id\":\"版本升级\",\"action\":\"忽略\"}]}"
+	},
+	{
 		"1238325805": "{\"popup_rules\":[{\"id\":\"发现新版本\",\"action\":\"btn_dismiss\"},{\"id\":\"青少年模式\",\"action\":\"iv_close\"},{\"id\":\"iv_close_icon\",\"action\":\"iv_close_icon\"}]}"
+	},
+	{
+		"-629891177": "{\"popup_rules\":[{\"id\":\"开启位置权限\",\"action\":\"取消\"}]}"
 	},
 	{
 		"1056984291": "{\"popup_rules\":[{\"id\":\"update_content\",\"action\":\"image_cancel\"},{\"id\":\"iv_notice\",\"action\":\"ib_close\"}]}"
