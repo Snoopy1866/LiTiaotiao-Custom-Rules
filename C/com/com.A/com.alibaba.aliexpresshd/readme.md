@@ -1,6 +1,6 @@
 # com.alibaba.aliexpresshd (Aliexpress/全球速卖通)
 
-## 普通规则
+## 基础规则
 
 快速复制:
 
