@@ -1,5 +1,6 @@
 import java.io.*;
 import java.util.*;
+import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 
@@ -217,10 +218,19 @@ public class Main {
             // 当前读取的行内容
             String line;
 
+            // 匹配并获取 app名称 的正则表达式
+            Pattern pattern = Pattern.compile("#\\s+[A-Za-z0-9_]+(?:\\.[A-Za-z0-9_]+)*\\s*[（(](.+)[)）]");
+
             while ((line = bufferedReader.readLine()) != null) {
                 if (!appNameDetected) {
-                    appName = line.substring(line.indexOf("（") + 1, line.indexOf("）"));
-                    appNameDetected = true;
+                    Matcher matcher = pattern.matcher(line);
+                    if (matcher.find()) {
+                        appName = matcher.group(1);
+                        appNameDetected = true;
+                    }
+                    else {
+                        System.out.println("文件：" + packageCustomRulesMdFilePath + "未获取到 App 名称！");
+                    }
                 }
                 else if (line.equals("## 基础规则")) {
                     basicRulesHeaderLineDetected = true;
