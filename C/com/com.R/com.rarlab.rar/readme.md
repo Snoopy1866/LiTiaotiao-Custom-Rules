@@ -15,7 +15,7 @@
 
 详细说明：
 
-- [{"id":"支持 RAR 开发","action":"放弃"}](#id 支持 RAR 开发 action 放弃)
+- [{"id":"支持 RAR 开发","action":"放弃"}](#id支持_RAR_开发action放弃)
 
 ### {"id":"支持 RAR 开发","action":"放弃"}
 
