@@ -1,4 +1,4 @@
-# com.quark.browser (RAR)
+# com.rarlab.rar (RAR)
 
 ## 普通规则
 
