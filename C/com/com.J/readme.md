@@ -1,4 +1,4 @@
-# com.J*xxx*
+# com.J
 
 - [com.jd.jdhealth](./com.jd.jdhealth/readme.md)（京东健康）
 - [com.jd.jdlite](./com.jd.jdlite/readme.md)（京喜特价）

@@ -1,4 +1,4 @@
-# com.B*xxx*
+# com.B
 
 - [com.baidu.BaiduMap](./com.baidu.BaiduMap/readme.md)（百度地图）
 - [com.baidu.haokan](./com.baidu.haokan/readme.md)（好看视频）

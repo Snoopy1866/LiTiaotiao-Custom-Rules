@@ -1,4 +1,4 @@
-# com.C*xxx*
+# com.C
 
 - [com.cctv.yangshipin.app.androidp](./com.cctv.yangshipin.app.androidp/readme.md)（央视频）
 - [com.cctv4g.cctvmobiletv](./com.cctv4g.cctvmobiletv/readme.md)（CCTV手机电视）

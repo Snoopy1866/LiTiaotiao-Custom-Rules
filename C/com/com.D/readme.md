@@ -1,4 +1,4 @@
-# com.D*xxx*
+# com.D
 
 - [com.dailyyoga.cn](./com.dailyyoga.cn/readme.md)（每日瑜伽）
 - [com.daimajia.gold](./com.daimajia.gold/readme.md)（稀土掘金）

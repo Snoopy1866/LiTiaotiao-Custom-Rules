@@ -1,4 +1,4 @@
-# com.N*xxx*
+# com.N
 
 - [com.netease.cloudmusic](./com.netease.cloudmusic/readme.md)（网易云音乐）
 - [com.netease.lotterynews](./com.netease.lotterynews/readme.md)（网易红彩）

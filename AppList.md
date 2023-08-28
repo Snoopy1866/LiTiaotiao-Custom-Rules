@@ -9,7 +9,7 @@
 - [bubei.tingshu](./B/bubei.tingshu/readme.md)（懒人听书）
 
 ### C
-- [cmb.pb](./C/cmb.pb/readme.md)（行者）
+- [cmb.pb](./C/cmb.pb/readme.md)（招商银行）
 - [cn.ccspeed](./C/cn/cn.ccspeed/readme.md)（CC加速器）
 - [cn.cntv](./C/cn/cn.cntv/readme.md)（央视影音）
 - [cn.com.ruijie.magicbox](./C/cn/cn.com.ruijie.magicbox/readme.md)（无线魔盒）

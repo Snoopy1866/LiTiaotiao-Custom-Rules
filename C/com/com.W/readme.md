@@ -1,4 +1,4 @@
-# com.W*xxx*
+# com.W
 
 - [com.wandoujia.eyepetizer](./com.wandoujia.eyepetizer/readme.md)（开眼）
 - [com.weaver.emobile7](./com.weaver.emobile7/readme.md)（EMobile7）
