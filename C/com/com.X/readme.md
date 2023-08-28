@@ -1,4 +1,4 @@
-# com.X*xxx*
+# com.X
 
 - [com.xiachufang](./com.xiachufang/readme.md)（下厨房）
 - [com.xiaomi.gamecenter](./com.xiaomi.gamecenter/readme.md)（MIUI 游戏中心）

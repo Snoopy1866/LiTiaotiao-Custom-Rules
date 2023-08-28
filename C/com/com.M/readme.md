@@ -1,4 +1,4 @@
-# com.M*xxx*
+# com.M
 
 - [com.magicalstory.cleaner](./com.magicalstory.cleaner/readme.md)（安卓清理君）
 - [com.meitu.meipaimv](./com.meitu.meipaimv/readme.md)（美拍）

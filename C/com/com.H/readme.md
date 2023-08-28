@@ -1,4 +1,4 @@
-# com.H*xxx*
+# com.H
 
 - [com.henzanapp.miaomiaozhe](./com.henzanapp.miaomiaozhe/readme.md)（喵喵折）
 - [com.hexin.plat.android](./com.hexin.plat.android/readme.md)（同花顺）
@@ -8,4 +8,5 @@
 - [com.huawei.appmarket](./com.huawei.appmarket/readme.md)（华为应用市场）
 - [com.hunantv.imgo.activity](./com.hunantv.imgo.activity/readme.md)（芒果TV）
 - [com.hundsun.winner.pazq](./com.hundsun.winner.pazq/readme.md)（平安证券）
+- [com.hungrypanda.waimai](./com.hungrypanda.waimai/readme.md)（熊猫外卖）
 - [com.hupu.games](./com.hupu.games/readme.md)（虎扑）

@@ -1,4 +1,4 @@
-# cn
+# cn.
 
 - [cn.ccspeed](./cn.ccspeed/readme.md)（CC加速器）
 - [cn.cntv](./cn.cntv/readme.md)（央视影音）

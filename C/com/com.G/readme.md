@@ -1,4 +1,4 @@
-# com.G*xxx*
+# com.G
 
 - [com.ganji.android](./com.ganji.android/readme.md)（赶集直招）
 - [com.ganji.android.haoche_c](./com.ganji.android.haoche_c/readme.md)（瓜子二手车）

@@ -1,4 +1,4 @@
-# com.K*xxx*
+# com.K
 
 - [com.kmxs.reader](./com.kmxs.reader/readme.md)（七猫免费小说）
 - [com.kuaishou.nebula](./com.kuaishou.nebula/readme.md)（快手极速版）

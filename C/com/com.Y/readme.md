@@ -1,4 +1,4 @@
-# com.Y*xxx*
+# com.Y
 
 - [com.yangcong345.android.phone](./com.yangcong345.android.phone/readme.md)（洋葱学园-原洋葱数学）
 - [com.yiche.autoeasy](./com.yiche.autoeasy/readme.md)（易车）

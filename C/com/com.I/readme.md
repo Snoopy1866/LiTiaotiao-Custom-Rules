@@ -1,4 +1,4 @@
-# com.I*xxx*
+# com.I
 
 - [com.iflytek.vflynote](./com.iflytek.vflynote/readme.md)（讯飞语记）
 - [com.immomo.vchat](./com.immomo.vchat/readme.md)（赫兹）
