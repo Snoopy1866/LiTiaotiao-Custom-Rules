@@ -14,4 +14,5 @@
 - [com.xueqiu.android](./com.xueqiu.android/readme.md)（雪球）
 - [com.xunlei.downloadprovider](./com.xunlei.downloadprovider/readme.md)（迅雷）
 - [com.xunmeng.pinduoduo](./com.xunmeng.pinduoduo/readme.md)（拼多多）
+- [com.xunruifairy.wallpaper](./com.xunruifairy.wallpaper/readme.md)（壁纸精灵）
 - [com.xyhui](./com.xyhui/readme.md)（PU口袋校园）

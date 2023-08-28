@@ -17,6 +17,7 @@
 - [cn.gov.pbc.dcep](./C/cn/cn.gov.pbc.dcep/readme.md)（数字人民币）
 - [cn.jingzhuan.stock](./C/cn/cn.jingzhuan.stock/readme.md)（经传多赢股票）
 - [cn.kuwo.player](./C/cn/cn.kuwo.player/readme.md)（酷我音乐）
+- [cn.lingwoyun.cpc](./C/cn/cn.lingwoyun.cpc/readme.md)（领沃云电脑）
 - [cn.missevan](./C/cn/cn.missevan/readme.md)（猫耳FM）
 - [cn.neoclub.uki](./C/cn/cn.neoclub.uki/readme.md)（Uki）
 - [cn.quicktv.androidpro](./C/cn/cn.quicktv.androidpro/readme.md)（影视大全WTV）
@@ -77,6 +78,7 @@
   - [com.eastmoney.android.berlin](./C/com/com.E/com.eastmoney.android.berlin/readme.md)（东方财富）
   - [com.ecitic.bank.mobile](./C/com/com.E/com.ecitic.bank.mobile/readme.md)（中信银行）
   - [com.eg.android.AlipayGphone](./C/com/com.E/com.eg.android.AlipayGphone/readme.md)（支付宝）
+  - [com.estrongs.android.pop](./C/com/com.E/com.estrongs.android.pop/readme.md)（ES文件浏览器）
   - [com.excean.na](./C/com/com.E/com.excean.na/readme.md)（99手游加速器）
 - #### com.F
   - [com.facetech.konking](./C/com/com.F/com.facetech.konking/readme.md)（轻音社）
@@ -107,6 +109,7 @@
   - [com.intsig.camscanner](./C/com/com.I/com.intsig.camscanner/readme.md)（扫描全能王）
   - [com.izaodao.gps](./C/com/com.I/com.izaodao.gps/readme.md)（五十音图）
 - #### com.J
+  - [com.jd.iots](./C/com/com.J/com.jd.iots/readme.md)（京东小家）
   - [com.jd.jdhealth](./C/com/com.J/com.jd.jdhealth/readme.md)（京东健康）
   - [com.jd.jdlite](./C/com/com.J/com.jd.jdlite/readme.md)（京喜特价）
   - [com.jdd.motorfans](./C/com/com.J/com.jdd.motorfans/readme.md)（摩托范）
@@ -135,6 +138,7 @@
   - [com.lemon.lv](./C/com/com.L/com.lemon.lv/readme.md)（剪映）
   - [com.lianjia.beike](./C/com/com.L/com.lianjia.beike/readme.md)（贝壳找房）
   - [com.lijianqiang12.silent](./C/com/com.L/com.lijianqiang12.silent/readme.md)（远离手机）
+  - [com.lmiot.autotool](./C/com/com.L/com.lmiot.autotool/readme.md)（免ROOT自动化助手）
   - [com.lolaage.tbulu.tools](./C/com/com.L/com.lolaage.tbulu.tools/readme.md)（两步路户外助手）
   - [com.lp.lightawake](./C/com/com.L/com.lp.lightawake/readme.md)（轻醒）
   - [com.lphtsccft](./C/com/com.L/com.lphtsccft/readme.md)（涨乐财富通）
@@ -144,6 +148,7 @@
   - [com.magicalstory.cleaner](./C/com/com.M/com.magicalstory.cleaner/readme.md)（安卓清理君）
   - [com.meitu.meipaimv](./C/com/com.M/com.meitu.meipaimv/readme.md)（美拍）
   - [com.mi.health](./C/com/com.M/com.mi.health/readme.md)（小米运动健康）
+  - [com.mimikko.mimikkoui](./C/com/com.M/com.mimikko.mimikkoui/readme.md)（兽耳助手）
   - [com.miui.gallery](./C/com/com.M/com.miui.gallery/readme.md)（MIUI 相册）
   - [com.miui.huanji](./C/com/com.M/com.miui.huanji/readme.md)（小米换机）
   - [com.miui.packageinstaller](./C/com/com.M/com.miui.packageinstaller/readme.md)（MIUI 应用包管理组件）
@@ -166,6 +171,7 @@
   - [com.qidian.QDReader](./C/com/com.Q/com.qidian.QDReader/readme.md)（起点读书）
   - [com.qiyi.video](./C/com/com.Q/com.qiyi.video/readme.md)（爱奇艺）
   - [com.qiyi.video.lite](./C/com/com.Q/com.qiyi.video.lite/readme.md)（爱奇艺极速版）
+  - [com.qp333.car](./C/com/com.Q/com.qp333.car/readme.md)（汽修宝）
   - [com.quark.browser](./C/com/com.Q/com.quark.browser/readme.md)（夸克浏览器）
   - [com.Qunar](./C/com/com.Q/com.Qunar/readme.md)（去哪儿旅行）
 - #### com.R
@@ -177,6 +183,7 @@
   - [com.sankuai.movie](./C/com/com.S/com.sankuai.movie/readme.md)（猫眼）
   - [com.sdjuliang.yuanqijob](./C/com/com.S/com.sdjuliang.yuanqijob/readme.md)（元气兼职）
   - [com.sdu.didi.psnger](./C/com/com.S/com.sdu.didi.psnger/readme.md)（滴滴出行）
+  - [com.sgcc.evs.echarge](./C/com/com.S/com.sgcc.evs.echarge/readme.md)（e充电）
   - [com.shanbay.news](./C/com/com.S/com.shanbay.news/readme.md)（扇贝阅读）
   - [com.shenyuan.militarynews](./C/com/com.S/com.shenyuan.militarynews/readme.md)（环球新军事）
   - [com.shizhuang.duapp](./C/com/com.S/com.shizhuang.duapp/readme.md)（得物）
@@ -244,6 +251,7 @@
   - [com.xueqiu.android](./C/com/com.X/com.xueqiu.android/readme.md)（雪球）
   - [com.xunlei.downloadprovider](./C/com/com.X/com.xunlei.downloadprovider/readme.md)（迅雷）
   - [com.xunmeng.pinduoduo](./C/com/com.X/com.xunmeng.pinduoduo/readme.md)（拼多多）
+  - [com.xunruifairy.wallpaper](./C/com/com.X/com.xunruifairy.wallpaper/readme.md)（壁纸精灵）
   - [com.xyhui](./C/com/com.X/com.xyhui/readme.md)（PU口袋校园）
 - #### com.Y
   - [com.yangcong345.android.phone](./C/com/com.Y/com.yangcong345.android.phone/readme.md)（洋葱学园-原洋葱数学）
