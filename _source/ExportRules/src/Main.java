@@ -1,4 +1,5 @@
 import java.io.*;
+import java.lang.reflect.Array;
 import java.util.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -42,6 +43,9 @@ public class Main {
         // 写入 app 列表至外部文件中
         writeAppList(packagesHashMap, repoPath, repoPath + "\\AppList.md");
 
+        // 写入首字母 app 列表至外部文件中
+        writeAppListPrefix(packagesHashMap, repoPath);
+
         // 写入规则至外部文件中
         // index = 3, 表示基础规则
         // index = 4, 表示增强规则
@@ -64,8 +68,8 @@ public class Main {
             // 开始写入
             bwBasic.write("## Supported App List\r\n");
 
-            String lastLetterPrefix = "";
-            String lastletterComPrefix = "";
+            String lastLetterPrefix = ""; // 上一次循环包名首字母
+            String lastletterComPrefix = ""; // 上一次循环包名com.X中的X
 
             Boolean comPrefix = false;
             for(String packageName: packageNameList) {
@@ -106,6 +110,93 @@ public class Main {
             }
         } catch (IOException e) {
             throw new RuntimeException(e);
+        }
+    }
+
+    private static void writeAppListPrefix(HashMap<String, ArrayList<String>> packagesHashMap, String repoPath) {
+        // 初始化文件夹路径列表
+        HashMap<String, String> appPrefixMdFileList = new HashMap<>();
+        char alphabetFirst = 'A';
+        for (int i = 0; i < 26; i++) {
+            char alphabet = (char)(alphabetFirst + i);
+
+            appPrefixMdFileList.put(String.valueOf(alphabet), repoPath + "\\" + alphabet + "\\readme.md");
+            appPrefixMdFileList.put("com." + alphabet, repoPath + "\\C\\com\\com." + alphabet + "\\readme.md");
+        }
+        appPrefixMdFileList.put("cn.", repoPath + "\\C\\cn" + "\\readme.md");
+
+        // 对包名排序
+        ArrayList<String> packageNameList = new ArrayList<>(packagesHashMap.keySet());
+        Collections.sort(packageNameList, String.CASE_INSENSITIVE_ORDER);
+
+
+        for(String prefix :appPrefixMdFileList.keySet()) {
+            try {
+                // 筛选符合首字母规则的包名
+                ArrayList<String> subPackageNameList = new ArrayList<>();
+                for(String packageName: packageNameList) {
+                    if (prefix.startsWith("C")) {
+                        if (packageName.toUpperCase().startsWith("C") && !packageName.toUpperCase().startsWith("COM.") && !packageName.toUpperCase().startsWith("CN.")) {
+                            subPackageNameList.add(packageName);
+                        }
+                    }
+                    else {
+                        if (packageName.toUpperCase().startsWith(prefix.toUpperCase())) {
+                            subPackageNameList.add(packageName);
+                        }
+                    }
+                }
+                FileWriter fwBasic = new FileWriter(new File(appPrefixMdFileList.get(prefix)));
+                BufferedWriter bwBasic = new BufferedWriter(fwBasic);
+
+                // 开始写入
+                bwBasic.write("# " + prefix + "\r\n");
+
+                bwBasic.write("\r\n");
+
+                if (prefix.startsWith("com.")) {
+                    for (String subPackageName: subPackageNameList) {
+                        String relativePath = packagesHashMap.get(subPackageName).get(1).replace(repoPath + "\\C\\com\\" + prefix, ".").replace("\\", "/"); // 相对路径
+                        String appName = packagesHashMap.get(subPackageName).get(2); // App 名称
+                        String line = "- [" + subPackageName + "](" + relativePath + ")（" + appName + "）" + "\r\n";
+                        bwBasic.write(line);
+                    }
+                }
+                else if (prefix.startsWith("cn.")) {
+                    for (String subPackageName: subPackageNameList) {
+                        String relativePath = packagesHashMap.get(subPackageName).get(1).replace(repoPath + "\\C\\cn", ".").replace("\\", "/"); // 相对路径
+                        String appName = packagesHashMap.get(subPackageName).get(2); // App 名称
+                        String line = "- [" + subPackageName + "](" + relativePath + ")（" + appName + "）" + "\r\n";
+                        bwBasic.write(line);
+                    }
+                }
+                else if (prefix.startsWith("C")){
+                    bwBasic.write("- [cn](./cn/readme.md)\r\n");
+                    bwBasic.write("- [com](./com/readme.md)\r\n");
+                    bwBasic.write("\r\n");
+                    bwBasic.write("<br>\r\n");
+                    bwBasic.write("\r\n");
+                    for (String subPackageName: subPackageNameList) {
+                        String relativePath = packagesHashMap.get(subPackageName).get(1).replace(repoPath + "\\" + prefix, ".").replace("\\", "/"); // 相对路径
+                        String appName = packagesHashMap.get(subPackageName).get(2); // App 名称
+                        String line = "- [" + subPackageName + "](" + relativePath + ")（" + appName + "）" + "\r\n";
+                        bwBasic.write(line);
+                    }
+                }
+                else {
+                    for (String subPackageName: subPackageNameList) {
+                        String relativePath = packagesHashMap.get(subPackageName).get(1).replace(repoPath + "\\" + prefix, ".").replace("\\", "/"); // 相对路径
+                        String appName = packagesHashMap.get(subPackageName).get(2); // App 名称
+                        String line = "- [" + subPackageName + "](" + relativePath + ")（" + appName + "）" + "\r\n";
+                        bwBasic.write(line);
+                    }
+                }
+
+                bwBasic.close();
+                fwBasic.close();
+            } catch (IOException e) {
+                throw new RuntimeException(e);
+            }
         }
     }
 
