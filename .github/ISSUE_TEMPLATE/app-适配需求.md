@@ -1,6 +1,6 @@
 ---
 name: App 适配需求
-about: 请按照以下模版填写 App 适配需求信息：
+about: 请按照此模版填写 App 适配需求信息：
 title: "[适配需求] App 名称"
 labels: 待适配
 assignees: Snoopy1866
