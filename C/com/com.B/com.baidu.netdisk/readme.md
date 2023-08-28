@@ -30,7 +30,7 @@
 - [{"id":"close_notification_tip","action":"close_notification_tip"}](#idclose_notification_tipactionclose_notification_tip)
 - [{"id":"iv_yike_close","action":"iv_yike_close"}](#idiv_yike_closeactioniv_yike_close)
 - [{"id":"yike_guide_exit","action":"yike_guide_exit"}](#idyike_guide_exitactionyike_guide_exit)
-  [{"id":"cl_content","action":"iv_close"}](#idcl_contentactioniv_close)
+- [{"id":"cl_content","action":"iv_close"}](#idcl_contentactioniv_close)
 
 ### {"id":"百度网盘更新啦","action":"下次再说"}
 
