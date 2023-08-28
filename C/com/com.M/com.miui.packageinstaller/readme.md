@@ -1,6 +1,6 @@
 # com.miui.packageinstaller（MIUI 应用包管理组件）
 
-## 普通规则
+## 基础规则
 快速复制:
 ```
 {"popup_rules":

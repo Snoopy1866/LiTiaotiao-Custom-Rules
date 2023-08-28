@@ -1,6 +1,6 @@
 # com.ximi.weightrecord（体重小本）
 
-## 普通规则
+## 基础规则
 
 快速复制:
 ```

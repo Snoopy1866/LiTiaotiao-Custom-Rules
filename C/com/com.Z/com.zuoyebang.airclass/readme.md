@@ -1,6 +1,6 @@
 # com.zuoyebang.airclass（作业帮直播课）
 
-## 普通规则
+## 基础规则
 
 快速复制:
 ```

@@ -1,6 +1,6 @@
 # com.tongcheng.android（同程旅行）
 
-## 普通规则
+## 基础规则
 
 快速复制:
 ```

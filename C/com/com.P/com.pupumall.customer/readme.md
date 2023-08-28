@@ -1,6 +1,6 @@
 # com.pupumall.customer（朴朴超市）
 
-## 普通规则
+## 基础规则
 
 快速复制:
 ```

@@ -1,6 +1,6 @@
 # com.eastmoney.android.berlin（东方财富）
 
-## 普通规则
+## 基础规则
 
 快速复制:
 ```

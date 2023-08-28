@@ -1,6 +1,6 @@
 # gov.pianzong.androidnga（NGA玩家社区）
 
-## 普通规则
+## 基础规则
 
 快速复制:
 ```

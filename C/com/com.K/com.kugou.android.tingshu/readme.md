@@ -1,6 +1,6 @@
 # com.kugou.android.tingshu（酷狗听书）
 
-## 普通规则
+## 基础规则
 
 快速复制:
 ```

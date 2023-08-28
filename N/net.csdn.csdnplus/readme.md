@@ -1,6 +1,6 @@
 # net.csdn.csdnplus（CSDN）
 
-## 普通规则
+## 基础规则
 
 快速复制:
 ```

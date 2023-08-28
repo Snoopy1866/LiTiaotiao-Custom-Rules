@@ -1,6 +1,6 @@
 # com.hunantv.imgo.activity（芒果TV）
 
-## 普通规则
+## 基础规则
 
 快速复制:
 ```

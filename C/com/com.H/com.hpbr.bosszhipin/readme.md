@@ -1,6 +1,6 @@
 # com.hpbr.bosszhipin（BOSS直聘）
 
-## 普通规则
+## 基础规则
 
 快速复制:
 ```

@@ -1,6 +1,6 @@
 # org.telegram.messenger.web（Telegram）
 
-## 普通规则
+## 基础规则
 
 快速复制:
 ```

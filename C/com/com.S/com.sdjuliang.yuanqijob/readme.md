@@ -1,6 +1,6 @@
 # com.sdjuliang.yuanqijob（元气兼职）
 
-## 普通规则
+## 基础规则
 
 快速复制:
 ```

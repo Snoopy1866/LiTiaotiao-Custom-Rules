@@ -1,6 +1,6 @@
 # com.lijianqiang12.silent（远离手机）
 
-## 普通规则
+## 基础规则
 
 快速复制:
 ```

@@ -1,6 +1,6 @@
 # com.netease.cloudmusic（网易云音乐）
 
-## 普通规则
+## 基础规则
 
 快速复制:
 ```

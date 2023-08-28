@@ -1,6 +1,6 @@
 # cn.xiaochuankeji.tieba（最右）
 
-## 普通规则
+## 基础规则
 
 快速复制:
 ```

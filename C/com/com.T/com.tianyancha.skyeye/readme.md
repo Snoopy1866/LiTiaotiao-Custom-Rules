@@ -1,6 +1,6 @@
 # com.tianyancha.skyeye（天眼查）
 
-## 普通规则
+## 基础规则
 
 快速复制:
 ```

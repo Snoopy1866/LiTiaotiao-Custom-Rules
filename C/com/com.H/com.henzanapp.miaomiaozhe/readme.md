@@ -1,6 +1,6 @@
 # com.henzanapp.miaomiaozhe（喵喵折）
 
-## 普通规则
+## 基础规则
 
 快速复制:
 ```

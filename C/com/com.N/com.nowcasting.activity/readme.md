@@ -1,6 +1,6 @@
 # com.nowcasting.activity（彩云天气）
 
-## 普通规则
+## 基础规则
 
 快速复制:
 ```

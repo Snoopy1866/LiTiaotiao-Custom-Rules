@@ -1,6 +1,6 @@
 # com.magicalstory.cleaner（安卓清理君）
 
-## 普通规则
+## 基础规则
 
 快速复制:
 ```

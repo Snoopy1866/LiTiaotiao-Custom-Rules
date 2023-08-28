@@ -1,6 +1,6 @@
 # com.sinyee.babybus.recommendapp（宝宝巴士）
 
-## 普通规则
+## 基础规则
 
 快速复制:
 ```

@@ -1,6 +1,6 @@
 # com.cxzapp.yidianling（壹点灵）
 
-## 普通规则
+## 基础规则
 
 快速复制:
 ```

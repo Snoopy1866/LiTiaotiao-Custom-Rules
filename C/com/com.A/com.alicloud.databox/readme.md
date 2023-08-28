@@ -1,6 +1,6 @@
 # com.alicloud.databox（阿里云盘）
 
-## 普通规则
+## 基础规则
 
 
 

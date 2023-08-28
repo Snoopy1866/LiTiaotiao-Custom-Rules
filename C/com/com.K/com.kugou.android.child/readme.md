@@ -1,6 +1,6 @@
 # com.kugou.android.child（酷狗儿歌）
 
-## 普通规则
+## 基础规则
 
 快速复制:
 ```

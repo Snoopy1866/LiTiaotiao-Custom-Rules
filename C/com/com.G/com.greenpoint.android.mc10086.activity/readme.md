@@ -1,6 +1,6 @@
 # com.greenpoint.android.mc10086.activity（中国移动）
 
-## 普通规则
+## 基础规则
 
 快速复制:
 ```

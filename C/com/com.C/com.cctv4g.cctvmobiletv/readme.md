@@ -1,6 +1,6 @@
 # com.cctv4g.cctvmobiletv（CCTV手机电视）
 
-## 普通规则
+## 基础规则
 
 快速复制:
 ```

@@ -1,6 +1,6 @@
 # com.xunlei.downloadprovider（迅雷）
 
-## 普通规则
+## 基础规则
 
 快速复制:
 ```

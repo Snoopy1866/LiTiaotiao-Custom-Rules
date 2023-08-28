@@ -1,6 +1,6 @@
 # com.kugou.android.ringtone（酷狗铃声）
 
-## 普通规则
+## 基础规则
 
 快速复制:
 ```

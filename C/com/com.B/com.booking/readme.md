@@ -1,6 +1,6 @@
 # com.booking（Booking.com缤客）
 
-## 普通规则
+## 基础规则
 
 快速复制:
 ```

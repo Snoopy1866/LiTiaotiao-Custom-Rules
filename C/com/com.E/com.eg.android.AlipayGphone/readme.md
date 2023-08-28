@@ -1,6 +1,6 @@
 # com.eg.android.AlipayGphone（支付宝）
 
-## 普通规则
+## 基础规则
 
 快速复制:
 ```

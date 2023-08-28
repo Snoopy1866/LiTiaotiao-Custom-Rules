@@ -1,6 +1,6 @@
 # com.tencent.mobileqq（QQ）
 
-## 普通规则
+## 基础规则
 
 快速复制:
 ```

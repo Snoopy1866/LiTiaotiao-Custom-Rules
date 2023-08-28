@@ -1,6 +1,6 @@
 # com.wandoujia.eyepetizer（开眼）
 
-## 普通规则
+## 基础规则
 
 快速复制:
 ```

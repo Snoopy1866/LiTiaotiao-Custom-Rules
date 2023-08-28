@@ -1,6 +1,6 @@
 # com.duokan.phone.remotecontroller（万能遥控）
 
-## 普通规则
+## 基础规则
 
 快速复制:
 ```

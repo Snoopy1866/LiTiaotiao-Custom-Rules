@@ -1,6 +1,6 @@
 # com.cmri.universalapp（和家亲）
 
-## 普通规则
+## 基础规则
 
 快速复制:
 ```

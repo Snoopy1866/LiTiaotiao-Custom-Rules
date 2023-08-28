@@ -1,6 +1,6 @@
 # com.ss.android.article.video（西瓜视频）
 
-## 普通规则
+## 基础规则
 
 快速复制:
 ```

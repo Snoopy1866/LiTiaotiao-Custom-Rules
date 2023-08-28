@@ -1,6 +1,6 @@
 # com.renren.mobile.android（人人直播）
 
-## 普通规则
+## 基础规则
 
 快速复制:
 ```

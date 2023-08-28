@@ -1,6 +1,6 @@
 # cn.xiaochuankeji.zuiyouLite（皮皮搞笑）
 
-## 普通规则
+## 基础规则
 
 快速复制:
 ```

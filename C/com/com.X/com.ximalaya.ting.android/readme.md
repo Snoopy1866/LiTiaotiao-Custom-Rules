@@ -1,6 +1,6 @@
 # com.ximalaya.ting.android（喜马拉雅）
 
-## 普通规则
+## 基础规则
 
 快速复制:
 ```

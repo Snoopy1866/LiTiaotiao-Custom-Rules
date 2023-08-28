@@ -1,6 +1,6 @@
 # com.shenyuan.militarynews（环球新军事）
 
-## 普通规则
+## 基础规则
 
 快速复制:
 ```

@@ -1,6 +1,6 @@
 # com.ganji.android.haoche_c（瓜子二手车）
 
-## 普通规则
+## 基础规则
 
 快速复制:
 ```

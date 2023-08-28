@@ -1,6 +1,6 @@
 # com.xiaomi.vipaccount（小米社区）
 
-## 普通规则
+## 基础规则
 
 快速复制:
 ```

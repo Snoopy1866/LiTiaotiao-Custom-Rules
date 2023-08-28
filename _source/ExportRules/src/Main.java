@@ -12,7 +12,7 @@ public class Main {
         // String repoPath = "D:\\Documents\\GitHub\\LiTiaotiao-Custom-Rules";
 
 
-        // 创建 HashMap, 存储 app 相关信息（包名, （哈希值, readme.md路径, app 名称, 普通规则, 增强规则））
+        // 创建 HashMap, 存储 app 相关信息（包名, （哈希值, readme.md路径, app 名称, 基础规则, 增强规则））
         HashMap<String, ArrayList<String>> packagesHashMap = new HashMap<String, ArrayList<String>>();
         // 获取规则文件
         ArrayList<String> packageCustomRulesMdFilePathList = getPackageCustomRulesMdFilePathList(repoPath);
@@ -42,7 +42,7 @@ public class Main {
         writeAppList(packagesHashMap, repoPath, repoPath + "\\AppList.md");
 
         // 写入规则至外部文件中
-        // index = 3, 表示普通规则
+        // index = 3, 表示基础规则
         // index = 4, 表示增强规则
         // index = 5, 表示所有规则
 
@@ -195,7 +195,7 @@ public class Main {
             BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(inputStream));
             // app 名称
             String appName = "";
-            // 普通规则内容
+            // 基础规则内容
             String basicRulesStr = "";
             // 增强规则内容
             String extendedRulesStr = "";
@@ -204,9 +204,9 @@ public class Main {
 
             // 检测到 app 名称
             Boolean appNameDetected = false;
-            // 检测到普通规则标题
+            // 检测到基础规则标题
             Boolean basicRulesHeaderLineDetected = false;
-            // 检测到普通规则内容开始
+            // 检测到基础规则内容开始
             Boolean basicRulesContentLineStartDetected = false;
 
             // 检测到增强规则标题
@@ -222,7 +222,7 @@ public class Main {
                     appName = line.substring(line.indexOf("（") + 1, line.indexOf("）"));
                     appNameDetected = true;
                 }
-                else if (line.equals("## 普通规则")) {
+                else if (line.equals("## 基础规则")) {
                     basicRulesHeaderLineDetected = true;
                 }
                 else if (line.equals("```") && basicRulesHeaderLineDetected) {

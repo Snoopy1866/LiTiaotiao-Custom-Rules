@@ -1,6 +1,6 @@
 # com.ss.android.ugc.aweme.lite（抖音极速版）
 
-## 普通规则
+## 基础规则
 
 快速复制:
 ```

@@ -1,6 +1,6 @@
 # com.cctv.yangshipin.app.androidp（央视频）
 
-## 普通规则
+## 基础规则
 
 快速复制:
 ```

@@ -1,6 +1,6 @@
 # com.ss.android.article.news（今日头条）
 
-## 普通规则
+## 基础规则
 
 快速复制:
 ```

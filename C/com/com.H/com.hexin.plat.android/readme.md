@@ -1,6 +1,6 @@
 # com.hexin.plat.android（同花顺）
 
-## 普通规则
+## 基础规则
 
 快速复制:
 ```

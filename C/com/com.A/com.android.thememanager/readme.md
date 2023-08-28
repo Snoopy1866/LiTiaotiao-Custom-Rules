@@ -1,6 +1,6 @@
 # com.android.thememanager（MIUI 主题壁纸）
 
-## 普通规则
+## 基础规则
 
 快速复制:
 ```

@@ -1,6 +1,6 @@
 # com.cmbchina.ccd.pluto.cmbActivity（掌上生活）
 
-## 普通规则
+## 基础规则
 
 快速复制:
 ```

@@ -1,6 +1,6 @@
 # com.lbe.security.miui（MIUI 权限管理服务）
 
-## 普通规则
+## 基础规则
 
 快速复制:
 ```

@@ -1,6 +1,6 @@
 # com.snda.wifilocating（WiFi万能钥匙）
 
-## 普通规则
+## 基础规则
 
 快速复制:
 ```

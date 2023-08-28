@@ -1,6 +1,6 @@
 # com.weaver.emobile7（EMobile7）
 
-## 普通规则
+## 基础规则
 
 快速复制:
 ```

@@ -1,6 +1,6 @@
 # com.hundsun.winner.pazq（平安证券）
 
-## 普通规则
+## 基础规则
 
 快速复制:
 ```

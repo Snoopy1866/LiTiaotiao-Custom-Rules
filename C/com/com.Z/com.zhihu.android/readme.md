@@ -1,6 +1,6 @@
 # com.zhihu.android（知乎）
 
-## 普通规则
+## 基础规则
 快速复制:
 ```
 {"popup_rules":

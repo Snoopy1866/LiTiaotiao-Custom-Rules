@@ -1,6 +1,6 @@
 # com.xiaomi.gamecenter（MIUI 游戏中心）
 
-## 普通规则
+## 基础规则
 
 快速复制:
 ```

@@ -1,6 +1,6 @@
 # com.google.android.documentsui（文件）
 
-## 普通规则
+## 基础规则
 
 ## 增强规则
 

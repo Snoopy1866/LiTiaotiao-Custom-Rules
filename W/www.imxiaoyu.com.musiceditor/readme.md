@@ -1,6 +1,6 @@
 # www.imxiaoyu.com.musiceditor（音乐剪辑大师）
 
-## 普通规则
+## 基础规则
 
 快速复制:
 ```

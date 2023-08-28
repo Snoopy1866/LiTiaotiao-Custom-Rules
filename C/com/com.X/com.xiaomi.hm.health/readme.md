@@ -1,6 +1,6 @@
 # com.xiaomi.hm.health（Zeep Life）
 
-## 普通规则
+## 基础规则
 
 快速复制:
 ```

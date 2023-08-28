@@ -1,6 +1,6 @@
 # net.unitepower.zhitong（智通人才网）
 
-## 普通规则
+## 基础规则
 
 快速复制:
 ```
