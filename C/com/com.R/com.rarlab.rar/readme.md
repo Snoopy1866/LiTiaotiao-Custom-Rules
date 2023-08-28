@@ -1,4 +1,4 @@
-# com.quark.browser (夸克浏览器)
+# com.quark.browser (RAR)
 
 ## 普通规则
 
