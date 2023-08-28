@@ -38,7 +38,6 @@
 
 - com.lalamove.huolala.client（货拉拉）
 - com.xiaomi.shop（小米商城）
-- com.quark.browser（夸克）
 - cn.zevun.hb.music（板凳音乐）
 
 ### 控件 ID 混淆
