@@ -1,6 +1,6 @@
 # com.hungrypanda.waimai（熊猫外卖）
 
-## 普通规则
+## 基础规则
 
 快速复制:
 

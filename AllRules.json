@@ -18,6 +18,9 @@
 		"706813998": "{\"popup_rules\":[{\"id\":\"打开推送通知\",\"action\":\"暂不开启\"},{\"id\":\"开启通知权限\",\"action\":\"取消\"},{\"id\":\"main_iv_limit_confirm\",\"action\":\"main_iv_limit_close\"},{\"id\":\"host_lockscreen_guide_alert_dialog_rich_confirm_title_tv\",\"action\":\"host_lockscreen_guide_alert_dialog_rich_confirm_cancel_btn\"},{\"id\":\"host_layout_vote_title\",\"action\":\"host_timeline_card_close\"},{\"id\":\"main_x_play_anchor_shop_cover\",\"action\":\"main_x_play_anchor_shop_close_btn\"},{\"id\":\"live_iv_bottom_close\",\"action\":\"live_iv_bottom_close\"},{\"id\":\"立即抽奖\",\"action\":\"GLOBAL_ACTION_BACK\"},{\"id\":\"有通行证奖励可领取\",\"action\":\"引导关闭按钮\"},{\"id\":\"liveExitDialogBg\",\"action\":\"liveBtnExit\"}]}"
 	},
 	{
+		"-2028968188": "{\"popup_rules\":[{\"id\":\"iv_home_ad_bg\",\"action\":\"iv_home_ad_close\"},{\"id\":\"iv_invite_icon\",\"action\":\"iv_invite_close\"}]}"
+	},
+	{
 		"-103523392": "{\"popup_rules\":[{\"id\":\"青少年模式\",\"action\":\"我知道了\"},{\"id\":\"进入直播间热聊\",\"action\":\"稍后再说\"},{\"id\":\"开启地理位置权限\",\"action\":\"拒绝\"}]}"
 	},
 	{
@@ -288,6 +291,9 @@
 		"648308836": "{\"popup_rules\":[{\"id\":\"home_float_close\",\"action\":\"home_float_close\"},{\"id\":\"不再提醒\",\"action\":\"tv_never\"}]}"
 	},
 	{
+		"-1930444755": "{\"popup_rules\":[{\"id\":\"riv_poplayer_image\",\"action\":\"iv_close_poplayer_image\"}]}"
+	},
+	{
 		"1788138577": "{\"popup_rules\":[{\"id\":\"关注服务号\",\"action\":\"close_btn\"}]}"
 	},
 	{
@@ -366,6 +372,9 @@
 		"195266379": "{\"popup_rules\":[{\"id\":\"你收到一个现金红包\",\"action\":\"blb\"},{\"id\":\"开启推送通知，及时获取互动消息\",\"action\":\"关闭\"},{\"id\":\"授权抖音朋友\",\"action\":\"拒绝\"}]}"
 	},
 	{
+		"-2086095549": "{\"popup_rules\":[{\"id\":\"版本更新\",\"action\":\"取消\"}]}"
+	},
+	{
 		"-1079643320": "{\"popup_rules\":[{\"id\":\"抽奖机会\",\"action\":\"放弃福利\"},{\"id\":\"1分钟小调研\",\"action\":\"iv_cancel\"},{\"id\":\"应用内更新权限\",\"action\":\"buttonDefaultNegative\"}]}"
 	},
 	{
@@ -424,6 +433,9 @@
 	},
 	{
 		"-807718193": "{\"popup_rules\":[{\"id\":\"rl_banner_close\",\"action\":\"rl_banner_close\"},{\"id\":\"iv_ignore\",\"action\":\"iv_ignore\"},{\"id\":\"ivHomeIndexItemNearbyClose\",\"action\":\"ivHomeIndexItemNearbyClose\"}]}"
+	},
+	{
+		"5992780": "{\"popup_rules\":[{\"id\":\"支持 RAR 开发\",\"action\":\"放弃\"}]}"
 	},
 	{
 		"1868020298": "{\"popup_rules\":[{\"id\":\"开启&通知\",\"action\":\"不要福利\"},{\"id\":\"view_pager\",\"action\":\"iv_close\"},{\"id\":\"iv_logo\",\"action\":\"iv_close\"},{\"id\":\"viewpager\",\"action\":\"iv_home_delete\"}]}"
