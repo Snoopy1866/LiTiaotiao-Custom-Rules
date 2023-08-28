@@ -21,6 +21,6 @@
 
 关闭 主页右边小广告
 
-![](./assets/aliexpress_sidead.jpg)
+![](./assets/aliexpress_sideadb2s.jpg)
 
 ## 增强规则
