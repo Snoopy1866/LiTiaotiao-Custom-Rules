@@ -26,6 +26,7 @@
 - [cn.xiaochuankeji.zuiyouLite](./C/cn/cn.xiaochuankeji.zuiyouLite/readme.md)（皮皮搞笑）
 - #### com.A
   - [com.achievo.vipshop](./C/com/com.A/com.achievo.vipshop/readme.md)（唯品会）
+  - [com.alibaba.aliexpresshd](./C/com/com.A/com.alibaba.aliexpresshd/readme.md)（Aliexpress/全球速卖通）
   - [com.alibaba.android.rimet](./C/com/com.A/com.alibaba.android.rimet/readme.md)（钉钉）
   - [com.alibaba.wireless](./C/com/com.A/com.alibaba.wireless/readme.md)（阿里巴巴）
   - [com.alicloud.databox](./C/com/com.A/com.alicloud.databox/readme.md)（阿里云盘）
@@ -98,6 +99,7 @@
   - [com.huawei.appmarket](./C/com/com.H/com.huawei.appmarket/readme.md)（华为应用市场）
   - [com.hunantv.imgo.activity](./C/com/com.H/com.hunantv.imgo.activity/readme.md)（芒果TV）
   - [com.hundsun.winner.pazq](./C/com/com.H/com.hundsun.winner.pazq/readme.md)（平安证券）
+  - [com.hungrypanda.waimai](./C/com/com.H/com.hungrypanda.waimai/readme.md)（熊猫外卖）
   - [com.hupu.games](./C/com/com.H/com.hupu.games/readme.md)（虎扑）
 - #### com.I
   - [com.iflytek.vflynote](./C/com/com.I/com.iflytek.vflynote/readme.md)（讯飞语记）
@@ -164,8 +166,10 @@
   - [com.qidian.QDReader](./C/com/com.Q/com.qidian.QDReader/readme.md)（起点读书）
   - [com.qiyi.video](./C/com/com.Q/com.qiyi.video/readme.md)（爱奇艺）
   - [com.qiyi.video.lite](./C/com/com.Q/com.qiyi.video.lite/readme.md)（爱奇艺极速版）
+  - [com.quark.browser](./C/com/com.Q/com.quark.browser/readme.md)（夸克浏览器）
   - [com.Qunar](./C/com/com.Q/com.Qunar/readme.md)（去哪儿旅行）
 - #### com.R
+  - [com.rarlab.rar](./C/com/com.R/com.rarlab.rar/readme.md)（RAR）
   - [com.renren.mobile.android](./C/com/com.R/com.renren.mobile.android/readme.md)（人人直播）
   - [com.rumtel.pandatv](./C/com/com.R/com.rumtel.pandatv/readme.md)（电视直播）
 - #### com.S

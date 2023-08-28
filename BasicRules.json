@@ -87,7 +87,7 @@
 		"-1709882794": "{\"popup_rules\":[{\"id\":\"update_title\",\"action\":\"btn_close\"},{\"id\":\"bottom_center_close_button\",\"action\":\"bottom_center_close_button\"},{\"id\":\"订单已满&优惠换购\",\"action\":\"放弃机会\"},{\"id\":\"恭喜你获得以下权益\",\"action\":\"GLOBAL_ACTION_BACK\"},{\"id\":\"popContentImg\",\"action\":\"popCloseBtn\"}]}"
 	},
 	{
-		"1536737232": "{\"popup_rules\":[{\"id\":\"打开通知，及时收到互动消息\",\"action\":\"right_icon\"},{\"id\":\"选择通知类型\",\"action\":\"暂不开启\"},{\"id\":\"bottom_process_tv\",\"action\":\"close\"},{\"id\":\"使用您的位置信息\",\"action\":\"以后再说\"},{\"id\":\"tv_tips\",\"action\":\"iv_close_icon\"},{\"id\":\"不感兴趣&为何会看到此广告\",\"action\":\"不感兴趣\"},{\"id\":\"tv_tips\",\"action\":\"iv_close_icon\"},{\"id\":\"不感兴趣&屏蔽此博主\",\"action\":\"不感兴趣\"},{\"id\":\"left_img_ad_tag\",\"action\":\"close\"},{\"id\":\"关注你感兴趣的超话\",\"action\":\"iv_close\"}]}"
+		"1536737232": "{\"popup_rules\":[{\"id\":\"打开通知，及时收到互动消息\",\"action\":\"right_icon\"},{\"id\":\"选择通知类型\",\"action\":\"暂不开启\"},{\"id\":\"bottom_process_tv\",\"action\":\"close\"},{\"id\":\"使用您的位置信息\",\"action\":\"以后再说\"},{\"id\":\"tv_tips\",\"action\":\"iv_close_icon\"},{\"id\":\"不感兴趣&为何会看到此广告\",\"action\":\"不感兴趣\"},{\"id\":\"tv_tips\",\"action\":\"iv_close_icon\"},{\"id\":\"不感兴趣&屏蔽此博主\",\"action\":\"不感兴趣\"},{\"id\":\"left_img_ad_tag\",\"action\":\"close\"},{\"id\":\"关注你感兴趣的超话\",\"action\":\"iv_close\"},{\"id\":\"定位服务未开启\",\"action\":\"以后再说\"}]}"
 	},
 	{
 		"560468770": "{\"popup_rules\":[{\"id\":\"openAlertText\",\"action\":\"btn_close_update_setting\"},{\"id\":\"=关闭\",\"action\":\"=关闭\"}]}"
@@ -375,7 +375,7 @@
 		"-945730221": "{\"popup_rules\":[{\"id\":\"open_notification_button\",\"action\":\"close_image_view\"},{\"id\":\"location_tip_tv\",\"action\":\"location_tip_close\"}]}"
 	},
 	{
-		"1791072826": "{\"popup_rules\":[{\"id\":\"百度网盘更新啦\",\"action\":\"下次再说\"},{\"id\":\"开启消息通知\",\"action\":\"dialog_cancel\"},{\"id\":\"banner_item_close\",\"action\":\"banner_item_close\"},{\"id\":\"close\",\"action\":\"close\"},{\"id\":\"close_clean_guide\",\"action\":\"close_clean_guide\"},{\"id\":\"close_notification_tip\",\"action\":\"close_notification_tip\"},{\"id\":\"iv_yike_close\",\"action\":\"iv_yike_close\"},{\"id\":\"yike_guide_exit\",\"action\":\"yike_guide_exit\"}]}"
+		"1791072826": "{\"popup_rules\":[{\"id\":\"百度网盘更新啦\",\"action\":\"下次再说\"},{\"id\":\"开启消息通知\",\"action\":\"dialog_cancel\"},{\"id\":\"banner_item_close\",\"action\":\"banner_item_close\"},{\"id\":\"close\",\"action\":\"close\"},{\"id\":\"close_clean_guide\",\"action\":\"close_clean_guide\"},{\"id\":\"close_notification_tip\",\"action\":\"close_notification_tip\"},{\"id\":\"iv_yike_close\",\"action\":\"iv_yike_close\"},{\"id\":\"yike_guide_exit\",\"action\":\"yike_guide_exit\"},{\"id\":\"cl_content\",\"action\":\"iv_close\"}]}"
 	},
 	{
 		"-2069018544": "{\"popup_rules\":[{\"id\":\"尚未设置安全问题验证\",\"action\":\"iv_close\"},{\"id\":\"大学生兼职安全试炼题\",\"action\":\"还是算了\"}]}"
@@ -444,7 +444,7 @@
 		"-920735187": "{\"popup_rules\":[{\"id\":\"青少年模式\",\"action\":\"我知道了\"},{\"id\":\"新人专属大礼包\",\"action\":\"ivClose\"},{\"id\":\"参加新人活动&免费领点币\",\"action\":\"ivClose\"},{\"id\":\"ivAd\",\"action\":\"ivAdClose\"},{\"id\":\"imgBKT\",\"action\":\"imgClose\"},{\"id\":\"开启推送\",\"action\":\"ivClose\"},{\"id\":\"签到成功&获得&章节卡碎片\",\"action\":\"fClose\"}]}"
 	},
 	{
-		"949069732": "{\"popup_rules\":[{\"id\":\"番茄发来的红包\",\"action\":\"f\"},{\"id\":\"buo\",\"action\":\"buo\"}]}"
+		"949069732": "{\"popup_rules\":[{\"id\":\"番茄发来的红包\",\"action\":\"f\"},{\"id\":\"buo\",\"action\":\"buo\"},{\"id\":\"c55\",\"action\":\"c56\"}]}"
 	},
 	{
 		"810513273": "{\"popup_rules\":[{\"id\":\"青少年模式\",\"action\":\"确定\"}]}"
