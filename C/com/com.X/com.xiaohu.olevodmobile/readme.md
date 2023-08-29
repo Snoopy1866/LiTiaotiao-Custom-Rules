@@ -21,6 +21,8 @@
 
 关闭 开屏广告
 
-![](./assets/olevod_start.jpg)
+<!-- ![](./assets/olevod_start.jpg) -->
+<!-- 下面这个<img>是用来调图片大小的, 不可以用或者觉得坏了规格的话就删了用上面这个吧 -->
+<img src="./assets/olevod_start.jpg" height="500" />
 
 ## 增强规则
