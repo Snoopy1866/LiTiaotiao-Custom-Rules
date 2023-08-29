@@ -5,6 +5,7 @@
 
 ![](./assets/Pangle%20SDK.jpg)
 
+- cn.jingliangtech.file（文件管理）
 - cn.luyiyuntech.audioclip（格式转换工厂）
 - cn.sqcat.filemanager（ES文件管理器）
 - com.bizhimars.wallpaper（彩虹多多）
