@@ -7,6 +7,8 @@ assignees: Snoopy1866
 
 ---
 
+**请注意：基于 bounds 的规则不会被适配**
+
 **App 名称**
 
 
