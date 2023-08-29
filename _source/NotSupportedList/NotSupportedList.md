@@ -13,6 +13,7 @@
 - com.ld.ring（来电视频铃声）
 - com.kongshan.audiopick（音频提取）
 - com.psyone.brainmusic（小睡眠）
+- com.qisi.fontdownload（免费字体）
 - com.softin.copydata（手机克隆-换机助手）
 - com.teredy.audioeditor（手机音频剪辑）
 - com.wykay.musiccnpka（卡音）
