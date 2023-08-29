@@ -6,6 +6,7 @@
 - [com.taobao.trip](./com.taobao.trip/readme.md)（飞猪旅行）
 - [com.taptap](./com.taptap/readme.md)（TapTap）
 - [com.telecom.video](./com.telecom.video/readme.md)（天翼超高清）
+- [com.tencent.androidqqmail](./com.tencent.androidqqmail/readme.md)（QQ邮箱）
 - [com.tencent.karaoke](./com.tencent.karaoke/readme.md)（全民K歌）
 - [com.tencent.mobileqq](./com.tencent.mobileqq/readme.md)（QQ）
 - [com.tencent.mtt](./com.tencent.mtt/readme.md)（QQ浏览器）

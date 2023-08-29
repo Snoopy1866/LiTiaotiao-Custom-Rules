@@ -53,6 +53,7 @@
   - [com.cctv.yangshipin.app.androidp](./C/com/com.C/com.cctv.yangshipin.app.androidp/readme.md)（央视频）
   - [com.cctv4g.cctvmobiletv](./C/com/com.C/com.cctv4g.cctvmobiletv/readme.md)（CCTV手机电视）
   - [com.chinamobile.mcloud](./C/com/com.C/com.chinamobile.mcloud/readme.md)（中国移动云盘）
+  - [com.cloudcomputer.cloudnetworkcafe](./C/com/com.C/com.cloudcomputer.cloudnetworkcafe/readme.md)（电讯云网咖）
   - [com.cmbchina.ccd.pluto.cmbActivity](./C/com/com.C/com.cmbchina.ccd.pluto.cmbActivity/readme.md)（掌上生活）
   - [com.cmcc.cmvideo](./C/com/com.C/com.cmcc.cmvideo/readme.md)（咪咕视频）
   - [com.cmcc.hebao](./C/com/com.C/com.cmcc.hebao/readme.md)（和包）
@@ -67,7 +68,9 @@
   - [com.dailyyoga.cn](./C/com/com.D/com.dailyyoga.cn/readme.md)（每日瑜伽）
   - [com.daimajia.gold](./C/com/com.D/com.daimajia.gold/readme.md)（稀土掘金）
   - [com.daliao.live.show](./C/com/com.D/com.daliao.live.show/readme.md)（艾可直播）
+  - [com.damonplay.damonps2.free](./C/com/com.D/com.damonplay.damonps2.free/readme.md)（呆萌PS2模拟器）
   - [com.dmzj.manhua](./C/com/com.D/com.dmzj.manhua/readme.md)（动漫之家）
+  - [com.dongqiudi.news](./C/com/com.D/com.dongqiudi.news/readme.md)（懂球帝）
   - [com.doulan.juxinding](./C/com/com.D/com.doulan.juxinding/readme.md)（抖蓝直播）
   - [com.dragon.read](./C/com/com.D/com.dragon.read/readme.md)（番茄免费小说）
   - [com.duokan.phone.remotecontroller](./C/com/com.D/com.duokan.phone.remotecontroller/readme.md)（万能遥控）
@@ -81,12 +84,14 @@
   - [com.estrongs.android.pop](./C/com/com.E/com.estrongs.android.pop/readme.md)（ES文件浏览器）
   - [com.excean.na](./C/com/com.E/com.excean.na/readme.md)（99手游加速器）
 - #### com.F
+  - [com.f1player](./C/com/com.F/com.f1player/readme.md)（51虚拟机）
   - [com.facetech.konking](./C/com/com.F/com.facetech.konking/readme.md)（轻音社）
   - [com.fanli.android.apps](./C/com/com.F/com.fanli.android.apps/readme.md)（返利）
   - [com.finace.market](./C/com/com.F/com.finace.market/readme.md)（有道财富）
 - #### com.G
   - [com.ganji.android](./C/com/com.G/com.ganji.android/readme.md)（赶集直招）
   - [com.ganji.android.haoche_c](./C/com/com.G/com.ganji.android.haoche_c/readme.md)（瓜子二手车）
+  - [com.gemini.cloud.client](./C/com/com.G/com.gemini.cloud.client/readme.md)（双子星云手机）
   - [com.GFriends.app](./C/com/com.G/com.GFriends.app/readme.md)（呱友）
   - [com.google.android.documentsui](./C/com/com.G/com.google.android.documentsui/readme.md)（文件）
   - [com.gotokeep.keep](./C/com/com.G/com.gotokeep.keep/readme.md)（Keep）
@@ -104,6 +109,7 @@
   - [com.hungrypanda.waimai](./C/com/com.H/com.hungrypanda.waimai/readme.md)（熊猫外卖）
   - [com.hupu.games](./C/com/com.H/com.hupu.games/readme.md)（虎扑）
 - #### com.I
+  - [com.ifeimo.audiorecord](./C/com/com.I/com.ifeimo.audiorecord/readme.md)（录音大师）
   - [com.iflytek.vflynote](./C/com/com.I/com.iflytek.vflynote/readme.md)（讯飞语记）
   - [com.immomo.vchat](./C/com/com.I/com.immomo.vchat/readme.md)（赫兹）
   - [com.intsig.camscanner](./C/com/com.I/com.intsig.camscanner/readme.md)（扫描全能王）
@@ -169,6 +175,7 @@
   - [com.pupumall.customer](./C/com/com.P/com.pupumall.customer/readme.md)（朴朴超市）
 - #### com.Q
   - [com.qidian.QDReader](./C/com/com.Q/com.qidian.QDReader/readme.md)（起点读书）
+  - [com.qisi.wallpaper](./C/com/com.Q/com.qisi.wallpaper/readme.md)（壁纸主题大全）
   - [com.qiyi.video](./C/com/com.Q/com.qiyi.video/readme.md)（爱奇艺）
   - [com.qiyi.video.lite](./C/com/com.Q/com.qiyi.video.lite/readme.md)（爱奇艺极速版）
   - [com.qp333.car](./C/com/com.Q/com.qp333.car/readme.md)（汽修宝）
@@ -188,6 +195,7 @@
   - [com.shenyuan.militarynews](./C/com/com.S/com.shenyuan.militarynews/readme.md)（环球新军事）
   - [com.shizhuang.duapp](./C/com/com.S/com.shizhuang.duapp/readme.md)（得物）
   - [com.sina.weibo](./C/com/com.S/com.sina.weibo/readme.md)（微博）
+  - [com.sina.weibolite](./C/com/com.S/com.sina.weibolite/readme.md)（微博极速版）
   - [com.sing.client](./C/com/com.S/com.sing.client/readme.md)（5sing原创音乐）
   - [com.sinyee.babybus.recommendapp](./C/com/com.S/com.sinyee.babybus.recommendapp/readme.md)（宝宝巴士）
   - [com.smile.gifmaker](./C/com/com.S/com.smile.gifmaker/readme.md)（快手）
@@ -210,6 +218,7 @@
   - [com.taobao.trip](./C/com/com.T/com.taobao.trip/readme.md)（飞猪旅行）
   - [com.taptap](./C/com/com.T/com.taptap/readme.md)（TapTap）
   - [com.telecom.video](./C/com/com.T/com.telecom.video/readme.md)（天翼超高清）
+  - [com.tencent.androidqqmail](./C/com/com.T/com.tencent.androidqqmail/readme.md)（QQ邮箱）
   - [com.tencent.karaoke](./C/com/com.T/com.tencent.karaoke/readme.md)（全民K歌）
   - [com.tencent.mobileqq](./C/com/com.T/com.tencent.mobileqq/readme.md)（QQ）
   - [com.tencent.mtt](./C/com/com.T/com.tencent.mtt/readme.md)（QQ浏览器）
@@ -238,6 +247,7 @@
   - [com.wuba.zhuanzhuan](./C/com/com.W/com.wuba.zhuanzhuan/readme.md)（转转）
 - #### com.X
   - [com.xiachufang](./C/com/com.X/com.xiachufang/readme.md)（下厨房）
+  - [com.xiaohu.olevodmobile](./C/com/com.X/com.xiaohu.olevodmobile/readme.md)（欧乐影院）
   - [com.xiaomi.gamecenter](./C/com/com.X/com.xiaomi.gamecenter/readme.md)（MIUI 游戏中心）
   - [com.xiaomi.hm.health](./C/com/com.X/com.xiaomi.hm.health/readme.md)（Zeep Life）
   - [com.xiaomi.market](./C/com/com.X/com.xiaomi.market/readme.md)（小米应用商店）

@@ -9,6 +9,7 @@
 - [com.shenyuan.militarynews](./com.shenyuan.militarynews/readme.md)（环球新军事）
 - [com.shizhuang.duapp](./com.shizhuang.duapp/readme.md)（得物）
 - [com.sina.weibo](./com.sina.weibo/readme.md)（微博）
+- [com.sina.weibolite](./com.sina.weibolite/readme.md)（微博极速版）
 - [com.sing.client](./com.sing.client/readme.md)（5sing原创音乐）
 - [com.sinyee.babybus.recommendapp](./com.sinyee.babybus.recommendapp/readme.md)（宝宝巴士）
 - [com.smile.gifmaker](./com.smile.gifmaker/readme.md)（快手）
