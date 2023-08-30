@@ -102,7 +102,7 @@
 		"560468770": "{\"popup_rules\":[{\"id\":\"openAlertText\",\"action\":\"btn_close_update_setting\"},{\"id\":\"=关闭\",\"action\":\"=关闭\"}]}"
 	},
 	{
-		"1984799751": "{\"popup_rules\":[{\"id\":\"da_container\",\"action\":\"closeAd\"}{\"id\":\"itah_layout\",\"action\":\"closeAd\"}{\"id\":\"iltas_ad_layout\",\"action\":\"closeAd\"}]}"
+		"1984799751": "{\"popup_rules\":[{\"id\":\"da_container\",\"action\":\"closeAd\"},{\"id\":\"itah_layout\",\"action\":\"closeAd\"},{\"id\":\"iltas_ad_layout\",\"action\":\"closeAd\"}]}"
 	},
 	{
 		"1596265335": "{\"popup_rules\":[{\"id\":\"青少年模式\",\"action\":\"我知道了\"},{\"id\":\"fl_newcomer_gift\",\"action\":\"iv_close\"},{\"id\":\"banner_icon_iv\",\"action\":\"colse_iv\"},{\"id\":\"tv_usercenter_notify_title\",\"action\":\"iv_usercenter_notify_close\"}]}"
@@ -159,7 +159,7 @@
 		"201325446": "{\"popup_rules\":[{\"id\":\"打开消息推送通知\",\"action\":\"ivCloseAlert\"},{\"id\":\"llJbpFirstPopContent\",\"action\":\"ivJbpFirstPopClose\"},{\"id\":\"把聚宝盆添加到桌面快捷方式\",\"action\":\"之后再说\"},{\"id\":\"apperience_enter\",\"action\":\"apperience_close\"},{\"id\":\"rlRedPop\",\"action\":\"ivClose\"},{\"id\":\"iv_pop_content\",\"action\":\"iv_pop_close\"}]}"
 	},
 	{
-		"-527086868": "{\"popup_rules\":[{\"id\":\"gift_img\",\"action\":\"gift_close\"}{\"id\":\"打开系统通知\",\"action\":\"iv_close\"}]}"
+		"-527086868": "{\"popup_rules\":[{\"id\":\"gift_img\",\"action\":\"gift_close\"},{\"id\":\"打开系统通知\",\"action\":\"iv_close\"}]}"
 	},
 	{
 		"-524659007": "{\"popup_rules\":[{\"id\":\"不感兴趣\",\"action\":\"不感兴趣\",\"times\":5}]}"
@@ -684,7 +684,7 @@
 		"-2145732654": "{\"popup_rules\":[{\"id\":\"home_ad_image\",\"action\":\"home_ad_close\"}]}"
 	},
 	{
-		"-1513662963": "{\"popup_rules\":[{\"id\":\"next_points_tv\",\"action\":\"close_iv\"}{\"id\":\"flow_qxb_we_chat_src_iv\",\"action\":\"flow_qxb_we_chat_close_iv\"}]}"
+		"-1513662963": "{\"popup_rules\":[{\"id\":\"next_points_tv\",\"action\":\"close_iv\"},{\"id\":\"flow_qxb_we_chat_src_iv\",\"action\":\"flow_qxb_we_chat_close_iv\"}]}"
 	},
 	{
 		"886316827": "{\"popup_rules\":[{\"id\":\"发现新版本\",\"action\":\"cancel\"},{\"id\":\"开启推送通知\",\"action\":\"取消\"}]}"
@@ -753,13 +753,13 @@
 		"-506597855": "{\"popup_rules\":[{\"id\":\"版本更新\",\"action\":\"取消\"}]}"
 	},
 	{
-		"-133843480": "{\"popup_rules\":[{\"id\":\"clean_adv_image\",\"action\":\"iv_close\"}{\"id\":\"main_image_600x400\",\"action\":\"close\"}{\"id\":\"确定放弃VIP会员\",\"action\":\"close\"}]}"
+		"-133843480": "{\"popup_rules\":[{\"id\":\"clean_adv_image\",\"action\":\"iv_close\"},{\"id\":\"main_image_600x400\",\"action\":\"close\"},{\"id\":\"确定放弃VIP会员\",\"action\":\"close\"}]}"
 	},
 	{
 		"559984781": "{\"popup_rules\":[{\"id\":\"iv_delete\",\"action\":\"iv_delete\"}]}"
 	},
 	{
-		"1305029671": "{\"popup_rules\":[{\"id\":\"版本更新\",\"action\":\"关闭\"}{\"id\":\"签到成功\",\"action\":\"关闭\"}]}"
+		"1305029671": "{\"popup_rules\":[{\"id\":\"版本更新\",\"action\":\"关闭\"},{\"id\":\"签到成功\",\"action\":\"关闭\"}]}"
 	},
 	{
 		"-1846921724": "{\"popup_rules\":[{\"id\":\"青少年模式\",\"action\":\"我知道了\"},{\"id\":\"iv_dialog_main_activity_bg\",\"action\":\"iv_dialog_main_activity_close\"},{\"id\":\"radiance\",\"action\":\"iv_dialog_live_room_gift_bag_close\"}]}"

@@ -8,8 +8,8 @@
 ```
 {"popup_rules":
     [
-        {"id":"da_container","action":"closeAd"}
-        {"id":"itah_layout","action":"closeAd"}
+        {"id":"da_container","action":"closeAd"},
+        {"id":"itah_layout","action":"closeAd"},
         {"id":"iltas_ad_layout","action":"closeAd"}
     ]
 }

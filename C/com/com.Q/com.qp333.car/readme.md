@@ -6,7 +6,7 @@
 ```
 {"popup_rules":
     [
-        {"id":"next_points_tv","action":"close_iv"}
+        {"id":"next_points_tv","action":"close_iv"},
         {"id":"flow_qxb_we_chat_src_iv","action":"flow_qxb_we_chat_close_iv"}
     ]
 }

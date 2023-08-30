@@ -6,8 +6,8 @@
 ```
 {"popup_rules":
     [
-        {"id":"clean_adv_image","action":"iv_close"}
-        {"id":"main_image_600x400","action":"close"}
+        {"id":"clean_adv_image","action":"iv_close"},
+        {"id":"main_image_600x400","action":"close"},
         {"id":"确定放弃VIP会员","action":"close"}
     ]
 }

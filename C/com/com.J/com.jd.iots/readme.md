@@ -6,7 +6,7 @@
 ```
 {"popup_rules":
     [
-        {"id":"gift_img","action":"gift_close"}
+        {"id":"gift_img","action":"gift_close"},
         {"id":"打开系统通知","action":"iv_close"}
     ]
 }
