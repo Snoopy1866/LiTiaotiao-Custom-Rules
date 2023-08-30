@@ -6,13 +6,15 @@
 ```
 {"popup_rules":
     [
+        {"id":"青少年模式","action":"我知道了"},
+
         {"id":"ic_notice","action":"ic_action"},
 
         {"id":"+广告","action":"more_icon"},
         {"id":"屏蔽广告","action":"不感兴趣"},
         
         {"id":"+会员购","action":"more_icon"},
-        {"id":"屏蔽推广","action":"视频不感兴趣"},
+        {"id":"屏蔽推广","action":"不感兴趣"},
         
         {"id":"corner_hint","action":"more_icon"}
     ]
@@ -23,6 +25,11 @@
 - [{"id":"+广告","action":"more_icon"} - {"id":"屏蔽广告","action":"不感兴趣"}](#id广告actionmore_icon---id屏蔽广告action不感兴趣)
 - [{"id":"+会员购","action":"more_icon"} - {"id":"屏蔽推广","action":"视频不感兴趣"}](#id会员购actionmore_icon---id屏蔽推广action视频不感兴趣)
 - [{"id":"corner_hint","action":"more_icon"}](#idcorner_hintactionmore_icon)
+
+### {"id":"青少年模式","action":"我知道了"}
+关闭青少年模式弹窗
+
+![](./assets/青少年模式弹窗.jpg)
 
 ### {"id":"ic_notice","action":"ic_action"}
 关闭 “我的” 页面视频推荐广播通知（⚡ 需要手动触发）

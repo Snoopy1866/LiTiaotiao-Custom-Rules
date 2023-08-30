@@ -10,6 +10,7 @@
 - cn.sqcat.filemanager（ES文件管理器）
 - com.bizhimars.wallpaper（彩虹多多）
 - com.hdlayer.uh（地瓜视频）
+- com.laidian.xiu（来电秀秀）
 - com.ld.ring（来电视频铃声）
 - com.kongshan.audiopick（音频提取）
 - com.psyone.brainmusic（小睡眠）

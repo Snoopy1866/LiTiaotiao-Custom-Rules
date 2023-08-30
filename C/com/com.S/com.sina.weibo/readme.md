@@ -24,7 +24,15 @@
 
         {"id":"关注你感兴趣的超话","action":"iv_close"},
 
-        {"id":"定位服务未开启","action":"以后再说"}
+        {"id":"定位服务未开启","action":"以后再说"},
+
+        {"id":"点击签到","action":"GLOBAL_ACTION_BACK"},
+
+        {"id":"给我们评分","action":"不了，谢谢"},
+
+        {"id":"card_view","action":"right_top_tag"},
+
+        {"id":"不感兴趣&内容质量差","action":"不感兴趣"}
     ]
 }
 ```
@@ -38,6 +46,9 @@
 - [{"id":"left_img_ad_tag","action":"close"}](#idleft_img_ad_tagactionclose)
 - [{"id":"关注你感兴趣的超话","action":"iv_close"}](#id关注你感兴趣的超话actioniv_close)
 - [{"id":"定位服务未开启","action":"以后再说"}](#id定位服务未开启action以后再说)
+- [{"id":"点击签到","action":"GLOBAL_ACTION_BACK"}](#id点击签到actionglobal_action_back)
+- [{"id":"给我们评分","action":"不了，谢谢"}](#id给我们评分action不了谢谢)
+- [{"id":"card_view","action":"right_top_tag"}](#idcard_viewactionright_top_tag)
 
 ### {"id":"打开通知，及时收到互动消息","action":"right_icon"}
 关闭打开通知提示信息
@@ -79,6 +90,8 @@
 ### {"id":"关注你感兴趣的超话","action":"iv_close"}
 关闭关注感兴趣超话提示信息
 
+⚡ 需要手动触发
+
 ![](./assets/关注感兴趣超话提示信息.jpg)
 
 
@@ -86,5 +99,27 @@
 关闭定位服务未开启弹窗
 
 ![](./assets/location2.jpg)
+
+### {"id":"点击签到","action":"GLOBAL_ACTION_BACK"}
+关闭签到弹窗
+
+![](./assets/签到弹窗.jpg)
+
+### {"id":"给我们评分","action":"不了，谢谢"}
+关闭评分弹窗
+
+![](./assets/评分弹窗.jpg)
+
+### {"id":"card_view","action":"right_top_tag"}
+关闭博文下方广告
+
+![](./assets/博文下方广告.jpg)
+
+### {"id":"不感兴趣&内容质量差","action":"不感兴趣"}
+关闭推荐微博内容
+
+⚡ 需要手动触发
+
+![](./assets/推荐微博内容.jpg)
 
 ## 增强规则
