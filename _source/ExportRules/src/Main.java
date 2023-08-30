@@ -312,6 +312,7 @@ public class Main {
             // 匹配并获取 app名称 的正则表达式
             Pattern pattern = Pattern.compile("#\\s+[A-Za-z0-9_]+(?:\\.[A-Za-z0-9_]+)*\\s*[（(](.+)[)）]");
 
+            String error_line = ""; // 规则语法错误的行
             while ((line = bufferedReader.readLine()) != null) {
                 if (!appNameDetected) {
                     Matcher matcher = pattern.matcher(line);
@@ -343,9 +344,29 @@ public class Main {
 
                 if (basicRulesContentLineStartDetected) {
                     basicRulesStr += line.strip().replace("\"", "\\\"");
+
+                    // 检测语法错误
+                    String tmp_error_line = "";
+                    if (line.strip().startsWith("{\"id\":") && !line.strip().endsWith(",")) {
+                        tmp_error_line = packageCustomRulesMdFilePath + "  发现规则语法错误：" + line.strip();
+                    }
+                    if (line.strip().startsWith("{\"id\":") && !error_line.isBlank()) {
+                        System.out.println(error_line);
+                    }
+                    error_line = tmp_error_line;
                 }
                 else if (extendedRulesContentLineStartDetected) {
                     extendedRulesStr += line.strip().replace("\"", "\\\"");
+
+                    // 检测语法错误
+                    String tmp_error_line = "";
+                    if (line.strip().startsWith("{\"id\":") && !line.strip().endsWith(",")) {
+                        tmp_error_line = packageCustomRulesMdFilePath + "  发现规则语法错误：" + line.strip();
+                    }
+                    if (line.strip().startsWith("{\"id\":") && !error_line.isBlank()) {
+                        System.out.println(error_line);
+                    }
+                    error_line = tmp_error_line;
                 }
             }
 
