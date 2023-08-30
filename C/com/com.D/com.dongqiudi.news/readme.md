@@ -8,19 +8,27 @@
 ```
 {"popup_rules":
     [
+        {"id":"新版本升级","action":"下次提醒"},
+
         {"id":"青少年模式","action":"我知道了"},
 
         {"id":"ads_image","action":"feedback_close"},
         {"id":"选择理由，优化你的广告","action":"诱导点击"},
 
-        {"id":"ads_label","action":"feedback_close"}
+        {"id":"ads_label","action":"feedback_close"}        
     ]
 }
 ```
 详细说明：
+- [{"id":"新版本升级","action":"下次提醒"}](#id新版本升级action下次提醒)
 - [{"id":"青少年模式","action":"我知道了"}](#id青少年模式action我知道了)
 - [{"id":"ads_image","action":"feedback_close"} - {"id":"选择理由，优化你的广告","action":"诱导点击"}](#idads_imageactionfeedback_close---id选择理由优化你的广告action诱导点击)
 - [{"id":"ads_label","action":"feedback_close"}](#idads_labelactionfeedback_close)
+
+### {"id":"新版本升级","action":"下次提醒"}
+关闭更新弹窗
+
+![](./assets/更新弹窗.jpg)
 
 ### {"id":"青少年模式","action":"我知道了"}
 关闭青少年模式弹窗
