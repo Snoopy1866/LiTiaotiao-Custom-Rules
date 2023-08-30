@@ -26,6 +26,7 @@
 - [cn.xiaochuankeji.tieba](./C/cn/cn.xiaochuankeji.tieba/readme.md)（最右）
 - [cn.xiaochuankeji.zuiyouLite](./C/cn/cn.xiaochuankeji.zuiyouLite/readme.md)（皮皮搞笑）
 - #### com.A
+  - [com.abk.fitter](./C/com/com.A/com.abk.fitter/readme.md)（安帮客师傅端）
   - [com.achievo.vipshop](./C/com/com.A/com.achievo.vipshop/readme.md)（唯品会）
   - [com.alibaba.aliexpresshd](./C/com/com.A/com.alibaba.aliexpresshd/readme.md)（Aliexpress/全球速卖通）
   - [com.alibaba.android.rimet](./C/com/com.A/com.alibaba.android.rimet/readme.md)（钉钉）
@@ -43,6 +44,7 @@
   - [com.baidu.homework](./C/com/com.B/com.baidu.homework/readme.md)（作业帮）
   - [com.baidu.netdisk](./C/com/com.B/com.baidu.netdisk/readme.md)（百度网盘）
   - [com.baidu.searchbox](./C/com/com.B/com.baidu.searchbox/readme.md)（百度）
+  - [com.baidu.searchbox.senior](./C/com/com.B/com.baidu.searchbox.senior/readme.md)（百度关怀版）
   - [com.baidu.tieba](./C/com/com.B/com.baidu.tieba/readme.md)（百度贴吧）
   - [com.baidu.wenku](./C/com/com.B/com.baidu.wenku/readme.md)（百度文库）
   - [com.banban.kuxiu](./C/com/com.B/com.banban.kuxiu/readme.md)（酷秀LIVE）
@@ -162,11 +164,13 @@
   - [com.miui.systemAdSolution](./C/com/com.M/com.miui.systemAdSolution/readme.md)（MIUI 智能服务）
   - [com.mm.android.lc](./C/com/com.M/com.mm.android.lc/readme.md)（乐橙）
   - [com.mylikefonts.activity](./C/com/com.M/com.mylikefonts.activity/readme.md)（字体美化大师）
+  - [com.mysteel.banksteeltwo](./C/com/com.M/com.mysteel.banksteeltwo/readme.md)（钢银助手）
 - #### com.N
   - [com.netease.cloudmusic](./C/com/com.N/com.netease.cloudmusic/readme.md)（网易云音乐）
   - [com.netease.lotterynews](./C/com/com.N/com.netease.lotterynews/readme.md)（网易红彩）
   - [com.netease.play](./C/com/com.N/com.netease.play/readme.md)（LOOK直播）
   - [com.netease.uu](./C/com/com.N/com.netease.uu/readme.md)（UU加速器）
+  - [com.njgdmm.zjy](./C/com/com.N/com.njgdmm.zjy/readme.md)（最江阴）
   - [com.njh.biubiu](./C/com/com.N/com.njh.biubiu/readme.md)（biubiu加速器）
   - [com.nowcasting.activity](./C/com/com.N/com.nowcasting.activity/readme.md)（彩云天气）
 - #### com.O
@@ -217,6 +221,7 @@
   - [com.taobao.taobao](./C/com/com.T/com.taobao.taobao/readme.md)（淘宝）
   - [com.taobao.trip](./C/com/com.T/com.taobao.trip/readme.md)（飞猪旅行）
   - [com.taptap](./C/com/com.T/com.taptap/readme.md)（TapTap）
+  - [com.technicalperson](./C/com/com.T/com.technicalperson/readme.md)（技术人）
   - [com.telecom.video](./C/com/com.T/com.telecom.video/readme.md)（天翼超高清）
   - [com.tencent.androidqqmail](./C/com/com.T/com.tencent.androidqqmail/readme.md)（QQ邮箱）
   - [com.tencent.karaoke](./C/com/com.T/com.tencent.karaoke/readme.md)（全民K歌）
@@ -232,6 +237,7 @@
   - [com.tianyancha.skyeye](./C/com/com.T/com.tianyancha.skyeye/readme.md)（天眼查）
   - [com.to8to.housekeeper](./C/com/com.T/com.to8to.housekeeper/readme.md)（土巴兔装修）
   - [com.tongcheng.android](./C/com/com.T/com.tongcheng.android/readme.md)（同程旅行）
+  - [com.trantor.genesis](./C/com/com.T/com.trantor.genesis/readme.md)（维迈通多多）
   - [com.tymxa.gqshfhs](./C/com/com.T/com.tymxa.gqshfhs/readme.md)（高情商回复话术）
 - #### com.U
   - [com.unionpay](./C/com/com.U/com.unionpay/readme.md)（云闪付）
@@ -280,6 +286,7 @@
   - [com.zhaopin.social](./C/com/com.Z/com.zhaopin.social/readme.md)（智联招聘）
   - [com.zhihu.android](./C/com/com.Z/com.zhihu.android/readme.md)（知乎）
   - [com.zhubajie.client](./C/com/com.Z/com.zhubajie.client/readme.md)（猪八戒）
+  - [com.zsyj.trans](./C/com/com.Z/com.zsyj.trans/readme.md)（全局透明壁纸）
   - [com.zuoyebang.airclass](./C/com/com.Z/com.zuoyebang.airclass/readme.md)（作业帮直播课）
 
 ### G

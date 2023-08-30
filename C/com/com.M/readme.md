@@ -11,3 +11,4 @@
 - [com.miui.systemAdSolution](./com.miui.systemAdSolution/readme.md)（MIUI 智能服务）
 - [com.mm.android.lc](./com.mm.android.lc/readme.md)（乐橙）
 - [com.mylikefonts.activity](./com.mylikefonts.activity/readme.md)（字体美化大师）
+- [com.mysteel.banksteeltwo](./com.mysteel.banksteeltwo/readme.md)（钢银助手）

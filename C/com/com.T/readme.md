@@ -5,6 +5,7 @@
 - [com.taobao.taobao](./com.taobao.taobao/readme.md)（淘宝）
 - [com.taobao.trip](./com.taobao.trip/readme.md)（飞猪旅行）
 - [com.taptap](./com.taptap/readme.md)（TapTap）
+- [com.technicalperson](./com.technicalperson/readme.md)（技术人）
 - [com.telecom.video](./com.telecom.video/readme.md)（天翼超高清）
 - [com.tencent.androidqqmail](./com.tencent.androidqqmail/readme.md)（QQ邮箱）
 - [com.tencent.karaoke](./com.tencent.karaoke/readme.md)（全民K歌）
@@ -20,4 +21,5 @@
 - [com.tianyancha.skyeye](./com.tianyancha.skyeye/readme.md)（天眼查）
 - [com.to8to.housekeeper](./com.to8to.housekeeper/readme.md)（土巴兔装修）
 - [com.tongcheng.android](./com.tongcheng.android/readme.md)（同程旅行）
+- [com.trantor.genesis](./com.trantor.genesis/readme.md)（维迈通多多）
 - [com.tymxa.gqshfhs](./com.tymxa.gqshfhs/readme.md)（高情商回复话术）
