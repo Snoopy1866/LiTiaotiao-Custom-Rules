@@ -9,6 +9,7 @@
 - cn.luyiyuntech.audioclip（格式转换工厂）
 - cn.sqcat.filemanager（ES文件管理器）
 - com.bizhimars.wallpaper（彩虹多多）
+- com.dada.wallpaper（壁纸神器）
 - com.hdlayer.uh（地瓜视频）
 - com.laidian.xiu（来电秀秀）
 - com.ld.ring（来电视频铃声）
