@@ -7,5 +7,6 @@
 - [com.jin10](./com.jin10/readme.md)（金十数据）
 - [com.jingdong.app.mall](./com.jingdong.app.mall/readme.md)（京东）
 - [com.jingyao.easybike](./com.jingyao.easybike/readme.md)（哈啰）
+- [com.jmgo.funcontrol](./com.jmgo.funcontrol/readme.md)（坚果控）
 - [com.job.android](./com.job.android/readme.md)（前程无忧51Job）
 - [com.jojoread.huiben](./com.jojoread.huiben/readme.md)（叫叫绘本）
