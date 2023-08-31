@@ -9,6 +9,7 @@
 - [com.yixia.videoeditor](./com.yixia.videoeditor/readme.md)（秒拍）
 - [com.ylzinfo.chinahrss](./com.ylzinfo.chinahrss/readme.md)（掌上12333）
 - [com.youdao.course](./com.youdao.course/readme.md)（有道精品课）
+- [com.youdao.lingshi.aicard](./com.youdao.lingshi.aicard/readme.md)（有道领世）
 - [com.youku.phone](./com.youku.phone/readme.md)（优酷视频）
 - [com.youqi.fjjf](./com.youqi.fjjf/readme.md)（饭橘）
 - [com.yy.yomi](./com.yy.yomi/readme.md)（Yo语音）

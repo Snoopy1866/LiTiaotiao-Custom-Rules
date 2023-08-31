@@ -3,6 +3,7 @@
 - [com.cctv.yangshipin.app.androidp](./com.cctv.yangshipin.app.androidp/readme.md)（央视频）
 - [com.cctv4g.cctvmobiletv](./com.cctv4g.cctvmobiletv/readme.md)（CCTV手机电视）
 - [com.chinamobile.mcloud](./com.chinamobile.mcloud/readme.md)（中国移动云盘）
+- [com.chinaso.so](./com.chinaso.so/readme.md)（花漾搜索）
 - [com.cloudcomputer.cloudnetworkcafe](./com.cloudcomputer.cloudnetworkcafe/readme.md)（电讯云网咖）
 - [com.cmbchina.ccd.pluto.cmbActivity](./com.cmbchina.ccd.pluto.cmbActivity/readme.md)（掌上生活）
 - [com.cmcc.cmvideo](./com.cmcc.cmvideo/readme.md)（咪咕视频）
