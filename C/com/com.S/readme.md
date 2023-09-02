@@ -5,6 +5,7 @@
 - [com.sdjuliang.yuanqijob](./com.sdjuliang.yuanqijob/readme.md)（元气兼职）
 - [com.sdu.didi.psnger](./com.sdu.didi.psnger/readme.md)（滴滴出行）
 - [com.sgcc.evs.echarge](./com.sgcc.evs.echarge/readme.md)（e充电）
+- [com.sgcc.wsgw.cn](./com.sgcc.wsgw.cn/readme.md)（网上国网）
 - [com.shanbay.news](./com.shanbay.news/readme.md)（扇贝阅读）
 - [com.shenyuan.militarynews](./com.shenyuan.militarynews/readme.md)（环球新军事）
 - [com.shizhuang.duapp](./com.shizhuang.duapp/readme.md)（得物）

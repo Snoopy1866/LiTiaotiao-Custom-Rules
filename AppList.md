@@ -47,6 +47,7 @@
   - [com.baidu.netdisk](./C/com/com.B/com.baidu.netdisk/readme.md)（百度网盘）
   - [com.baidu.searchbox](./C/com/com.B/com.baidu.searchbox/readme.md)（百度）
   - [com.baidu.searchbox.senior](./C/com/com.B/com.baidu.searchbox.senior/readme.md)（百度关怀版）
+  - [com.baidu.searchbox.tomas](./C/com/com.B/com.baidu.searchbox.tomas/readme.md)（百度大字版）
   - [com.baidu.tieba](./C/com/com.B/com.baidu.tieba/readme.md)（百度贴吧）
   - [com.baidu.wenku](./C/com/com.B/com.baidu.wenku/readme.md)（百度文库）
   - [com.banban.kuxiu](./C/com/com.B/com.banban.kuxiu/readme.md)（酷秀LIVE）
@@ -58,6 +59,7 @@
 - #### com.C
   - [com.cctv.yangshipin.app.androidp](./C/com/com.C/com.cctv.yangshipin.app.androidp/readme.md)（央视频）
   - [com.cctv4g.cctvmobiletv](./C/com/com.C/com.cctv4g.cctvmobiletv/readme.md)（CCTV手机电视）
+  - [com.cfitcxwl.kdyutbu](./C/com/com.C/com.cfitcxwl.kdyutbu/readme.md)（囧次元）
   - [com.chinamobile.mcloud](./C/com/com.C/com.chinamobile.mcloud/readme.md)（中国移动云盘）
   - [com.chinaso.so](./C/com/com.C/com.chinaso.so/readme.md)（花漾搜索）
   - [com.cloudcomputer.cloudnetworkcafe](./C/com/com.C/com.cloudcomputer.cloudnetworkcafe/readme.md)（电讯云网咖）
@@ -76,6 +78,7 @@
   - [com.daimajia.gold](./C/com/com.D/com.daimajia.gold/readme.md)（稀土掘金）
   - [com.daliao.live.show](./C/com/com.D/com.daliao.live.show/readme.md)（艾可直播）
   - [com.damonplay.damonps2.free](./C/com/com.D/com.damonplay.damonps2.free/readme.md)（呆萌PS2模拟器）
+  - [com.daqo.wallpaper](./C/com/com.D/com.daqo.wallpaper/readme.md)（动漫壁纸大全）
   - [com.dmzj.manhua](./C/com/com.D/com.dmzj.manhua/readme.md)（动漫之家）
   - [com.dongqiudi.news](./C/com/com.D/com.dongqiudi.news/readme.md)（懂球帝）
   - [com.doulan.juxinding](./C/com/com.D/com.doulan.juxinding/readme.md)（抖蓝直播）
@@ -96,6 +99,7 @@
   - [com.f1player](./C/com/com.F/com.f1player/readme.md)（51虚拟机）
   - [com.facetech.konking](./C/com/com.F/com.facetech.konking/readme.md)（轻音社）
   - [com.fanli.android.apps](./C/com/com.F/com.fanli.android.apps/readme.md)（返利）
+  - [com.felink.foregroundpaper](./C/com/com.F/com.felink.foregroundpaper/readme.md)（全局透明壁纸）
   - [com.finace.market](./C/com/com.F/com.finace.market/readme.md)（有道财富）
   - [com.fq.wallpaper](./C/com/com.F/com.fq.wallpaper/readme.md)（飞火动态壁纸）
 - #### com.G
@@ -128,6 +132,7 @@
   - [com.jd.iots](./C/com/com.J/com.jd.iots/readme.md)（京东小家）
   - [com.jd.jdhealth](./C/com/com.J/com.jd.jdhealth/readme.md)（京东健康）
   - [com.jd.jdlite](./C/com/com.J/com.jd.jdlite/readme.md)（京喜特价）
+  - [com.jd.jrapp](./C/com/com.J/com.jd.jrapp/readme.md)（京东金融）
   - [com.jdd.motorfans](./C/com/com.J/com.jdd.motorfans/readme.md)（摩托范）
   - [com.jin10](./C/com/com.J/com.jin10/readme.md)（金十数据）
   - [com.jingdong.app.mall](./C/com/com.J/com.jingdong.app.mall/readme.md)（京东）
@@ -135,6 +140,7 @@
   - [com.jmgo.funcontrol](./C/com/com.J/com.jmgo.funcontrol/readme.md)（坚果控）
   - [com.job.android](./C/com/com.J/com.job.android/readme.md)（前程无忧51Job）
   - [com.jojoread.huiben](./C/com/com.J/com.jojoread.huiben/readme.md)（叫叫绘本）
+  - [com.jym.mall](./C/com/com.J/com.jym.mall/readme.md)（交易猫）
 - #### com.K
   - [com.kmxs.reader](./C/com/com.K/com.kmxs.reader/readme.md)（七猫免费小说）
   - [com.kuaishou.nebula](./C/com/com.K/com.kuaishou.nebula/readme.md)（快手极速版）
@@ -165,6 +171,7 @@
   - [com.magicalstory.cleaner](./C/com/com.M/com.magicalstory.cleaner/readme.md)（安卓清理君）
   - [com.meitu.meipaimv](./C/com/com.M/com.meitu.meipaimv/readme.md)（美拍）
   - [com.mi.health](./C/com/com.M/com.mi.health/readme.md)（小米运动健康）
+  - [com.mihoyo.hyperion](./C/com/com.M/com.mihoyo.hyperion/readme.md)（米游社）
   - [com.mimikko.mimikkoui](./C/com/com.M/com.mimikko.mimikkoui/readme.md)（兽耳助手）
   - [com.miui.gallery](./C/com/com.M/com.miui.gallery/readme.md)（MIUI 相册）
   - [com.miui.huanji](./C/com/com.M/com.miui.huanji/readme.md)（小米换机）
@@ -175,6 +182,7 @@
   - [com.mylikefonts.activity](./C/com/com.M/com.mylikefonts.activity/readme.md)（字体美化大师）
   - [com.mysteel.banksteeltwo](./C/com/com.M/com.mysteel.banksteeltwo/readme.md)（钢银助手）
 - #### com.N
+  - [com.nero.swiftlink.mirror](./C/com/com.N/com.nero.swiftlink.mirror/readme.md)（雨燕投屏）
   - [com.netease.cloudmusic](./C/com/com.N/com.netease.cloudmusic/readme.md)（网易云音乐）
   - [com.netease.lotterynews](./C/com/com.N/com.netease.lotterynews/readme.md)（网易红彩）
   - [com.netease.play](./C/com/com.N/com.netease.play/readme.md)（LOOK直播）
@@ -204,6 +212,7 @@
   - [com.sdjuliang.yuanqijob](./C/com/com.S/com.sdjuliang.yuanqijob/readme.md)（元气兼职）
   - [com.sdu.didi.psnger](./C/com/com.S/com.sdu.didi.psnger/readme.md)（滴滴出行）
   - [com.sgcc.evs.echarge](./C/com/com.S/com.sgcc.evs.echarge/readme.md)（e充电）
+  - [com.sgcc.wsgw.cn](./C/com/com.S/com.sgcc.wsgw.cn/readme.md)（网上国网）
   - [com.shanbay.news](./C/com/com.S/com.shanbay.news/readme.md)（扇贝阅读）
   - [com.shenyuan.militarynews](./C/com/com.S/com.shenyuan.militarynews/readme.md)（环球新军事）
   - [com.shizhuang.duapp](./C/com/com.S/com.shizhuang.duapp/readme.md)（得物）

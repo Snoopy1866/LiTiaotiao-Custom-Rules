@@ -3,6 +3,7 @@
 - [com.magicalstory.cleaner](./com.magicalstory.cleaner/readme.md)（安卓清理君）
 - [com.meitu.meipaimv](./com.meitu.meipaimv/readme.md)（美拍）
 - [com.mi.health](./com.mi.health/readme.md)（小米运动健康）
+- [com.mihoyo.hyperion](./com.mihoyo.hyperion/readme.md)（米游社）
 - [com.mimikko.mimikkoui](./com.mimikko.mimikkoui/readme.md)（兽耳助手）
 - [com.miui.gallery](./com.miui.gallery/readme.md)（MIUI 相册）
 - [com.miui.huanji](./com.miui.huanji/readme.md)（小米换机）
