@@ -6,6 +6,7 @@
 ```
 {"popup_rules":
     [
+        {"id":"发现新版本","action":"img_cancle"},
         {"id":"dialog_teenager_tv_tip","action":"dialog_teenager_tv_iKnow"},
         {"id":"newVipUser_tv_tip","action":"main_newVipUser_close"},
         {"id":"开通消息通知","action":"iv_close"},
@@ -15,11 +16,17 @@
 }
 ```
 详细说明：
+- [{"id":"发现新版本","action":"img_cancle"}](#id发现新版本actionimg_cancle)
 - [{"id":"dialog_teenager_tv_tip","action":"dialog_teenager_tv_iKnow"}](#iddialog_teenager_tv_tipactiondialog_teenager_tv_iknow)
 - [{"id":"newVipUser_tv_tip","action":"main_newVipUser_close"}](#idnewvipuser_tv_tipactionmain_newvipuser_close)
 - [{"id":"开通消息通知","action":"iv_close"}](#id开通消息通知actioniv_close)
 - [{"id":"签到成功","action":"iv_close"}](#id签到成功actioniv_close)
 - [{"id":"image_ad","action":"iv_close"}](#idimage_adactioniv_close)
+
+### {"id":"发现新版本","action":"img_cancle"}
+关闭更新弹窗
+
+![](./assets/更新弹窗.jpg)
 
 ### {"id":"dialog_teenager_tv_tip","action":"dialog_teenager_tv_iKnow"}
 关闭青少年模式弹窗
