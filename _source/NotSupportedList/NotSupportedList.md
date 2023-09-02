@@ -9,6 +9,7 @@
 - cn.luyiyuntech.audioclip（格式转换工厂）
 - cn.sqcat.filemanager（ES文件管理器）
 - com.bizhimars.wallpaper（彩虹多多）
+- com.bp.androidesk（主题壁纸）
 - com.dada.wallpaper（壁纸神器）
 - com.hdlayer.uh（地瓜视频）
 - com.laidian.xiu（来电秀秀）
@@ -19,6 +20,7 @@
 - com.softin.copydata（手机克隆-换机助手）
 - com.teredy.audioeditor（手机音频剪辑）
 - com.wykay.musiccnpka（卡音）
+- com.xianglizi.filemanagertools（小熊文件工具箱）
 - com.yuxi.fakergps（模拟定位神器）
 - dahsix.afanb.gthqj（大师兄影视）
 - mianfeiting.myyue（免费听音乐）
@@ -30,6 +32,7 @@
 
 ![](./assets/优量汇%20SDK.jpg)
 
+- com.ddmh.livewallpaper（动态壁纸秀）
 - com.dewmobile.kuaiya（快牙）
 
 ### 快手联盟 Kuai Ad SDK
