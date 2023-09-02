@@ -6,6 +6,7 @@
 ```
 {"popup_rules":
     [
+        {"id":"发现新版本","action":"ivClose"},
         {"id":"青少年模式","action":"我知道了"},
         {"id":"tvBottomFloatViewDesc","action":"ivBottomFloatViewClose"},
         {"id":"奖品免费包邮到家","action":"放弃领取"},
@@ -17,6 +18,7 @@
 }
 ```
 详细说明：
+- [{"id":"发现新版本","action":"ivClose"}](#id发现新版本actionivclose)
 - [{"id":"青少年模式","action":"我知道了"}](#id青少年模式action我知道了)
 - [{"id":"tvBottomFloatViewDesc","action":"ivBottomFloatViewClose"}](#idtvbottomfloatviewdescactionivbottomfloatviewclose)
 - [{"id":"奖品免费包邮到家","action":"放弃领取"}](#id奖品免费包邮到家action放弃领取)
@@ -24,6 +26,11 @@
 - [{"id":"anim_view","action":"closeIcon"}](#idanim_viewactioncloseicon)
 - [{"id":"新人超值好物","action":"ivClose"}](#id新人超值好物actionivclose)
 - [{"id":"新人限时福利","action":"ivClose"}](#id新人限时福利actionivclose)
+
+### {"id":"发现新版本","action":"ivClose"}
+关闭更新弹窗
+
+![](./assets/更新弹窗.jpg)
 
 ### {"id":"青少年模式","action":"我知道了"}
 关闭青少年模式弹窗
