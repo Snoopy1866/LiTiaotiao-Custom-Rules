@@ -20,6 +20,7 @@
 - com.softin.copydata（手机克隆-换机助手）
 - com.teredy.audioeditor（手机音频剪辑）
 - com.wykay.musiccnpka（卡音）
+- com.xianglizi.filemanagertools（小熊文件工具箱）
 - com.yuxi.fakergps（模拟定位神器）
 - dahsix.afanb.gthqj（大师兄影视）
 - mianfeiting.myyue（免费听音乐）
