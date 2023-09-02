@@ -1,13 +1,4 @@
 function loadJSON(type) {
-    console.log(`
-    ███████╗██╗    ██╗██████╗ ███████╗ ██████╗ ██████╗ ██████╗ 
-    ██╔════╝██║    ██║╚════██╗╚════██║██╔════╝ ╚════██╗╚════██╗
-    █████╗  ██║ █╗ ██║ █████╔╝    ██╔╝███████╗  █████╔╝ █████╔╝
-    ██╔══╝  ██║███╗██║██╔═══╝    ██╔╝ ██╔═══██╗██╔═══╝  ╚═══██╗
-    ██║     ╚███╔███╔╝███████╗   ██║  ╚██████╔╝███████╗██████╔╝
-    ╚═╝      ╚══╝╚══╝ ╚══════╝   ╚═╝   ╚═════╝ ╚══════╝╚═════╝ 
-    Github:https://github.com/FW27623                                                           
-    `);
     var urls = {
         'basic': 'https://cdn.jsdelivr.net/gh/Snoopy1866/LiTiaotiao-Custom-Rules@latest/BasicRules.json',
         'all': 'https://cdn.jsdelivr.net/gh/Snoopy1866/LiTiaotiao-Custom-Rules@latest/AllRules.json'
@@ -46,7 +37,7 @@ function loadJSON(type) {
 function copyText() {
     var text = document.getElementById('json-text');
     text.select();
-    navigator.clipboard.writeText(text.value);
+    document.execCommand('copy');
 
     var message = document.getElementById('copy-message');
     message.textContent = '文本已成功复制到剪贴板中！';
