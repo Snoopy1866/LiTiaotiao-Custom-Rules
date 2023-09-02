@@ -30,6 +30,7 @@
 
 ![](./assets/优量汇%20SDK.jpg)
 
+- com.ddmh.livewallpaper（动态壁纸秀）
 - com.dewmobile.kuaiya（快牙）
 
 ### 快手联盟 Kuai Ad SDK
