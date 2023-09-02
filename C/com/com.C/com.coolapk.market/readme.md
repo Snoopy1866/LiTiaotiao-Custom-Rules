@@ -7,8 +7,10 @@
 {"popup_rules":
     [
         {"id":"=立即更新","action":"=取消"},
+
         {"id":"ad_time_view","action":"close_view"},
         {"id":"关闭广告","action":"不感兴趣"},
+        {"id":"不感兴趣&举报广告","action":"不感兴趣"},
         {"id":"coolapk_card_view","action":"close_view"}
     ]
 }
@@ -23,7 +25,9 @@
 ![](./assets/更新弹窗.jpg)
 
 ### {"id":"ad_time_view","action":"close_view"} - {"id":"coolapk_card_view","action":"close_view"}
-**联合规则**: 关闭评论区广告（⚡需要手动触发）
+**联合规则**: 关闭评论区广告
+
+⚡需要手动触发
 
 ![](./assets/评论区广告.jpg)
 
