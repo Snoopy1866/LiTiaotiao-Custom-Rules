@@ -2,53 +2,9 @@
 <html>
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" href="https://raw.githubusercontent.com/FW27623/LiTiaotiao-Custom-Rules/main/litiaotiao-logo.jpg" type="image/png">
-    <title>LiTiaotiao-Custom-Rules</title>
-    <style>
-        .container {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-        }
-        .button-container {
-            display: flex;
-            justify-content: center;
-        }
-        .button {
-            margin: 10px;
-            padding: 10px 20px;
-            border-radius: 5px;
-            border: none;
-            background-color: #4CAF50;
-            color: white;
-            font-size: 16px;
-            cursor: pointer;
-        }
-        .button:hover {
-            background-color: #3e8e41;
-        }
-        textarea {
-            margin: 10px;
-            padding: 10px;
-            border-radius: 5px;
-            border: 1px solid #ccc;
-            font-size: 16px;
-        }
-        @media (max-width: 1080px) {
-            textarea {
-                width: calc(100vw - 40px);
-                max-width: none;
-            }
-        }
-        .message {
-            color: #4CAF50;
-            font-size: 16px;
-        }
-        .highlight {
-            font-weight: bold;
-            color: red;
-        }
-    </style>
+    <link rel="icon" href="https://cdn.jsdelivr.net/gh/FW27623/LiTiaotiao-Custom-Rules@latest/litiaotiao-logo.jpg" type="image/png">
+    <title>李跳跳自定义规则</title>
+    <link rel="stylesheet" href="./css/styles.css">
 </head>
 <body onload="loadJSON('all')">
     <div class="container">
@@ -63,43 +19,10 @@
         <p class="message" id="copy-message"></p>
     </div>
 
-    <script>
-        function loadJSON(type) {
-            var urls = {
-                'basic': 'https://cdn.jsdelivr.net/gh/Snoopy1866/LiTiaotiao-Custom-Rules@latest/BasicRules.json',
-                'all': 'https://cdn.jsdelivr.net/gh/Snoopy1866/LiTiaotiao-Custom-Rules@latest/AllRules.json'
-            };
-            var url = urls[type];
-            
-            var ruleType = document.getElementById('rule-type');
-            if (type === 'basic') {
-                ruleType.innerHTML = '当前选择的是<span class="highlight">基础规则</span>';
-            } else if (type === 'all') {
-                ruleType.innerHTML = '当前选择的是<span class="highlight">全部规则</span>';
-            }
-            
-            fetch(url)
-                .then(response => response.text())
-                .then(data => {
-                    document.getElementById('json-text').value = data;
-                });
-        }
-
-        function copyText() {
-            var text = document.getElementById('json-text');
-            text.select();
-            document.execCommand('copy');
-            
-            var message = document.getElementById('copy-message');
-            message.textContent = '文本已成功复制到剪贴板中！';
-            
-            setTimeout(function() {
-                message.textContent = '';
-            }, 3000);
-        }
-    </script>
+    <script src="./js/script.js"></script>
     <footer>
-    <p align="center">点击查看<a href="https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules" target="_blank">Github</a>项目</p>
+    <p align="center"><b>点击查看<a href="https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules" target="_blank"> Github </a>项目
+        本页面由<a href="https://github.com/FW27623" target="_blank"> FW27623 </a>进行维护</b></p>
     </footer>
 </body>
 </html>
