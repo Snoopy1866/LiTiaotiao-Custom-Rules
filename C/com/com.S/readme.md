@@ -13,6 +13,7 @@
 - [com.sina.weibolite](./com.sina.weibolite/readme.md)（微博极速版）
 - [com.sing.client](./com.sing.client/readme.md)（5sing原创音乐）
 - [com.sinyee.babybus.recommendapp](./com.sinyee.babybus.recommendapp/readme.md)（宝宝巴士）
+- [com.sixrpg.opalyer](./com.sixrpg.opalyer/readme.md)（橙光阅读器）
 - [com.smile.gifmaker](./com.smile.gifmaker/readme.md)（快手）
 - [com.snda.lantern.wifilocating](./com.snda.lantern.wifilocating/readme.md)（WiFi万能钥匙极速版）
 - [com.snda.wifilocating](./com.snda.wifilocating/readme.md)（WiFi万能钥匙）

@@ -63,6 +63,9 @@
 		"114295028": "{\"popup_rules\":[{\"id\":\"updata_title\",\"action\":\"update_close\"}]}"
 	},
 	{
+		"2053958218": "{\"popup_rules\":[{\"id\":\"允许&推送通知\",\"action\":\"取消\"},{\"id\":\"dialog_card\",\"action\":\"dialog_close\"}]}"
+	},
+	{
 		"-895263099": "{\"popup_rules\":[{\"id\":\"更新提示\",\"action\":\"取消\"}]}"
 	},
 	{
@@ -82,6 +85,9 @@
 	},
 	{
 		"-1031558479": "{\"popup_rules\":[{\"id\":\"发现新版本\",\"action\":\"GLOBAL_ACTION_BACK\"},{\"id\":\"送你&新人购物券\",\"action\":\"GLOBAL_ACTION_BACK\"},]}"
+	},
+	{
+		"1219698816": "{\"popup_rules\":[{\"id\":\"青少年模式\",\"action\":\"pop_youngset_know_txt\"},{\"id\":\"newuser_fuli_img_intent\",\"action\":\"newuser_fuli_img_closed\"},{\"id\":\"tv_notice_content\",\"action\":\"tv_notice_content\"}]}"
 	},
 	{
 		"-557467920": "{\"popup_rules\":[{\"id\":\"开启消息通知\",\"action\":\"取消\"}]}"
@@ -111,7 +117,7 @@
 		"-1709882794": "{\"popup_rules\":[{\"id\":\"update_title\",\"action\":\"btn_close\"},{\"id\":\"bottom_center_close_button\",\"action\":\"bottom_center_close_button\"},{\"id\":\"订单已满&优惠换购\",\"action\":\"放弃机会\"},{\"id\":\"恭喜你获得以下权益\",\"action\":\"GLOBAL_ACTION_BACK\"},{\"id\":\"popContentImg\",\"action\":\"popCloseBtn\"}]}"
 	},
 	{
-		"1536737232": "{\"popup_rules\":[{\"id\":\"打开通知，及时收到互动消息\",\"action\":\"right_icon\"},{\"id\":\"选择通知类型\",\"action\":\"暂不开启\"},{\"id\":\"bottom_process_tv\",\"action\":\"close\"},{\"id\":\"使用您的位置信息\",\"action\":\"以后再说\"},{\"id\":\"tv_tips\",\"action\":\"iv_close_icon\"},{\"id\":\"不感兴趣&为何会看到此广告\",\"action\":\"不感兴趣\"},{\"id\":\"tv_tips\",\"action\":\"iv_close_icon\"},{\"id\":\"不感兴趣&屏蔽此博主\",\"action\":\"不感兴趣\"},{\"id\":\"left_img_ad_tag\",\"action\":\"close\"},{\"id\":\"关注你感兴趣的超话\",\"action\":\"iv_close\"},{\"id\":\"定位服务未开启\",\"action\":\"以后再说\"},{\"id\":\"点击签到\",\"action\":\"GLOBAL_ACTION_BACK\"},{\"id\":\"给我们评分\",\"action\":\"不了，谢谢\"},{\"id\":\"card_view\",\"action\":\"right_top_tag\"},{\"id\":\"不感兴趣&内容质量差\",\"action\":\"不感兴趣\"}]}"
+		"1536737232": "{\"popup_rules\":[{\"id\":\"打开通知，及时收到互动消息\",\"action\":\"right_icon\"},{\"id\":\"选择通知类型\",\"action\":\"暂不开启\"},{\"id\":\"bottom_process_tv\",\"action\":\"close\"},{\"id\":\"使用您的位置信息\",\"action\":\"以后再说\"},{\"id\":\"tv_tips\",\"action\":\"iv_close_icon\"},{\"id\":\"不感兴趣&为何会看到此广告\",\"action\":\"不感兴趣\"},{\"id\":\"tv_tips\",\"action\":\"iv_close_icon\"},{\"id\":\"不感兴趣&屏蔽此博主\",\"action\":\"不感兴趣\"},{\"id\":\"left_img_ad_tag\",\"action\":\"close\"},{\"id\":\"关注你感兴趣的超话\",\"action\":\"iv_close\"},{\"id\":\"定位服务未开启\",\"action\":\"以后再说\"},{\"id\":\"点击签到\",\"action\":\"GLOBAL_ACTION_BACK\"},{\"id\":\"给我们评分\",\"action\":\"不了，谢谢\"},{\"id\":\"card_view\",\"action\":\"right_top_tag\"},{\"id\":\"不感兴趣&内容质量差\",\"action\":\"不感兴趣\"},{\"id\":\"错过了&爆词&查看详情\",\"action\":\"mIvRight\"}]}"
 	},
 	{
 		"560468770": "{\"popup_rules\":[{\"id\":\"openAlertText\",\"action\":\"btn_close_update_setting\"},{\"id\":\"=关闭\",\"action\":\"=关闭\"}]}"
@@ -169,6 +175,12 @@
 	},
 	{
 		"1366626055": "{\"popup_rules\":[{\"id\":\"七猫新人红包\",\"action\":\"iv_close_bonus\"},{\"id\":\"tv_teen_dialog_title\",\"action\":\"young_dialog_close_img\"}]}"
+	},
+	{
+		"-1544055932": "{\"popup_rules\":[{\"id\":\"青少年守护模式\",\"action\":\"我知道了\"},{\"id\":\"head_img\",\"action\":\"close\"},{\"id\":\"tv_name\",\"action\":\"iv_del\"}]}"
+	},
+	{
+		"1907791813": "{\"popup_rules\":[{\"id\":\"button_open_continue_pay\",\"action\":\"close\"},{\"id\":\"新功能\",\"action\":\"btn_close\"}]}"
 	},
 	{
 		"-524269385": "{\"popup_rules\":[{\"id\":\"青少年模式\",\"action\":\"我知道了\"},{\"id\":\"widget_close_icon\",\"action\":\"widget_close_icon\"},{\"id\":\"关注Ta\",\"action\":\"GLOBAL_ACTION_BACK\"}]}"
@@ -231,7 +243,7 @@
 		"1511151769": "{\"popup_rules\":[{\"id\":\"获取消息通知\",\"action\":\"暂不开启\"}]}"
 	},
 	{
-		"-1491765371": "{\"popup_rules\":[{\"id\":\"开启青少年模式\",\"action\":\"知道了\"},{\"id\":\"ab7\",\"action\":\"d9y\"},{\"id\":\"e7x\",\"action\":\"ab2\"}]}"
+		"-1491765371": "{\"popup_rules\":[{\"id\":\"开启青少年模式\",\"action\":\"知道了\"}]}"
 	},
 	{
 		"1970409442": "{\"popup_rules\":[{\"id\":\"监护人同意\",\"action\":\"已满14岁\"}]}"
@@ -264,10 +276,16 @@
 		"-766051647": "{\"popup_rules\":[{\"id\":\"发现新版本\",\"action\":\"放弃更新\"}]}"
 	},
 	{
+		"-1527971724": "{\"popup_rules\":[{\"id\":\"iv_notification_tip_icon\",\"action\":\"cv_cancel_notification_tip\"},{\"id\":\"cl_top\",\"action\":\"bt_close\"}]}"
+	},
+	{
 		"992705457": "{\"popup_rules\":[{\"id\":\"青少年模式\",\"action\":\"知道了\"},{\"id\":\"开启消息通知\",\"action\":\"暂不开启\"},{\"id\":\"不要错过重要消息，试试个性化管理吧\",\"action\":\"bce\"}]}"
 	},
 	{
-		"1979515232": "{\"popup_rules\":[{\"id\":\"updateVersionTitle\",\"action\":\"md_dialog_cm_close_btn\"}]}"
+		"1979515232": "{\"popup_rules\":[{\"id\":\"updateVersionTitle\",\"action\":\"md_dialog_cm_close_btn\"},{\"id\":\"访问您的位置\",\"action\":\"取消\"}]}"
+	},
+	{
+		"-1869705199": "{\"popup_rules\":[{\"id\":\"删除所有广告\",\"action\":\"跳过\"},{\"id\":\"青少年模式\",\"action\":\"我知道了\"}],\"click_way_popup\":1}"
 	},
 	{
 		"-1902185409": "{\"popup_rules\":[{\"id\":\"首次成功发布沸点\",\"action\":\"iv_close\"}]}"
@@ -321,6 +339,9 @@
 		"-1065232334": "{\"popup_rules\":[{\"id\":\"iv_opera\",\"action\":\"iiv_close\"},{\"id\":\"mantine-r4-body\",\"action\":\"upload\"}]}"
 	},
 	{
+		"662377423": "{\"popup_rules\":[{\"id\":\"ll_book_recommend\",\"action\":\"gift_close\"},{\"id\":\"gift_container\",\"action\":\"gift_close\"},{\"id\":\"daily_container\",\"action\":\"daily_close\"}]}"
+	},
+	{
 		"1062801388": "{\"popup_rules\":[{\"id\":\"iv_bg\",\"action\":\"iv_close\"},{\"id\":\"iv_ad\",\"action\":\"tv_close_ad\"}]}"
 	},
 	{
@@ -340,6 +361,9 @@
 	},
 	{
 		"1429484426": "{\"popup_rules\":[{\"id\":\"青少年模式\",\"action\":\"我知道了\"},{\"id\":\"正在试听，完整播放需要开通VIP\",\"action\":\"GLOBAL_ACTION_BACK\"}]}"
+	},
+	{
+		"270694045": "{\"popup_rules\":[{\"id\":\"开启消息通知\",\"action\":\"GLOBAL_ACTION_BACK\"}]}"
 	},
 	{
 		"648308836": "{\"popup_rules\":[{\"id\":\"home_float_close\",\"action\":\"home_float_close\"},{\"id\":\"不再提醒\",\"action\":\"tv_never\"}]}"
@@ -475,6 +499,9 @@
 	},
 	{
 		"-1781124388": "{\"popup_rules\":[{\"id\":\"tv_notify_title\",\"action\":\"iv_close\"},{\"id\":\"签到&天&获得&车币\",\"action\":\"GLOBAL_ACTION_BACK\"},{\"id\":\"开启消息推送\",\"action\":\"iv_close\"}]}"
+	},
+	{
+		"1197124177": "{\"popup_rules\":[{\"id\":\"tm_ad_page_tips_text\",\"action\":\"tm_ad_page_tips_close\"}]}"
 	},
 	{
 		"1620159901": "{\"popup_rules\":[{\"id\":\"tv_chat_top_bar_notice_text\",\"action\":\"iv_top_bar_close_icon\"},{\"id\":\"iv_action_icon\",\"action\":\"iv_close\"},{\"id\":\"tv_submersible_recall_title\",\"action\":\"关闭\"}]}"
@@ -618,6 +645,9 @@
 		"-1731486278": "{\"popup_rules\":[{\"id\":\"iv_ad\",\"action\":\"close\"},{\"id\":\"邀您体验新版本\",\"action\":\"残忍拒绝\"},{\"id\":\"允许获取位置信息\",\"action\":\"取消\"},{\"id\":\"iv_notification_reminder_dialog\",\"action\":\"iv_notification_reminder_dialog_close\"},{\"id\":\"iv_switch\",\"action\":\"iv_skip\"},{\"id\":\"开启定位服务\",\"action\":\"暂时不了\"}]}"
 	},
 	{
+		"-103532384": "{\"popup_rules\":[{\"id\":\"允许&发送通知\",\"action\":\"以后再说\"}]}"
+	},
+	{
 		"-1357050264": "{\"popup_rules\":[{\"id\":\"定位服务&开启\",\"action\":\"关闭\"},{\"id\":\"活动图片\",\"action\":\"关闭\"}]}"
 	},
 	{
@@ -651,6 +681,9 @@
 		"515982662": "{\"popup_rules\":[{\"id\":\"开启定位权限\",\"action\":\"locate_iv_close\"},{\"id\":\"marquee\",\"action\":\"关闭\"},{\"id\":\"fortune_adv\",\"action\":\"关闭\"}]}"
 	},
 	{
+		"-245593387": "{\"popup_rules\":[{\"id\":\"skip_other_info_tv\",\"action\":\"skip_time_change_tv\"}],\"search_times_popup\":5,\"click_way_popup\":1}"
+	},
+	{
 		"1966418623": "{\"popup_rules\":[{\"id\":\"发现新版本\",\"action\":\"暂不升级\"}]}"
 	},
 	{
@@ -664,6 +697,9 @@
 	},
 	{
 		"1391684449": "{\"popup_rules\":[{\"id\":\"tvTip\",\"action\":\"iv_guanbi\"}]}"
+	},
+	{
+		"-103524794": "{\"popup_rules\":[{\"id\":\"立即升级\",\"action\":\"GLOBAL_ACTION_BACK\"},{\"id\":\"需要通知权限\",\"action\":\"取消\"},{\"id\":\"关闭按钮\",\"action\":\"关闭按钮\"}],\"times\":5}"
 	},
 	{
 		"-2002547408": "{\"popup_rules\":[{\"id\":\"新版本升级\",\"action\":\"下次提醒\"},{\"id\":\"青少年模式\",\"action\":\"我知道了\"},{\"id\":\"ads_image\",\"action\":\"feedback_close\"},{\"id\":\"选择理由，优化你的广告\",\"action\":\"诱导点击\"},{\"id\":\"ads_label\",\"action\":\"feedback_close\"}]}"
@@ -693,7 +729,7 @@
 		"-1895428968": "{\"popup_rules\":[{\"id\":\"=跳过\",\"action\":\"=跳过\"}]}"
 	},
 	{
-		"1085732649": "{\"popup_rules\":[{\"id\":\"开启通知\",\"action\":\"close_btn\"}]}"
+		"1085732649": "{\"popup_rules\":[{\"id\":\"开启通知\",\"action\":\"close_btn\"},{\"id\":\"查看活动详情\",\"action\":\"关闭\"},{\"id\":\"txt_streamAd_title\",\"action\":\"ad_feedback_dots\"},{\"id\":\"关闭广告\",\"action\":\"不感兴趣\"}]}"
 	},
 	{
 		"1744979357": "{\"popup_rules\":[{\"id\":\"rl_content\",\"action\":\"iv_vip_close\"},{\"id\":\"打开社区消息通知\",\"action\":\"iv_message_close\"}]}"
@@ -709,6 +745,9 @@
 	},
 	{
 		"-532693094": "{\"popup_rules\":[{\"id\":\"=更新\",\"action\":\"=取消\"}]}"
+	},
+	{
+		"1937929252": "{\"popup_rules\":[{\"id\":\"adv_mask_container\",\"action\":\"close_btn\"},{\"id\":\"operating_activity_entrance\",\"action\":\"operating_activity_close\"},{\"id\":\"开启消息通知\",\"action\":\"close\"},{\"id\":\"打开消息通知\",\"action\":\"close_im\"}]}"
 	},
 	{
 		"-1046965711": "{\"popup_rules\":[{\"id\":\"体验 Google Play Pass，免费试用 1 个月\",\"action\":\"以后再说\"}]}"
@@ -739,6 +778,9 @@
 	},
 	{
 		"1657185137": "{\"popup_rules\":[{\"id\":\"新版本\",\"action\":\"忽略\"}]}"
+	},
+	{
+		"-1534473421": "{\"popup_rules\":[{\"id\":\"clean_adv_image\",\"action\":\"iv_close\"},{\"id\":\"iv\",\"action\":\"iv_cancel\"}]}"
 	},
 	{
 		"-2092209424": "{\"popup_rules\":[{\"id\":\"青少年守护\",\"action\":\"已满14岁\"},{\"id\":\"开启消息推送通知\",\"action\":\"close_img\"}]}"
@@ -796,6 +838,9 @@
 	},
 	{
 		"1238325805": "{\"popup_rules\":[{\"id\":\"发现新版本\",\"action\":\"btn_dismiss\"},{\"id\":\"青少年模式\",\"action\":\"iv_close\"},{\"id\":\"iv_close_icon\",\"action\":\"iv_close_icon\"}]}"
+	},
+	{
+		"265439280": "{\"popup_rules\":[{\"id\":\"青少年守护\",\"action\":\"已满18周岁\"},{\"id\":\"打开通知\",\"action\":\"取消\"}]}"
 	},
 	{
 		"-1367717479": "{\"popup_rules\":[{\"id\":\"开启通知\",\"action\":\"close_tip_btn\"}]}"
@@ -859,6 +904,9 @@
 	},
 	{
 		"-1048697214": "{\"popup_rules\":[{\"id\":\"青少年模式\",\"action\":\"我知道了\"},{\"id\":\"viewClose\",\"action\":\"viewClose\"},{\"id\":\"fl_video\",\"action\":\"iv_highlight_close\"}]}"
+	},
+	{
+		"1358411530": "{\"popup_rules\":[{\"id\":\"青少年模式\",\"action\":\"我知道了\"},{\"id\":\"新人福利\",\"action\":\"close\"},{\"id\":\"打开推送提醒\",\"action\":\"关闭\"}]}"
 	},
 	{
 		"1309104121": "{\"popup_rules\":[{\"id\":\"立即升级\",\"action\":\"关闭\"}]}"
