@@ -6,15 +6,15 @@
 ```
 {"popup_rules":
     [
-        {"id":"mUpgradeDialogCancel","action":"mUpgradeTitle"}
+        {"id":"更新提示","action":"取消"}
     ]
 }
 ```
 详细说明：
-- [{"id":"mUpgradeDialogCancel","action":"mUpgradeTitle"}](#idmupgradedialogcancelactionmupgradetitle)
+- [{"id":"更新提示","action":"取消"}](#id更新提示action取消)
 
-### {"id":"mUpgradeDialogCancel","action":"mUpgradeTitle"}
-关闭更新弹窗
+### {"id":"更新提示","action":"取消"}
+去除更新弹窗
 
 ![](./assets/更新弹窗.jpg)
 
