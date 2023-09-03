@@ -1,5 +1,6 @@
 # com.C
 
+- [com.caing.news](./com.caing.news/readme.md)（财新）
 - [com.cctv.yangshipin.app.androidp](./com.cctv.yangshipin.app.androidp/readme.md)（央视频）
 - [com.cctv4g.cctvmobiletv](./com.cctv4g.cctvmobiletv/readme.md)（CCTV手机电视）
 - [com.cfitcxwl.kdyutbu](./com.cfitcxwl.kdyutbu/readme.md)（囧次元）
@@ -11,6 +12,7 @@
 - [com.cmcc.hebao](./com.cmcc.hebao/readme.md)（和包）
 - [com.cmri.universalapp](./com.cmri.universalapp/readme.md)（和家亲）
 - [com.cnspeedtest.globalspeed](./com.cnspeedtest.globalspeed/readme.md)（全球网测）
+- [com.comic.cartoon36](./com.comic.cartoon36/readme.md)（36漫画）
 - [com.coolapk.market](./com.coolapk.market/readme.md)（酷安）
 - [com.cssq.pandaplayet](./com.cssq.pandaplayet/readme.md)（熊猫短剧）
 - [com.ct.client](./com.ct.client/readme.md)（中国电信）

@@ -32,7 +32,9 @@
 
         {"id":"card_view","action":"right_top_tag"},
 
-        {"id":"不感兴趣&内容质量差","action":"不感兴趣"}
+        {"id":"不感兴趣&内容质量差","action":"不感兴趣"},
+
+        {"id":"错过了&爆词&查看详情","action":"mIvRight"}
     ]
 }
 ```
@@ -49,6 +51,7 @@
 - [{"id":"点击签到","action":"GLOBAL_ACTION_BACK"}](#id点击签到actionglobal_action_back)
 - [{"id":"给我们评分","action":"不了，谢谢"}](#id给我们评分action不了谢谢)
 - [{"id":"card_view","action":"right_top_tag"}](#idcard_viewactionright_top_tag)
+- [{"id":"错过了&爆词&查看详情","action":"mIvRight"}](#id错过了爆词查看详情actionmivright)
 
 ### {"id":"打开通知，及时收到互动消息","action":"right_icon"}
 关闭打开通知提示信息
@@ -121,5 +124,10 @@
 ⚡ 需要手动触发
 
 ![](./assets/推荐微博内容.jpg)
+
+### {"id":"错过了&爆词&查看详情","action":"mIvRight"}
+关闭错过爆词提示信息
+
+![](./assets/错过爆词提示信息.jpg)
 
 ## 增强规则
