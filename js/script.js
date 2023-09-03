@@ -1,10 +1,12 @@
 function loadJSON(type) {
     var urls = {
-        'basic': 'https://cdn.jsdelivr.net/gh/Snoopy1866/LiTiaotiao-Custom-Rules@latest/BasicRules.json',
-        'all': 'https://cdn.jsdelivr.net/gh/Snoopy1866/LiTiaotiao-Custom-Rules@latest/AllRules.json'
+        'basic': 'https://ghproxy.com/https://raw.githubusercontent.com/Snoopy1866/LiTiaotiao-Custom-Rules/main/BasicRules.json',
+        'all': 'https://ghproxy.com/https://raw.githubusercontent.com/Snoopy1866/LiTiaotiao-Custom-Rules/main/AllRules.json',
+        'basic_backup': 'https://cdn.jsdelivr.net/gh/Snoopy1866/LiTiaotiao-Custom-Rules/BasicRules.json',
+        'all_backup': 'https://cdn.jsdelivr.net/gh/Snoopy1866/LiTiaotiao-Custom-Rules/AllRules.json'
     };
     var url = urls[type];
-    var ruleName = type === 'basic' ? '基础规则' : '全部规则';
+    var ruleName = type === 'basic' ? '基础规则' : type === 'all' ? '全部规则' : type === 'basic_backup' ? '基础规则备份' : '全部规则备份';
 
     var ruleType = document.getElementById('rule-type');
     ruleType.innerHTML = `<b>当前选择的是<span class="highlight">${ruleName}</span></b>`;
@@ -31,6 +33,16 @@ function loadJSON(type) {
                 console.log(`缓存数据：${ruleName}，大小：${size}KB`);
                 document.getElementById('json-text').value = data;
             });
+    }
+
+if (type === 'basic' || type === 'all') {
+    var backupButton = document.createElement('button');
+    backupButton.innerHTML = type === 'basic' ? '基础规则（JsDelivr）' : '全部规则(JsDelivr))';
+    backupButton.className = 'backup'; 
+    backupButton.onclick = function() {
+        loadJSON(type + '_backup');
+    };
+    ruleType.appendChild(backupButton);
     }
 }
 

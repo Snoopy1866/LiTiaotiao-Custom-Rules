@@ -66,3 +66,20 @@ a {
     background-color: var(--secondary-color);
     color: var(--text-color);
 }
+button.backup {
+  margin-left: 10px;
+  background-color: #f2f2f2;
+  border: none;
+  color: #333;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  cursor: pointer;
+  border-radius: 3px;
+}
+
+button.backup:hover {
+  background-color: #e6e6e6;
+}
