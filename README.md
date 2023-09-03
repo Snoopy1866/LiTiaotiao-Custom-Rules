@@ -34,7 +34,7 @@
 
 # 如何使用
 
-1. 前往 [李跳跳在线规则页面](https://snoopy1866.github.io/LiTiaotiao-Custom-Rules/) 复制规则
+1. 前往 [李跳跳在线规则页面](https://snoopy1866.github.io/LiTiaotiao-Custom-Rules/) 复制规则（[备用链接](https://ossso.github.io/LiTiaotiao-Custom-Rules/)）
 2. 打开 “李跳跳”，点击 “更多”，点击右上角三个小点，点击 “导入规则”，长按输入框，选择 “粘贴”，点击“保存”。
 
 ⚠ 建议长按输入框，以调用系统自带的粘贴功能，请不要通过第三方 App （例如：输入法、微信等）作为中介进行复制，否则可能会出现规则被截断，粘贴不全导致格式错误的问题。
