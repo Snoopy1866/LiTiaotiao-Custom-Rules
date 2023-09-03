@@ -1,5 +1,7 @@
 # com.tencent.qqlive（腾讯视频）
 
+⚠ 该 App 界面控件 ID 经过混淆，对其适配极其有限。
+
 ## 基础规则
 
 快速复制:
@@ -16,12 +18,12 @@
 - [{"id":"以后再说","action":"以后再说"}](#id以后再说action以后再说)
 
 ### {"id":"有新版本","action":"暂不升级"}
-去除更新弹窗提示
+关闭更新弹窗提示
 
 ![](./assets/update_cancel.jpg)
 
 ### {"id":"以后再说","action":"以后再说"}
-去除 “开启推送通知” 弹窗
+关闭开启推送通知弹窗
 
 ![](./assets/notify_cancel.jpg)
 
