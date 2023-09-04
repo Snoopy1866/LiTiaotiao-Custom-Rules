@@ -37,7 +37,7 @@ function loadJSON(type) {
 
 if (type === 'basic' || type === 'all') {
     var backupButton = document.createElement('button');
-    backupButton.innerHTML = type === 'basic' ? '基础规则（JsDelivr）' : '全部规则(JsDelivr))';
+    backupButton.innerHTML = type === 'basic' ? '基础规则（JsDelivr）' : '全部规则(JsDelivr)';
     backupButton.className = 'backup'; 
     backupButton.onclick = function() {
         loadJSON(type + '_backup');
