@@ -6,7 +6,7 @@
 ```
 {"popup_rules":
     [
-        {"id":"打开通知功能","action":"取消"}
+        {"id":"打开通知功能","action":"取消"},
         {"id":"pic","action":"close"}
     ]
 }
