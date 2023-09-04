@@ -45,6 +45,7 @@
 - [{"id":"签到成功","action":"知道了"}](#id签到成功action知道了)
 - [{"id":"tv_notification_title","action":"iv_notification_tips_close"}](#idtv_notification_titleactioniv_notification_tips_close)
 - [{"id":"立即签到","action":"iv_close"}](#id立即签到actioniv_close)
+- [{"id":"hermes_ad_banner_recycler","action":"hermes_ad_banner_negative"} - {"id":"feedback_not_interested_text","action":"不感兴趣"}](#idhermes_ad_banner_recycleractionhermes_ad_banner_negative---idfeedback_not_interested_textaction不感兴趣)
 
 ### {"id":"开启超级保险箱","action":"close"}
 关闭 “开启超级保险箱” 弹窗
@@ -108,7 +109,7 @@
 ![](./assets/直播页面签到弹窗.jpg)
 
 ### {"id":"hermes_ad_banner_recycler","action":"hermes_ad_banner_negative"} - {"id":"feedback_not_interested_text","action":"不感兴趣"}
-关闭视频播放页banner广告
+**联合规则**：关闭视频播放页banner广告
 
 ![](./assets/视频播放页banner广告.jpg)
 
