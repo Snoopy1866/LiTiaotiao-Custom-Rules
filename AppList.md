@@ -43,14 +43,20 @@
   - [com.autonavi.minimap](./C/com/com.A/com.autonavi.minimap/readme.md)（高德地图）
 - #### com.B
   - [com.baidu.BaiduMap](./C/com/com.B/com.baidu.BaiduMap/readme.md)（百度地图）
+  - [com.baidu.baijia](./C/com/com.B/com.baidu.baijia/readme.md)（百家号）
+  - [com.baidu.baike](./C/com/com.B/com.baidu.baike/readme.md)（百度百科）
+  - [com.baidu.browser.apps](./C/com/com.B/com.baidu.browser.apps/readme.md)（百度浏览器）
+  - [com.baidu.doctor.doctoranswer](./C/com/com.B/com.baidu.doctor.doctoranswer/readme.md)（百度健康医生版）
   - [com.baidu.haokan](./C/com/com.B/com.baidu.haokan/readme.md)（好看视频）
   - [com.baidu.homework](./C/com/com.B/com.baidu.homework/readme.md)（作业帮）
+  - [com.baidu.iknow](./C/com/com.B/com.baidu.iknow/readme.md)（百度知道）
   - [com.baidu.netdisk](./C/com/com.B/com.baidu.netdisk/readme.md)（百度网盘）
   - [com.baidu.searchbox](./C/com/com.B/com.baidu.searchbox/readme.md)（百度）
   - [com.baidu.searchbox.senior](./C/com/com.B/com.baidu.searchbox.senior/readme.md)（百度关怀版）
   - [com.baidu.searchbox.tomas](./C/com/com.B/com.baidu.searchbox.tomas/readme.md)（百度大字版）
   - [com.baidu.tieba](./C/com/com.B/com.baidu.tieba/readme.md)（百度贴吧）
   - [com.baidu.wenku](./C/com/com.B/com.baidu.wenku/readme.md)（百度文库）
+  - [com.baidu.xin.aiqicha](./C/com/com.B/com.baidu.xin.aiqicha/readme.md)（爱企查）
   - [com.banban.kuxiu](./C/com/com.B/com.banban.kuxiu/readme.md)（酷秀LIVE）
   - [com.bestv.app](./C/com/com.B/com.bestv.app/readme.md)（百视TV）
   - [com.boc.bocgmsma](./C/com/com.B/com.boc.bocgmsma/readme.md)（对接会助手）
@@ -102,6 +108,7 @@
   - [com.f1player](./C/com/com.F/com.f1player/readme.md)（51虚拟机）
   - [com.facetech.konking](./C/com/com.F/com.facetech.konking/readme.md)（轻音社）
   - [com.fanli.android.apps](./C/com/com.F/com.fanli.android.apps/readme.md)（返利）
+  - [com.feicui.vdhelper](./C/com/com.F/com.feicui.vdhelper/readme.md)（翡翠视频）
   - [com.felink.foregroundpaper](./C/com/com.F/com.felink.foregroundpaper/readme.md)（全局透明壁纸）
   - [com.finace.market](./C/com/com.F/com.finace.market/readme.md)（有道财富）
   - [com.fq.wallpaper](./C/com/com.F/com.fq.wallpaper/readme.md)（飞火动态壁纸）
@@ -235,6 +242,7 @@
   - [com.sohu.sohuvideo](./C/com/com.S/com.sohu.sohuvideo/readme.md)（搜狐视频）
   - [com.ss.android.article.lite](./C/com/com.S/com.ss.android.article.lite/readme.md)（今日头条极速版）
   - [com.ss.android.article.news](./C/com/com.S/com.ss.android.article.news/readme.md)（今日头条）
+  - [com.ss.android.article.search](./C/com/com.S/com.ss.android.article.search/readme.md)（有柿）
   - [com.ss.android.article.video](./C/com/com.S/com.ss.android.article.video/readme.md)（西瓜视频）
   - [com.ss.android.auto](./C/com/com.S/com.ss.android.auto/readme.md)（懂车帝）
   - [com.ss.android.ugc.aweme](./C/com/com.S/com.ss.android.ugc.aweme/readme.md)（抖音）
@@ -254,6 +262,7 @@
   - [com.tencent.edu](./C/com/com.T/com.tencent.edu/readme.md)（腾讯课堂）
   - [com.tencent.karaoke](./C/com/com.T/com.tencent.karaoke/readme.md)（全民K歌）
   - [com.tencent.map](./C/com/com.T/com.tencent.map/readme.md)（腾讯地图）
+  - [com.tencent.mm](./C/com/com.T/com.tencent.mm/readme.md)（微信）
   - [com.tencent.mobileqq](./C/com/com.T/com.tencent.mobileqq/readme.md)（QQ）
   - [com.tencent.mtt](./C/com/com.T/com.tencent.mtt/readme.md)（QQ浏览器）
   - [com.tencent.news](./C/com/com.T/com.tencent.news/readme.md)（腾讯新闻）
@@ -300,6 +309,7 @@
   - [com.xs.fm.lite](./C/com/com.X/com.xs.fm.lite/readme.md)（番茄畅听音乐版）
   - [com.xueqiu.android](./C/com/com.X/com.xueqiu.android/readme.md)（雪球）
   - [com.xunlei.downloadprovider](./C/com/com.X/com.xunlei.downloadprovider/readme.md)（迅雷）
+  - [com.xunlei.tdlive](./C/com/com.X/com.xunlei.tdlive/readme.md)（迅雷直播）
   - [com.xunmeng.pinduoduo](./C/com/com.X/com.xunmeng.pinduoduo/readme.md)（拼多多）
   - [com.xunruifairy.wallpaper](./C/com/com.X/com.xunruifairy.wallpaper/readme.md)（壁纸精灵）
   - [com.xyhui](./C/com/com.X/com.xyhui/readme.md)（PU口袋校园）
@@ -348,6 +358,9 @@
   - [org.fungo.fungolive](./O/org.fungo.fungolive/readme.md)（天天电视直播）
   - [org.telegram.messenger.web](./O/org.telegram.messenger.web/readme.md)（Telegram）
   - [org.zwanoo.android.speedtest](./O/org.zwanoo.android.speedtest/readme.md)（Speedtest）
+
+### S
+  - [sshky.wjglq.rena](./S/sshky.wjglq.rena/readme.md)（jmcomic）
 
 ### T
   - [tv.danmaku.bili](./T/tv.danmaku.bili/readme.md)（哔哩哔哩）
