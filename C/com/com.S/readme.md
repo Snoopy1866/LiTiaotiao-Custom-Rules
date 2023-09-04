@@ -21,6 +21,7 @@
 - [com.sohu.sohuvideo](./com.sohu.sohuvideo/readme.md)（搜狐视频）
 - [com.ss.android.article.lite](./com.ss.android.article.lite/readme.md)（今日头条极速版）
 - [com.ss.android.article.news](./com.ss.android.article.news/readme.md)（今日头条）
+- [com.ss.android.article.search](./com.ss.android.article.search/readme.md)（有柿）
 - [com.ss.android.article.video](./com.ss.android.article.video/readme.md)（西瓜视频）
 - [com.ss.android.auto](./com.ss.android.auto/readme.md)（懂车帝）
 - [com.ss.android.ugc.aweme](./com.ss.android.ugc.aweme/readme.md)（抖音）

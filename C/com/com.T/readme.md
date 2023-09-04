@@ -12,6 +12,7 @@
 - [com.tencent.edu](./com.tencent.edu/readme.md)（腾讯课堂）
 - [com.tencent.karaoke](./com.tencent.karaoke/readme.md)（全民K歌）
 - [com.tencent.map](./com.tencent.map/readme.md)（腾讯地图）
+- [com.tencent.mm](./com.tencent.mm/readme.md)（微信）
 - [com.tencent.mobileqq](./com.tencent.mobileqq/readme.md)（QQ）
 - [com.tencent.mtt](./com.tencent.mtt/readme.md)（QQ浏览器）
 - [com.tencent.news](./com.tencent.news/readme.md)（腾讯新闻）

@@ -14,6 +14,7 @@
 - [com.xs.fm.lite](./com.xs.fm.lite/readme.md)（番茄畅听音乐版）
 - [com.xueqiu.android](./com.xueqiu.android/readme.md)（雪球）
 - [com.xunlei.downloadprovider](./com.xunlei.downloadprovider/readme.md)（迅雷）
+- [com.xunlei.tdlive](./com.xunlei.tdlive/readme.md)（迅雷直播）
 - [com.xunmeng.pinduoduo](./com.xunmeng.pinduoduo/readme.md)（拼多多）
 - [com.xunruifairy.wallpaper](./com.xunruifairy.wallpaper/readme.md)（壁纸精灵）
 - [com.xyhui](./com.xyhui/readme.md)（PU口袋校园）
