@@ -8,9 +8,9 @@
     [
         {"id":"=立即更新","action":"=取消"},
 
-        {"id":"ad_time_view","action":"close_view"},
-        {"id":"关闭广告","action":"不感兴趣"},
-        {"id":"不感兴趣&举报广告","action":"不感兴趣"},
+        {"id":"ad_time_view","action":"=关闭"},
+        {"id":"关闭广告","action":"=不感兴趣"},
+        {"id":"不感兴趣&举报广告","action":"=不感兴趣"},
         {"id":"coolapk_card_view","action":"close_view"}
     ]
 }
