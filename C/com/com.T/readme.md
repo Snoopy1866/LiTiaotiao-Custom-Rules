@@ -24,6 +24,7 @@
 - [com.tencent.transfer](./com.tencent.transfer/readme.md)（换机助手）
 - [com.tencent.weishi](./com.tencent.weishi/readme.md)（微视）
 - [com.tencent.wemeet.app](./com.tencent.wemeet.app/readme.md)（腾讯会议）
+- [com.tencent.wework](./com.tencent.wework/readme.md)（企业微信）
 - [com.tianyancha.skyeye](./com.tianyancha.skyeye/readme.md)（天眼查）
 - [com.tmall.wireless](./com.tmall.wireless/readme.md)（手机天猫）
 - [com.to8to.housekeeper](./com.to8to.housekeeper/readme.md)（土巴兔装修）
