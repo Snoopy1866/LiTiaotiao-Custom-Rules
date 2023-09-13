@@ -7,6 +7,7 @@
 - [com.daqo.wallpaper](./com.daqo.wallpaper/readme.md)（动漫壁纸大全）
 - [com.dmzj.manhua](./com.dmzj.manhua/readme.md)（动漫之家）
 - [com.dongqiudi.news](./com.dongqiudi.news/readme.md)（懂球帝）
+- [com.douban.frodo](./com.douban.frodo/readme.md)（豆瓣）
 - [com.doulan.juxinding](./com.doulan.juxinding/readme.md)（抖蓝直播）
 - [com.doupin.show](./com.doupin.show/readme.md)（来电秀）
 - [com.dragon.read](./com.dragon.read/readme.md)（番茄免费小说）

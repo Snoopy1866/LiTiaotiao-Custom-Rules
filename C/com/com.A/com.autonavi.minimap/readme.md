@@ -7,6 +7,7 @@
 {"popup_rules":
     [
         {"id":"立即升级","action":"iv_close"},
+        {"id":"版本升级","action":"取消"},
         {"id":"msgbox_popup_clear","action":"msgbox_popup_clear"}
     ]
 }
@@ -14,18 +15,23 @@
 
 详细说明：
 - [{"id":"立即升级","action":"iv_close"}](#id立即升级actioniv_close)
+- [{"id":"版本升级","action":"取消"}](#id版本升级action取消)
 - [{"id":"msgbox_popup_clear","action":"msgbox_popup_clear"}](#idmsgbox_popup_clearactionmsgbox_popup_clear)
 
 ### {"id":"立即升级","action":"iv_close"}
-去除更新弹窗
+关闭更新弹窗-1
 
-![](./assets/更新弹窗.jpg)
+![](./assets/更新弹窗-1.jpg)
 
+### {"id":"版本升级","action":"取消"}
+关闭更新弹窗-2
+
+![](./assets/更新弹窗-2.jpg)
 
 ### {"id":"msgbox_popup_clear","action":"msgbox_popup_clear"}
-去除首页上方横幅广告
+关闭首页上方横幅广告
 
-![](./assets/msgbox_popup_clear.jpg)
+![](./assets/首页上方横幅广告.jpg)
 
 
 ## 增强规则
