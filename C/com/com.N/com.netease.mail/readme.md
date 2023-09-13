@@ -6,7 +6,7 @@
 ```
 {"popup_rules":
     [
-        {"id":"发现新版本","action":"tv_ignore_this_version"}
+        {"id":"发现新版本","action":"tv_ignore_this_version"},
         {"id":"开启系统日历的访问权限","action":"取消"}
     ]
 }
