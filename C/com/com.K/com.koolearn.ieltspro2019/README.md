@@ -22,9 +22,13 @@
 
 关闭开屏广告
 
+![](./assets/开屏广告.png)
+
 ### {"id":"adImage","action":"adCloseImage"}
 
 关闭右下角悬浮窗
+
+![](./assets/右下悬浮窗.jpg)
 
 ## 增强规则
 
