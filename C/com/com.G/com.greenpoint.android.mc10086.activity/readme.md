@@ -11,7 +11,8 @@
         {"id":"开启推送通知","action":"取消"},
         {"id":"drag_img","action":"close_btn"},
         {"id":"图片跳转","action":"此图片未加标签"},
-        {"id":"ad_image","action":"close_btn"}
+        {"id":"ad_image","action":"close_btn"},
+        {"id":"img_advertlogo","action":"iv_close_top"}
     ]
 }
 ```
@@ -22,6 +23,7 @@
 - [{"id":"drag_img","action":"close_btn"}](#iddrag_imgactionclose_btn)
 - [{"id":"图片跳转","action":"此图片未加标签"}](#id图片跳转action此图片未加标签)
 - [{"id":"ad_image","action":"close_btn"}](#idad_imageactionclose_btn)
+- [{"id":"img_advertlogo","action":"iv_close_top"}](#idimg_advertlogoactioniv_close_top)
 
 ### {"id":"发现新版本","action":"以后再说"}
 关闭更新弹窗
@@ -52,5 +54,10 @@
 关闭广告弹窗
 
 ![](./assets/广告弹窗.jpg)
+
+### {"id":"img_advertlogo","action":"iv_close_top"}
+关闭广告弹窗
+
+![](./assets/广告弹窗2.png)
 
 ## 增强规则
