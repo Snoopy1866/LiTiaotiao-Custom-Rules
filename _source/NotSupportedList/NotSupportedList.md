@@ -21,6 +21,7 @@
 - com.teredy.audioeditor（手机音频剪辑）
 - com.wykay.musiccnpka（卡音）
 - com.xianglizi.filemanagertools（小熊文件工具箱）
+- com.xingluo.allcolor（大家来涂色）
 - com.yuxi.fakergps（模拟定位神器）
 - com.ywkj.qwk（趣网咖）
 - dahsix.afanb.gthqj（大师兄影视）
