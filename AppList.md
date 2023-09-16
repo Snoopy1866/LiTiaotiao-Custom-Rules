@@ -47,6 +47,7 @@
   - [com.baidu.baike](./C/com/com.B/com.baidu.baike/readme.md)（百度百科）
   - [com.baidu.browser.apps](./C/com/com.B/com.baidu.browser.apps/readme.md)（百度浏览器）
   - [com.baidu.doctor.doctoranswer](./C/com/com.B/com.baidu.doctor.doctoranswer/readme.md)（百度健康医生版）
+  - [com.baidu.doctorbox](./C/com/com.B/com.baidu.doctorbox/readme.md)（有医笔记）
   - [com.baidu.haokan](./C/com/com.B/com.baidu.haokan/readme.md)（好看视频）
   - [com.baidu.homework](./C/com/com.B/com.baidu.homework/readme.md)（作业帮）
   - [com.baidu.iknow](./C/com/com.B/com.baidu.iknow/readme.md)（百度知道）
@@ -54,9 +55,11 @@
   - [com.baidu.searchbox](./C/com/com.B/com.baidu.searchbox/readme.md)（百度）
   - [com.baidu.searchbox.senior](./C/com/com.B/com.baidu.searchbox.senior/readme.md)（百度关怀版）
   - [com.baidu.searchbox.tomas](./C/com/com.B/com.baidu.searchbox.tomas/readme.md)（百度大字版）
+  - [com.baidu.student](./C/com/com.B/com.baidu.student/readme.md)（不挂科）
   - [com.baidu.tieba](./C/com/com.B/com.baidu.tieba/readme.md)（百度贴吧）
   - [com.baidu.wenku](./C/com/com.B/com.baidu.wenku/readme.md)（百度文库）
   - [com.baidu.xin.aiqicha](./C/com/com.B/com.baidu.xin.aiqicha/readme.md)（爱企查）
+  - [com.baidu.ybb](./C/com/com.B/com.baidu.ybb/readme.md)（游帮帮加速器）
   - [com.banban.kuxiu](./C/com/com.B/com.banban.kuxiu/readme.md)（酷秀LIVE）
   - [com.bestv.app](./C/com/com.B/com.bestv.app/readme.md)（百视TV）
   - [com.boc.bocgmsma](./C/com/com.B/com.boc.bocgmsma/readme.md)（对接会助手）
@@ -155,6 +158,7 @@
   - [com.jym.mall](./C/com/com.J/com.jym.mall/readme.md)（交易猫）
 - #### com.K
   - [com.kmxs.reader](./C/com/com.K/com.kmxs.reader/readme.md)（七猫免费小说）
+  - [com.koolearn.ieltspro2019](./C/com/com.K/com.koolearn.ieltspro2019/readme.md)（新东方雅思Pro）
   - [com.kuaishou.nebula](./C/com/com.K/com.kuaishou.nebula/readme.md)（快手极速版）
   - [com.kugou.android](./C/com/com.K/com.kugou.android/readme.md)（酷狗音乐）
   - [com.kugou.android.child](./C/com/com.K/com.kugou.android.child/readme.md)（酷狗儿歌）
