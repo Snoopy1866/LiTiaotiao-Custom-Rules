@@ -117,7 +117,7 @@
 		"502255059": "{\"popup_rules\":[{\"id\":\"青少年模式\",\"action\":\"我知道了\"},{\"id\":\"开启消息通知\",\"action\":\"arg\"}]}"
 	},
 	{
-		"2091464343": "{\"popup_rules\":[{\"id\":\"发现新版本\",\"action\":\"以后再说\"},{\"id\":\"获取&剪切板\",\"action\":\"不允许\"},{\"id\":\"开启推送通知\",\"action\":\"取消\"},{\"id\":\"drag_img\",\"action\":\"close_btn\"},{\"id\":\"图片跳转\",\"action\":\"此图片未加标签\"},{\"id\":\"ad_image\",\"action\":\"close_btn\"}]}"
+		"2091464343": "{\"popup_rules\":[{\"id\":\"发现新版本\",\"action\":\"以后再说\"},{\"id\":\"获取&剪切板\",\"action\":\"不允许\"},{\"id\":\"开启推送通知\",\"action\":\"取消\"},{\"id\":\"drag_img\",\"action\":\"close_btn\"},{\"id\":\"图片跳转\",\"action\":\"此图片未加标签\"},{\"id\":\"ad_image\",\"action\":\"close_btn\"},{\"id\":\"img_advertlogo\",\"action\":\"iv_close_top\"}]}"
 	},
 	{
 		"991562021": "{\"popup_rules\":[{\"id\":\"青少年模式\",\"action\":\"我知道了\"}]}"
@@ -192,7 +192,7 @@
 		"1799462192": "{\"popup_rules\":[{\"id\":\"ad_title\",\"action\":\"ad_close_btn\"}]}"
 	},
 	{
-		"1366626055": "{\"popup_rules\":[{\"id\":\"tv_teen_dialog_title\",\"action\":\"young_dialog_close_img\"},{\"id\":\"七猫新人红包\",\"action\":\"iv_close_bonus\"},{\"id\":\"red_packet_img\",\"action\":\"close_red_packet\"},{\"id\":\"imageView\",\"action\":\"imageView_close\"}]}"
+		"1366626055": "{\"popup_rules\":[{\"id\":\"tv_teen_dialog_title\",\"action\":\"young_dialog_close_img\"},{\"id\":\"txt_push_open_title\",\"action\":\"btn_open_cancel\"},{\"id\":\"七猫新人红包\",\"action\":\"iv_close_bonus\"},{\"id\":\"red_packet_img\",\"action\":\"close_red_packet\"},{\"id\":\"imageView\",\"action\":\"imageView_close\"},{\"id\":\"read_view\",\"action\":\"close\"},{\"id\":\"ad_privacy_view\",\"action\":\"iv_ad_direct_close\"},{\"id\":\"ll_ad_bottom_remind_group\",\"action\":\"ad_direct_close\"}]}"
 	},
 	{
 		"-1544055932": "{\"popup_rules\":[{\"id\":\"青少年守护模式\",\"action\":\"我知道了\"},{\"id\":\"head_img\",\"action\":\"close\"},{\"id\":\"tv_name\",\"action\":\"iv_del\"}]}"
@@ -298,6 +298,9 @@
 	},
 	{
 		"-1527971724": "{\"popup_rules\":[{\"id\":\"iv_notification_tip_icon\",\"action\":\"cv_cancel_notification_tip\"},{\"id\":\"cl_top\",\"action\":\"bt_close\"}]}"
+	},
+	{
+		"1600359417": "{\"popup_rules\":[{\"id\":\"新版本\",\"action\":\"稍后更新\"}]}"
 	},
 	{
 		"992705457": "{\"popup_rules\":[{\"id\":\"青少年模式\",\"action\":\"知道了\"},{\"id\":\"开启消息通知\",\"action\":\"暂不开启\"},{\"id\":\"不要错过重要消息，试试个性化管理吧\",\"action\":\"bce\"}]}"
@@ -492,6 +495,9 @@
 		"-945730221": "{\"popup_rules\":[{\"id\":\"open_notification_button\",\"action\":\"close_image_view\"},{\"id\":\"location_tip_tv\",\"action\":\"location_tip_close\"}]}"
 	},
 	{
+		"-1657078324": "{\"popup_rules\":[{\"id\":\"新版本\",\"action\":\"tv_update_after\"}]}"
+	},
+	{
 		"1791072826": "{\"popup_rules\":[{\"id\":\"百度网盘更新啦\",\"action\":\"下次再说\"},{\"id\":\"开启消息通知\",\"action\":\"dialog_cancel\"},{\"id\":\"banner_item_close\",\"action\":\"banner_item_close\"},{\"id\":\"close\",\"action\":\"close\"},{\"id\":\"close_clean_guide\",\"action\":\"close_clean_guide\"},{\"id\":\"close_notification_tip\",\"action\":\"close_notification_tip\"},{\"id\":\"iv_yike_close\",\"action\":\"iv_yike_close\"},{\"id\":\"yike_guide_exit\",\"action\":\"yike_guide_exit\"},{\"id\":\"cl_content\",\"action\":\"iv_close\"}]}"
 	},
 	{
@@ -648,6 +654,9 @@
 		"321803898": "{\"popup_rules\":[{\"id\":\"青少年模式\",\"action\":\"我知道了\"}]}"
 	},
 	{
+		"-1930986565": "{\"popup_rules\":[{\"id\":\"新版本\",\"action\":\"dialog_pic_close\"}]}"
+	},
+	{
 		"1185278458": "{\"popup_rules\":[{\"id\":\"青少年模式\",\"action\":\"我知道了\"},{\"id\":\"sdv_right_bottom_pic\",\"action\":\"iv_right_bottom_close\"},{\"id\":\"sdv_big_pic\",\"action\":\"iv_big_close\"}]}"
 	},
 	{
@@ -747,7 +756,7 @@
 		"1391684449": "{\"popup_rules\":[{\"id\":\"tvTip\",\"action\":\"iv_guanbi\"}]}"
 	},
 	{
-		"-103524794": "{\"popup_rules\":[{\"id\":\"立即升级\",\"action\":\"GLOBAL_ACTION_BACK\"},{\"id\":\"需要通知权限\",\"action\":\"取消\"},{\"id\":\"关闭按钮\",\"action\":\"关闭按钮\"}],\"times\":5}"
+		"-103524794": "{\"popup_rules\":[{\"id\":\"立即升级\",\"action\":\"GLOBAL_ACTION_BACK\"},{\"id\":\"需要通知权限\",\"action\":\"取消\"},{\"id\":\"关闭按钮\",\"action\":\"=关闭按钮\"}],\"times\":5}"
 	},
 	{
 		"-2002547408": "{\"popup_rules\":[{\"id\":\"新版本升级\",\"action\":\"下次提醒\"},{\"id\":\"青少年模式\",\"action\":\"我知道了\"},{\"id\":\"ads_image\",\"action\":\"feedback_close\"},{\"id\":\"选择理由，优化你的广告\",\"action\":\"诱导点击\"},{\"id\":\"ads_label\",\"action\":\"feedback_close\"}]}"
