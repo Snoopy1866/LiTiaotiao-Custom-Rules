@@ -35,9 +35,9 @@
 
 # 如何使用
 
-### !!!由于李跳跳自定义规则的局限性，很多弹窗无法编写规则关闭，建议配合 [gkd](https://github.com/gkd-kit/gkd) 使用，本项目更新频率将会降低，重心转移至 [gkd 订阅规则](https://github.com/gkd-kit/subscription) 的适配。
+### !!!由于李跳跳自定义规则的局限性，很多弹窗无法编写规则关闭，本项目不再更新应用内广告和弹窗规则。如果你有关闭开屏广告以外的需求，建议切换至 [gkd](https://github.com/gkd-kit/gkd) 使用，[gkd 默认订阅](https://github.com/gkd-kit/subscription) 后续将持续更新。
 
-### 你仍然可以在本项目中提交 Issue，不过新的适配需求大概率会以 gkd 规则进行适配。
+### 你仍然可以在本项目中提交 Issue，不过新的适配需求会以 gkd 规则进行适配。
 
 1. 前往 [李跳跳在线规则页面](https://snoopy1866.github.io/LiTiaotiao-Custom-Rules/) 复制规则（[备用链接](https://ossso.github.io/LiTiaotiao-Custom-Rules/)）
 2. 打开 “李跳跳”，点击 “更多”，点击右上角三个小点，点击 “导入规则”，长按输入框，选择 “粘贴”，点击“保存”。
