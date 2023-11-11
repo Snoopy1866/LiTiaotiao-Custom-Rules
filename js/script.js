@@ -1,7 +1,7 @@
 function loadJSON(type) {
     var urls = {
-        'basic': 'https://ghproxy.com/https://raw.githubusercontent.com/Snoopy1866/LiTiaotiao-Custom-Rules/main/BasicRules.json',
-        'all': 'https://ghproxy.com/https://raw.githubusercontent.com/Snoopy1866/LiTiaotiao-Custom-Rules/main/AllRules.json',
+        'basic': 'https://gh-proxy.com/https://raw.githubusercontent.com/Snoopy1866/LiTiaotiao-Custom-Rules/main/BasicRules.json',
+        'all': 'https://gh-proxy.com/https://raw.githubusercontent.com/Snoopy1866/LiTiaotiao-Custom-Rules/main/AllRules.json',
         'basic_backup': 'https://cdn.jsdelivr.net/gh/Snoopy1866/LiTiaotiao-Custom-Rules/BasicRules.json',
         'all_backup': 'https://cdn.jsdelivr.net/gh/Snoopy1866/LiTiaotiao-Custom-Rules/AllRules.json'
     };
@@ -37,7 +37,7 @@ function loadJSON(type) {
 
 if (type === 'basic' || type === 'all') {
     var backupButton = document.createElement('button');
-    backupButton.innerHTML = type === 'basic' ? '基础规则（JsDelivr）' : '全部规则(JsDelivr)';
+    backupButton.innerHTML = type === 'basic' ? '基础规则（JsDelivr）' : '全部规则（JsDelivr）';
     backupButton.className = 'backup'; 
     backupButton.onclick = function() {
         loadJSON(type + '_backup');
